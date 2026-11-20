@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<script id="vibras-datos-github">/* Las noticias se leen directo de GitHub para no gastar créditos de Netlify */
+(function(){var R='remates-sae-al-dia',B='https://raw.githubusercontent.com/haroldco45/'+R+'/main/',f=window.fetch.bind(window);
+window.fetch=function(i,o){try{var u=new URL(typeof i==='string'?i:(i&&i.url)||String(i),location.href),m=(o&&o.method)||(i&&i.method)||'GET';
+if(u.origin===location.origin&&m.toUpperCase()==='GET'&&/\.json$/i.test(u.pathname)&&!/manifest\.json$/i.test(u.pathname)){
+var p=u.pathname.replace(/^\/+/,'');if(/github\.io$/.test(location.hostname))p=p.replace(new RegExp('^'+R+'/'),'');
+return f(B+p+u.search,{cache:'no-store',signal:o&&o.signal}).then(function(r){if(!r.ok)throw 0;return r}).catch(function(){return f(i,o)})}}catch(e){}return f(i,o)}})();</script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Remates SAE al Día — compre bien y no se deje engañar</title>
+<meta name="description" content="Guía ciudadana sobre los inmuebles de la SAE con crédito del FNA hasta el 90 %: qué es cierto, cuánto necesita de verdad, paso a paso para comprar y cómo detectar estafas. Vibras Positivas HM.">
+<meta name="theme-color" content="#0b1020">
+<link rel="manifest" href="manifest.webmanifest">
+<!-- Vista previa al compartir el enlace (foto real) -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Vibras Positivas HM">
+<meta property="og:title" content="Casas de la SAE con crédito del 90 %: lo que es cierto y cómo no dejarse estafar">
+<meta property="og:description" content="Simulador de cuota inicial, paso a paso para comprar, las 6 estafas con el nombre de la SAE y noticias que se actualizan cada 30 minutos.">
+<meta property="og:url" content="https://remates-sae-al-dia.netlify.app/">
+<meta property="og:image" content="https://remates-sae-al-dia.netlify.app/og.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:locale" content="es_CO">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://remates-sae-al-dia.netlify.app/og.jpg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#0b1020;--card:#131a33;--card2:#18213f;--line:#2a3766;--tx:#f2f5ff;--mut:#9aa6cf;--oro:#ffc83d;--azul:#4f8cff;--verde:#2ee59d;--rojo:#ff4d5e;--naranja:#ff9a3d}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{font-family:Inter,system-ui,sans-serif;background:var(--bg);color:var(--tx);line-height:1.5;overflow-x:hidden}
+a{color:var(--oro)}
+.wrap{max-width:1100px;margin:auto;padding:0 18px}
+.top{position:sticky;top:0;z-index:20;background:rgba(11,16,32,.86);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+.top .wrap{display:flex;align-items:center;gap:10px;height:58px}
+.marca{font-family:'Archivo Black';font-size:17px;flex:1}
+.marca span{color:var(--oro)}
+.btn{border-radius:999px;padding:9px 16px;font:600 14px Inter;cursor:pointer;background:var(--card);color:var(--tx);border:1px solid var(--line);transition:.2s;text-decoration:none;display:inline-block}
+.btn:hover{border-color:var(--oro)}
+.btn.prim{background:linear-gradient(135deg,var(--oro),var(--naranja));color:#1d1300;border:0}
+.btn.girando{animation:pulso 1s infinite}
+@keyframes pulso{50%{opacity:.5}}
+/* Portada */
+.hero{position:relative;min-height:84vh;display:flex;align-items:flex-end;overflow:hidden;background:radial-gradient(circle at 70% 20%,#23336e,#0b1020 60%)}
+.hero .foto{position:absolute;inset:0;background-size:cover;background-position:center;animation:kb 24s ease-in-out infinite alternate;transition:opacity 1.2s}
+@keyframes kb{from{transform:scale(1.05)}to{transform:scale(1.22) translate(-2%,-2%)}}
+.hero:after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(11,16,32,.25),rgba(11,16,32,.72) 45%,var(--bg) 96%)}
+.hero .wrap{position:relative;z-index:2;padding-bottom:40px;width:100%}
+.vivo{display:inline-flex;align-items:center;gap:8px;background:rgba(255,77,94,.15);border:1px solid var(--rojo);color:#ffd3d7;padding:5px 12px;border-radius:999px;font-weight:600;font-size:13px}
+.vivo i{width:9px;height:9px;border-radius:50%;background:var(--rojo);animation:latido 1.4s infinite}
+@keyframes latido{0%{box-shadow:0 0 0 0 rgba(255,77,94,.7)}70%{box-shadow:0 0 0 12px rgba(255,77,94,0)}}
+h1{font-family:'Archivo Black';font-size:clamp(36px,7.5vw,74px);line-height:1;margin:14px 0 12px}
+h1 em{font-style:normal;background:linear-gradient(90deg,var(--oro),var(--naranja),var(--rojo));-webkit-background-clip:text;background-clip:text;color:transparent;background-size:200%;animation:brillo 6s linear infinite}
+@keyframes brillo{to{background-position:200%}}
+.hero p{max-width:680px;color:#dbe3ff;font-size:17px}
+.cifras{display:flex;gap:12px;margin-top:22px;flex-wrap:wrap}
+.cifra{background:rgba(19,26,51,.85);border:1px solid var(--line);border-radius:16px;padding:12px 16px;min-width:130px}
+.cifra b{font-family:'Archivo Black';font-size:28px;display:block;color:var(--oro)}
+.cifra small{color:var(--mut)}
+.cinta{background:var(--oro);color:#1d1300;overflow:hidden;white-space:nowrap;font-weight:600;font-size:14px}
+.cinta div{display:inline-block;padding:10px 0;animation:corre 70s linear infinite}
+.cinta span{margin-right:48px}
+@keyframes corre{to{transform:translateX(-50%)}}
+.alerta{background:linear-gradient(90deg,#3a0d16,#20123a);border-bottom:1px solid var(--rojo);color:#ffdfe3;font-weight:600;text-align:center;padding:12px 18px;font-size:15px}
+.alerta b{color:#fff}
+section{padding:54px 0}
+h2{font-family:'Archivo Black';font-size:clamp(24px,4.5vw,38px);margin-bottom:6px;line-height:1.1}
+.sub{color:var(--mut);margin-bottom:24px;max-width:760px}
+.nav{display:flex;gap:8px;overflow-x:auto;padding:12px 0;scrollbar-width:none}
+.nav a{white-space:nowrap;text-decoration:none;color:var(--mut);border:1px solid var(--line);border-radius:999px;padding:6px 12px;font-size:13px;font-weight:600}
+.nav a:hover{color:var(--oro);border-color:var(--oro)}
+/* Verdad o mito */
+.vm{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px}
+.mito{background:linear-gradient(160deg,var(--card2),var(--card));border:1px solid var(--line);border-radius:20px;padding:18px;opacity:0;transform:translateY(20px);transition:.6s;position:relative;overflow:hidden}
+.mito.ver{opacity:1;transform:none}
+.mito:before{content:"";position:absolute;inset:0 0 auto 0;height:5px}
+.mito.si:before{background:var(--verde)}.mito.no:before{background:var(--rojo)}.mito.ojo:before{background:var(--oro)}
+.mito h3{font-size:18px;margin-bottom:10px}
+.res{display:inline-block;font-weight:800;font-size:12px;letter-spacing:1px;text-transform:uppercase;border-radius:999px;padding:4px 10px;margin-bottom:10px}
+.si .res{background:var(--verde);color:#032016}.no .res{background:var(--rojo);color:#fff}.ojo .res{background:var(--oro);color:#1d1300}
+.mito p{color:#d6ddfa;font-size:14px}
+/* Simulador */
+.sim{background:linear-gradient(135deg,#17224a,#0f1530);border:1px solid var(--oro);border-radius:24px;padding:22px;display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:22px}
+.campo{margin-bottom:16px}
+.campo label{display:flex;justify-content:space-between;font-weight:600;font-size:14px;margin-bottom:6px}
+.campo label b{color:var(--oro)}
+.campo input[type=number]{width:100%;background:#0b1020;border:1px solid var(--line);color:var(--tx);border-radius:12px;padding:11px 12px;font:16px Inter}
+.campo input[type=range]{width:100%;accent-color:var(--oro)}
+.resul{display:grid;grid-template-columns:1fr 1fr;gap:12px;align-content:start}
+.caja{background:#0b1020;border:1px solid var(--line);border-radius:16px;padding:14px}
+.caja.grande{grid-column:1/-1;border-color:var(--oro)}
+.caja small{color:var(--mut);display:block}
+.caja b{font-family:'Archivo Black';font-size:clamp(20px,4vw,28px);color:var(--tx)}
+.caja.grande b{color:var(--oro);font-size:clamp(26px,5vw,36px)}
+.nota-s{grid-column:1/-1;color:var(--mut);font-size:13px}
+/* Pasos */
+.guia{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:14px;counter-reset:g}
+.paso{background:linear-gradient(160deg,#1a2550,#111834);border:1px solid var(--line);border-radius:18px;padding:18px;counter-increment:g;opacity:0;transform:translateY(16px);transition:.5s}
+.paso.ver{opacity:1;transform:none}
+.paso:before{content:counter(g);font-family:'Archivo Black';font-size:34px;color:var(--oro);display:block;line-height:1;margin-bottom:6px}
+.paso h3{font-size:17px;margin-bottom:6px}
+.paso p{color:#d6ddfa;font-size:14px}
+/* Estafas */
+.est{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px}
+.estafa{border-radius:18px;padding:18px;background:linear-gradient(160deg,#2a1020,#151a33);border:1px solid #5a2236;opacity:0;transform:scale(.96);transition:.5s}
+.estafa.ver{opacity:1;transform:none}
+.estafa h3{font-size:17px;color:#ffb3bd;margin-bottom:6px}
+.estafa p{color:#e6dcef;font-size:14px}
+.senales{margin-top:22px;background:var(--card);border:1px solid var(--rojo);border-radius:20px;padding:20px}
+.senales h3{font-family:'Archivo Black';font-size:20px;margin-bottom:10px;color:#ffb3bd}
+.senales li{margin:8px 0 0 20px;color:#e6e9fb}
+.regla{margin-top:16px;background:var(--rojo);color:#fff;border-radius:16px;padding:16px 18px;font-weight:800;font-size:clamp(16px,3vw,20px)}
+/* Canales */
+.can{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px}
+.canal{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:16px;text-decoration:none;color:var(--tx);transition:.25s;display:block}
+.canal:hover{border-color:var(--verde);transform:translateY(-3px)}
+.canal h3{font-size:16px;color:var(--verde);margin-bottom:4px}
+.canal p{font-size:14px;color:#d6ddfa;word-break:break-word}
+/* Línea */
+.linea{position:relative;padding-left:28px}
+.linea:before{content:"";position:absolute;left:8px;top:6px;bottom:6px;width:3px;background:linear-gradient(var(--oro),var(--naranja),var(--rojo));border-radius:3px}
+.hito{position:relative;margin-bottom:18px;background:var(--card);border:1px solid var(--line);border-radius:16px;padding:14px 16px;opacity:0;transform:translateX(-14px);transition:.5s}
+.hito.ver{opacity:1;transform:none}
+.hito:before{content:"";position:absolute;left:-26px;top:18px;width:13px;height:13px;border-radius:50%;background:var(--bg);border:3px solid var(--oro)}
+.hito.pend:before{border-color:var(--rojo);animation:latido 1.6s infinite}
+.hito b{font-family:'Archivo Black';color:var(--oro);font-size:15px}
+.hito.pend b{color:var(--rojo)}
+/* Noticias */
+.hoy{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px}
+.nota{background:var(--card);border:1px solid var(--line);border-radius:18px;overflow:hidden;text-decoration:none;color:var(--tx);display:flex;flex-direction:column;transition:.25s;opacity:0;transform:translateY(16px);animation:entra .5s forwards}
+.nota:hover{transform:translateY(-4px);border-color:var(--oro)}
+@keyframes entra{to{opacity:1;transform:none}}
+.nota .img{height:150px;background-size:cover;background-position:center;background-color:#1a2550}
+.nota .img.sin{background:linear-gradient(135deg,#23336e,#131a33);display:flex;align-items:flex-end;padding:12px;font-family:'Archivo Black';font-size:20px;color:var(--oro)}
+.nota .cu{padding:14px}
+.nota h3{font-size:16px;line-height:1.3;margin-bottom:6px}
+.meta{font-size:12px;color:var(--mut)}
+.etq{display:inline-block;font-size:11px;font-weight:800;color:#1d1300;background:var(--oro);border-radius:999px;padding:2px 8px;margin-bottom:10px}
+.buscar{display:flex;gap:10px;margin-bottom:16px;flex-wrap:wrap}
+.buscar input{flex:1;min-width:200px;background:var(--card);border:1px solid var(--line);color:var(--tx);border-radius:999px;padding:12px 18px;font:15px Inter}
+.chips{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:18px}
+.chip{background:transparent;border:1px solid var(--line);color:var(--mut);border-radius:999px;padding:6px 12px;font:600 13px Inter;cursor:pointer}
+.chip.on{background:var(--oro);color:#1d1300;border-color:var(--oro)}
+.vacio{color:var(--mut);background:var(--card);border:1px dashed var(--line);border-radius:16px;padding:18px}
+/* Petición */
+.pet{background:linear-gradient(135deg,#1b2654,#2a1530);border:1px solid var(--oro);border-radius:24px;padding:24px}
+.campos{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:10px;margin:16px 0}
+.campos input{background:#0b1020;border:1px solid var(--line);color:var(--tx);border-radius:12px;padding:11px 12px;font:15px Inter}
+textarea{width:100%;min-height:300px;background:#0b1020;border:1px solid var(--line);color:var(--tx);border-radius:14px;padding:14px;font:14px/1.5 Inter}
+.dest{font-size:13px;color:var(--mut);margin:10px 0;word-break:break-word}
+.acc{display:flex;gap:10px;flex-wrap:wrap;margin-top:12px}
+.fuentes li{margin:8px 0 0 18px}
+footer{border-top:1px solid var(--line);padding:30px 0 60px;color:var(--mut);font-size:14px}
+footer p{margin-bottom:6px}
+.aviso{position:fixed;left:50%;bottom:20px;transform:translateX(-50%) translateY(120px);background:var(--oro);color:#1d1300;font-weight:700;padding:12px 18px;border-radius:999px;transition:.3s;z-index:50}
+.aviso.ver{transform:translateX(-50%)}
+</style>
+</head>
+<body>
+<header class="top"><div class="wrap">
+  <div class="marca">Remates SAE <span>al Día</span></div>
+  <button class="btn" id="idioma">EN</button>
+  <button class="btn prim" id="actualizar" data-t="actualizar">Actualizar</button>
+</div></header>
+
+<div class="hero">
+  <div class="foto" id="heroFoto"></div>
+  <div class="wrap">
+    <span class="vivo"><i></i><span data-t="vivo">En vivo · se actualiza cada 30 min</span></span>
+    <h1><span data-t="h1a">Casas de la SAE con el 90 %:</span><br><em data-t="h1b">compre bien, no se deje engañar.</em></h1>
+    <p id="intro"></p>
+    <div class="cifras">
+      <div class="cifra"><b>90 %</b><small data-t="c90">máximo que presta el FNA</small></div>
+      <div class="cifra"><b>$0</b><small data-t="c0">cuesta cualquier trámite ante la SAE</small></div>
+      <div class="cifra"><b id="nHoy">0</b><small data-t="cHoy">noticias de hoy</small></div>
+      <div class="cifra"><b id="hora">--:--</b><small data-t="cHora">última revisión (hora Colombia)</small></div>
+    </div>
+  </div>
+</div>
+<div class="cinta"><div id="cinta"></div></div>
+<div class="alerta" data-h="alerta"><b>Regla de oro:</b> la SAE no vende por WhatsApp ni recibe plata en cuentas de personas. Si se la piden, es estafa.</div>
+
+<main class="wrap">
+  <nav class="nav">
+    <a href="#hoy" data-t="nHoy">Hoy</a><a href="#verdad" data-t="nVer">¿Es verdad?</a><a href="#simulador" data-t="nSim">Simulador</a><a href="#pasos" data-t="nPas">Paso a paso</a><a href="#estafas" data-t="nEst">Estafas</a><a href="#canales" data-t="nCan">Canales oficiales</a><a href="#linea" data-t="nLin">Línea de tiempo</a><a href="#vivoS" data-t="nViv">En vivo</a><a href="#peticion" data-t="nPet">Derecho de petición</a>
+  </nav>
+
+  <section id="hoy">
+    <h2 data-t="hoyT">Hoy</h2>
+    <p class="sub" data-t="hoyS">Lo último sobre los inmuebles de la SAE, el crédito del FNA y las alertas de estafa, de las últimas 24 horas.</p>
+    <div class="hoy" id="hoyGrid"></div>
+  </section>
+
+  <section id="verdad">
+    <h2 data-t="verT">¿Es verdad lo que dicen en redes?</h2>
+    <p class="sub" data-t="verS">Lo que circula, revisado con fuentes. Verde: cierto. Amarillo: cierto, pero con letra menuda. Rojo: falso.</p>
+    <div class="vm" id="vmGrid"></div>
+  </section>
+
+  <section id="simulador">
+    <h2 data-t="simT">¿Cuánto necesito de verdad?</h2>
+    <p class="sub" data-t="simS">Haga cuentas antes de ilusionarse. Es un cálculo de referencia; el valor real lo da el FNA después del estudio de crédito.</p>
+    <div class="sim">
+      <div>
+        <div class="campo"><label><span data-t="sPrecio">Precio del inmueble</span><b id="vPrecio"></b></label><input type="number" id="precio" value="56228711" min="1000000" step="100000"></div>
+        <div class="campo"><label><span data-t="sPorc">Porcentaje que financia el FNA</span><b id="vPorc"></b></label><input type="range" id="porc" min="0" max="90" value="90"></div>
+        <div class="campo"><label><span data-t="sTasa">Tasa efectiva anual</span><b id="vTasa"></b></label><input type="range" id="tasa" min="5" max="16" step="0.1" value="8.5"></div>
+        <div class="campo"><label><span data-t="sPlazo">Plazo</span><b id="vPlazo"></b></label><input type="range" id="plazo" min="5" max="30" value="20"></div>
+      </div>
+      <div class="resul">
+        <div class="caja grande"><small data-t="rCuota">Cuota mensual aproximada</small><b id="rCuota"></b></div>
+        <div class="caja"><small data-t="rInicial">Cuota inicial</small><b id="rInicial"></b></div>
+        <div class="caja"><small data-t="rCredito">Crédito</small><b id="rCredito"></b></div>
+        <div class="caja"><small data-t="rIngreso">Ingreso familiar sugerido</small><b id="rIngreso"></b></div>
+        <div class="caja"><small data-t="rTotal">Total pagado al FNA</small><b id="rTotal"></b></div>
+        <p class="nota-s" data-t="simNota">Ingreso sugerido: que la cuota no pase del 30 % de lo que entra a la casa. Tasa de partida: FNA desde cerca del 8,5 % E.A. (Portafolio). No incluye escrituras, registro, avalúo, seguros ni deudas del inmueble. Confirme en el simulador oficial de fna.gov.co.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="pasos">
+    <h2 data-t="pasT">Paso a paso para comprar bien</h2>
+    <p class="sub" data-t="pasS">Todo es gratis y por canales oficiales. Si alguien le cobra por saltarse un paso, desconfíe.</p>
+    <div class="guia" id="pasosLista"></div>
+  </section>
+
+  <section id="estafas">
+    <h2 data-t="estT">Las 6 estafas con el nombre de la SAE</h2>
+    <p class="sub" data-t="estS">La propia SAE las denunció en octubre de 2026. Falsos gestores han recorrido regiones ofreciendo bienes a cambio de plata.</p>
+    <div class="est" id="estLista"></div>
+    <div class="senales"><h3 data-t="senT">Señales de que lo quieren tumbar</h3><ul id="senLista"></ul>
+      <div class="regla" data-t="regla">Nadie debe cobrarle por realizar un trámite ante la SAE.</div>
+    </div>
+  </section>
+
+  <section id="canales">
+    <h2 data-t="canT">Los únicos canales oficiales</h2>
+    <p class="sub" data-t="canS">Antes de pagar un peso, confirme aquí. Toque para abrir, escribir o llamar.</p>
+    <div class="can" id="canLista"></div>
+  </section>
+
+  <section id="linea">
+    <h2 data-t="linT">Línea de tiempo</h2>
+    <p class="sub" data-t="linS">Cómo ha avanzado la alianza SAE–FNA y las alertas de fraude.</p>
+    <div class="linea" id="lineaLista"></div>
+  </section>
+
+  <section id="vivoS">
+    <h2 data-t="vivoT">Noticias en vivo</h2>
+    <p class="sub" data-t="vivoS">Busque cualquier tema. Al abrir la app se hace una búsqueda nueva en la red.</p>
+    <div class="buscar"><input id="q" data-ph="buscarPh" placeholder="Buscar: subasta, Antioquia, estafa, FNA..."><button class="btn" id="buscarRed" data-t="buscarRed">Buscar en la red</button></div>
+    <div class="chips" id="chips"></div>
+    <div class="hoy" id="vivoGrid"></div>
+  </section>
+
+  <section id="peticion">
+    <div class="pet">
+      <h2 data-t="petT">Derecho de petición: exija información clara</h2>
+      <p class="sub" data-t="petS">Un solo envío a todas las entidades involucradas. Es su derecho (artículo 23 de la Constitución y Ley 1755 de 2015): deben responderle en 15 días hábiles.</p>
+      <div class="campos">
+        <input id="fNombre" data-ph="fNombre" placeholder="Nombre completo">
+        <input id="fCedula" data-ph="fCedula" placeholder="Cédula">
+        <input id="fCiudad" data-ph="fCiudad" placeholder="Ciudad">
+        <input id="fCorreo" data-ph="fCorreo" placeholder="Correo para la respuesta">
+        <input id="fTel" data-ph="fTel" placeholder="Teléfono">
+        <input id="fDepto" data-ph="fDepto" placeholder="Departamento donde busca inmueble">
+      </div>
+      <textarea id="carta"></textarea>
+      <p class="dest"><b data-t="para">Para:</b> <span id="destinos"></span></p>
+      <div class="acc">
+        <button class="btn prim" id="enviar" data-t="enviar">Enviar a todas las entidades</button>
+        <button class="btn" id="copiar" data-t="copiar">Copiar carta</button>
+        <button class="btn" id="whats" data-t="whats">Compartir por WhatsApp</button>
+      </div>
+    </div>
+  </section>
+
+  <section id="fuentes">
+    <h2 data-t="fuT">Fuentes</h2>
+    <p class="sub" data-t="fuS">Todo lo que dice esta app tiene de dónde salió. Verifíquelo usted mismo.</p>
+    <ul class="fuentes" id="fuentesLista"></ul>
+  </section>
+</main>
+
+<footer><div class="wrap">
+  <p><b>Vibras Positivas HM</b> · <span data-t="pie">App ciudadana independiente. No pertenece a la SAE, al FNA ni al Gobierno, y no vende inmuebles. Su único fin es orientar.</span></p>
+  <p data-t="pie2">Seguimiento inspirado en el post de @cronicadigital.oficial.</p>
+  <p id="pieHora"></p>
+</div></footer>
+<div class="aviso" id="aviso"></div>
+
+<script>
+const T={
+ es:{actualizar:'Actualizar',vivo:'En vivo · se actualiza cada 30 min',h1a:'Casas de la SAE con el 90 %:',h1b:'compre bien, no se deje engañar.',c90:'máximo que presta el FNA',c0:'cuesta cualquier trámite ante la SAE',cHoy:'noticias de hoy',cHora:'última revisión (hora Colombia)',alerta:'<b>Regla de oro:</b> la SAE no vende por WhatsApp ni recibe plata en cuentas de personas. Si se la piden, es estafa.',nHoy:'Hoy',nVer:'¿Es verdad?',nSim:'Simulador',nPas:'Paso a paso',nEst:'Estafas',nCan:'Canales oficiales',nLin:'Línea de tiempo',nViv:'En vivo',nPet:'Derecho de petición',hoyT:'Hoy',hoyS:'Lo último sobre los inmuebles de la SAE, el crédito del FNA y las alertas de estafa, de las últimas 24 horas.',verT:'¿Es verdad lo que dicen en redes?',verS:'Lo que circula, revisado con fuentes. Verde: cierto. Amarillo: cierto, pero con letra menuda. Rojo: falso.',si:'Cierto',no:'Falso',ojo:'Ojo: letra menuda',simT:'¿Cuánto necesito de verdad?',simS:'Haga cuentas antes de ilusionarse. Es un cálculo de referencia; el valor real lo da el FNA después del estudio de crédito.',sPrecio:'Precio del inmueble',sPorc:'Porcentaje que financia el FNA',sTasa:'Tasa efectiva anual',sPlazo:'Plazo',anios:'años',rCuota:'Cuota mensual aproximada',rInicial:'Cuota inicial',rCredito:'Crédito',rIngreso:'Ingreso familiar sugerido',rTotal:'Total pagado al FNA',simNota:'Ingreso sugerido: que la cuota no pase del 30 % de lo que entra a la casa. Tasa de partida: FNA desde cerca del 8,5 % E.A. (Portafolio). No incluye escrituras, registro, avalúo, seguros ni deudas del inmueble. Confirme en el simulador oficial de fna.gov.co.',pasT:'Paso a paso para comprar bien',pasS:'Todo es gratis y por canales oficiales. Si alguien le cobra por saltarse un paso, desconfíe.',estT:'Las 6 estafas con el nombre de la SAE',estS:'La propia SAE las denunció en octubre de 2026. Falsos gestores han recorrido regiones ofreciendo bienes a cambio de plata.',senT:'Señales de que lo quieren tumbar',regla:'Nadie debe cobrarle por realizar un trámite ante la SAE.',canT:'Los únicos canales oficiales',canS:'Antes de pagar un peso, confirme aquí. Toque para abrir, escribir o llamar.',linT:'Línea de tiempo',linS:'Cómo ha avanzado la alianza SAE–FNA y las alertas de fraude.',vivoT:'Noticias en vivo',vivoS:'Busque cualquier tema. Al abrir la app se hace una búsqueda nueva en la red.',buscarPh:'Buscar: subasta, Antioquia, estafa, FNA...',buscarRed:'Buscar en la red',petT:'Derecho de petición: exija información clara',petS:'Un solo envío a todas las entidades involucradas. Es su derecho (artículo 23 de la Constitución y Ley 1755 de 2015): deben responderle en 15 días hábiles.',fNombre:'Nombre completo',fCedula:'Cédula',fCiudad:'Ciudad',fCorreo:'Correo para la respuesta',fTel:'Teléfono',fDepto:'Departamento donde busca inmueble',para:'Para:',enviar:'Enviar a todas las entidades',copiar:'Copiar carta',whats:'Compartir por WhatsApp',fuT:'Fuentes',fuS:'Todo lo que dice esta app tiene de dónde salió. Verifíquelo usted mismo.',pie:'App ciudadana independiente. No pertenece a la SAE, al FNA ni al Gobierno, y no vende inmuebles. Su único fin es orientar.',pie2:'Seguimiento inspirado en el post de @cronicadigital.oficial.',hoyAhora:'Hoy',sinHoy:'Hoy todavía no hay noticias nuevas. Esto es lo más reciente:',reciente:'Reciente',sinRes:'No hay resultados para esa búsqueda.',todo:'Todo',listo:'Actualizado',copiado:'Carta copiada',buscando:'Buscando en la red...',share:'Casas de la SAE con crédito del 90 %: lo que es cierto, cuánto necesita y cómo no dejarse estafar: '},
+ en:{actualizar:'Refresh',vivo:'Live · updates every 30 min',h1a:'SAE homes with 90% financing:',h1b:'buy smart, don\'t get scammed.',c90:'maximum the FNA lends',c0:'cost of any SAE procedure',cHoy:'stories today',cHora:'last check (Colombia time)',alerta:'<b>Golden rule:</b> the SAE does not sell on WhatsApp or take money into personal accounts. If someone asks, it\'s a scam.',nHoy:'Today',nVer:'Is it true?',nSim:'Calculator',nPas:'Step by step',nEst:'Scams',nCan:'Official channels',nLin:'Timeline',nViv:'Live',nPet:'Right of petition',hoyT:'Today',hoyS:'The latest on SAE properties, FNA loans and scam alerts, from the last 24 hours.',verT:'Is what social media says true?',verS:'What is going around, checked against sources. Green: true. Yellow: true, but with fine print. Red: false.',si:'True',no:'False',ojo:'Careful: fine print',simT:'How much do I really need?',simS:'Run the numbers before getting your hopes up. This is a reference estimate; the FNA gives the real figure after the credit review.',sPrecio:'Property price',sPorc:'Share financed by the FNA',sTasa:'Effective annual rate',sPlazo:'Term',anios:'years',rCuota:'Approximate monthly payment',rInicial:'Down payment',rCredito:'Loan',rIngreso:'Suggested household income',rTotal:'Total paid to the FNA',simNota:'Suggested income: keep the payment under 30% of household income. Starting rate: FNA from about 8.5% EA (Portafolio). Does not include deed, registration, appraisal, insurance or property debts. Confirm with the official calculator at fna.gov.co.',pasT:'Step by step to buy safely',pasS:'Everything is free and through official channels. If someone charges you to skip a step, be suspicious.',estT:'The 6 scams using the SAE\'s name',estS:'The SAE itself reported them in October 2026. Fake agents have toured regions offering assets for money.',senT:'Signs someone is trying to scam you',regla:'Nobody should charge you for any procedure with the SAE.',canT:'The only official channels',canS:'Before paying a single peso, confirm here. Tap to open, email or call.',linT:'Timeline',linS:'How the SAE–FNA partnership and the fraud alerts have developed.',vivoT:'Live news',vivoS:'Search any topic. A fresh web search runs every time you open the app.',buscarPh:'Search: auction, Antioquia, scam, FNA...',buscarRed:'Search the web',petT:'Right of petition: demand clear information',petS:'One message to every agency involved. It is your right (Article 23 of the Constitution and Law 1755 of 2015): they must answer within 15 business days.',fNombre:'Full name',fCedula:'ID number',fCiudad:'City',fCorreo:'Email for the reply',fTel:'Phone',fDepto:'Department where you are looking',para:'To:',enviar:'Send to all agencies',copiar:'Copy letter',whats:'Share on WhatsApp',fuT:'Sources',fuS:'Everything in this app comes from somewhere. Check it yourself.',pie:'Independent civic app. Not affiliated with the SAE, the FNA or the Government, and it does not sell property. Its only purpose is to inform.',pie2:'Tracking inspired by the post from @cronicadigital.oficial.',hoyAhora:'Today',sinHoy:'No new stories yet today. Here is the latest:',reciente:'Recent',sinRes:'No results for that search.',todo:'All',listo:'Updated',copiado:'Letter copied',buscando:'Searching the web...',share:'SAE homes with 90% financing: what is true, how much you need and how not to get scammed: '}
+};
+const URL_APP='https://remates-sae-al-dia.netlify.app/';
+const DEST=[
+ ['Sociedad de Activos Especiales S.A.S. (SAE)','atencionalciudadano@saesas.gov.co'],
+ ['Fondo Nacional del Ahorro S.A. (FNA)','contactenos@fna.gov.co'],
+ ['Ministerio de Hacienda y Crédito Público','relacionciudadano@minhacienda.gov.co'],
+ ['Superintendencia Financiera de Colombia','super@superfinanciera.gov.co'],
+ ['Procuraduría General de la Nación','quejas@procuraduria.gov.co'],
+ ['Contraloría General de la República','cgr@contraloria.gov.co']];
+let L=localStorage.getItem('lang')||'es',C=null,NOTI=[],VIVO=[],filtro='',FOTOS=['foto.jpg'];
+const $=id=>document.getElementById(id);
+const hBog=d=>new Date(d).toLocaleString(L==='es'?'es-CO':'en-US',{timeZone:'America/Bogota',day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'});
+const esc=s=>(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const dec=s=>{const t=document.createElement('textarea');t.innerHTML=s||'';return t.value.replace(/<[^>]+>/g,'')};
+const pesos=n=>'$'+Math.round(n).toLocaleString('es-CO');
+function aviso(t){const a=$('aviso');a.textContent=t;a.classList.add('ver');setTimeout(()=>a.classList.remove('ver'),2200)}
+function contar(el,n){let i=0;const s=Math.max(1,Math.ceil(n/30));clearInterval(el._t);el._t=setInterval(()=>{i=Math.min(n,i+s);el.textContent=i;if(i>=n)clearInterval(el._t)},30)}
+const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('ver');io.unobserve(e.target)}}),{threshold:.15});
+const mirar=()=>document.querySelectorAll('.mito:not(.ver),.hito:not(.ver),.paso:not(.ver),.estafa:not(.ver)').forEach(x=>io.observe(x));
+
+function textos(){
+ document.documentElement.lang=L;$('idioma').textContent=L==='es'?'EN':'ES';
+ document.querySelectorAll('[data-t]').forEach(e=>e.textContent=T[L][e.dataset.t]);
+ document.querySelectorAll('[data-h]').forEach(e=>e.innerHTML=T[L][e.dataset.h]);
+ document.querySelectorAll('[data-ph]').forEach(e=>e.placeholder=T[L][e.dataset.ph]);
+ simular();
+}
+function tarjeta(n,i,etq){
+ const img=n.imagen?`<div class="img" style="background-image:url('${esc(n.imagen)}')"></div>`:`<div class="img sin">${esc(dec(n.medio))}</div>`;
+ return `<a class="nota" style="animation-delay:${i*60}ms" href="${esc(n.link)}" target="_blank" rel="noopener">${img}<div class="cu">${etq?`<span class="etq">${etq}</span><br>`:''}<h3>${esc(dec(n.titulo))}</h3><div class="meta">${esc(dec(n.medio))} · ${hBog(n.fecha)}</div></div></a>`;
+}
+function pintarCaso(){
+ if(!C)return;$('intro').textContent=C.intro[L];
+ $('vmGrid').innerHTML=C.verdad.map(v=>`<div class="mito ${v.r}"><span class="res">${T[L][v.r]}</span><h3>${esc(v.t[L])}</h3><p>${esc(v.d[L])}</p></div>`).join('');
+ $('pasosLista').innerHTML=C.pasos.map(q=>`<div class="paso"><h3>${esc(q.t[L])}</h3><p>${esc(q.d[L])}</p></div>`).join('');
+ $('estLista').innerHTML=C.estafas.map(q=>`<div class="estafa"><h3>${esc(q.t[L])}</h3><p>${esc(q.d[L])}</p></div>`).join('');
+ $('senLista').innerHTML=C.senales[L].map(s=>`<li>${esc(s)}</li>`).join('');
+ $('canLista').innerHTML=C.canales.map(c=>`<a class="canal" href="${esc(c.u)}" ${c.u.startsWith('http')?'target="_blank" rel="noopener"':''}><h3>${esc(c.n)}</h3><p>${esc(c.d[L])}</p></a>`).join('');
+ $('lineaLista').innerHTML=C.linea.map(h=>`<div class="hito ${h.pendiente?'pend':''}"><b>${esc(h.pendiente&&L==='en'?'Pending':h.f)}</b><p>${esc(h[L])}</p></div>`).join('');
+ $('fuentesLista').innerHTML=C.fuentes.map(f=>`<li><a href="${esc(f.u)}" target="_blank" rel="noopener">${esc(f.t)}</a></li>`).join('');
+ mirar();
+}
+// Simulador: sistema de cuota fija (francés)
+function simular(){
+ const P=Math.max(0,+$('precio').value||0),pc=+$('porc').value/100,ea=+$('tasa').value/100,n=+$('plazo').value*12;
+ const cred=P*pc,ini=P-cred,im=Math.pow(1+ea,1/12)-1;
+ const cuota=cred>0?(im>0?cred*im/(1-Math.pow(1+im,-n)):cred/n):0;
+ $('vPrecio').textContent=pesos(P);$('vPorc').textContent=Math.round(pc*100)+' %';
+ $('vTasa').textContent=(+$('tasa').value).toFixed(1).replace('.',L==='es'?',':'.')+' %';$('vPlazo').textContent=$('plazo').value+' '+T[L].anios;
+ $('rCuota').textContent=pesos(cuota);$('rInicial').textContent=pesos(ini);$('rCredito').textContent=pesos(cred);
+ $('rIngreso').textContent=pesos(cuota/0.3);$('rTotal').textContent=pesos(cuota*n);
+}
+['precio','porc','tasa','plazo'].forEach(id=>$(id).addEventListener('input',simular));
+function pintarHoy(){
+ const ayer=Date.now()-864e5,hoy=NOTI.filter(n=>new Date(n.fecha)>ayer);
+ $('hoyGrid').innerHTML=hoy.length?hoy.slice(0,9).map((n,i)=>tarjeta(n,i,T[L].hoyAhora)).join(''):`<div class="vacio" style="grid-column:1/-1">${T[L].sinHoy}</div>`+NOTI.slice(0,6).map((n,i)=>tarjeta(n,i,T[L].reciente)).join('');
+ contar($('nHoy'),hoy.length);
+ const tit=NOTI.slice(0,12).map(n=>`<span>${esc(dec(n.titulo))} — ${esc(dec(n.medio))}</span>`).join('');
+ $('cinta').innerHTML=tit+tit;
+ FOTOS=['foto.jpg',...NOTI.filter(n=>n.imagen).slice(0,6).map(n=>n.imagen)];
+}
+function pintarVivo(){
+ const todas=[...VIVO,...NOTI].filter((n,i,a)=>a.findIndex(x=>dec(x.titulo)===dec(n.titulo))===i);
+ const temas=[...new Set(NOTI.map(n=>n.tema))].slice(0,8);
+ $('chips').innerHTML=[`<button class="chip ${!filtro?'on':''}" data-f="">${T[L].todo}</button>`,...temas.map(t=>`<button class="chip ${filtro===t?'on':''}" data-f="${esc(t)}">${esc(t)}</button>`)].join('');
+ const q=$('q').value.toLowerCase().trim();
+ const r=todas.filter(n=>(!filtro||n.tema===filtro)&&(!q||dec(n.titulo+' '+n.resumen+' '+n.medio).toLowerCase().includes(q)));
+ $('vivoGrid').innerHTML=r.length?r.slice(0,24).map((n,i)=>tarjeta(n,i)).join(''):`<div class="vacio">${T[L].sinRes}</div>`;
+}
+async function cargar(){
+ const b=$('actualizar');b.classList.add('girando');
+ try{C=await (await fetch('data/caso.json?'+Date.now())).json()}catch(e){}
+ try{const d=await (await fetch('data/noticias.json?'+Date.now())).json();NOTI=(d.noticias||[]).sort((a,b)=>b.fecha.localeCompare(a.fecha));$('hora').textContent=new Date(d.actualizado).toLocaleTimeString('es-CO',{timeZone:'America/Bogota',hour:'2-digit',minute:'2-digit'});$('pieHora').textContent='Robot: '+hBog(d.actualizado)+' (America/Bogota)'}catch(e){}
+ pintarCaso();pintarHoy();pintarVivo();b.classList.remove('girando');
+}
+// Búsqueda en vivo en la red al abrir y al buscar
+async function buscarRed(q){
+ q=q||'SAE FNA inmuebles';const vg=$('vivoGrid');
+ if(!VIVO.length)vg.insertAdjacentHTML('afterbegin',`<div class="vacio" id="buscando">${T[L].buscando}</div>`);
+ const rss='https://news.google.com/rss/search?q='+encodeURIComponent(q)+'&hl=es-419&gl=CO&ceid=CO:es-419';
+ try{
+  const d=await (await fetch('https://api.rss2json.com/v1/api.json?rss_url='+encodeURIComponent(rss))).json();
+  if(d.items)VIVO=d.items.map(i=>({titulo:i.title,resumen:'',link:i.link,medio:(i.author||i.title.split(' - ').pop()||'Google News'),fecha:new Date(i.pubDate.replace(' ','T')+'Z').toISOString(),imagen:i.thumbnail||'',tema:q})).concat(VIVO);
+ }catch(e){}
+ const x=$('buscando');if(x)x.remove();pintarVivo();
+}
+// Derecho de petición
+function carta(){
+ const v=id=>$(id).value.trim()||'['+T.es[id]+']';
+ const f=new Date().toLocaleDateString('es-CO',{timeZone:'America/Bogota',day:'numeric',month:'long',year:'numeric'});
+ return `${v('fCiudad')}, ${f}
+
+Señores
+${DEST.map(d=>d[0]).join('\n')}
+
+Asunto: Derecho de petición — venta de inmuebles de la SAE con crédito del Fondo Nacional del Ahorro y medidas contra las estafas
+
+Yo, ${v('fNombre')}, identificado(a) con cédula ${v('fCedula')}, en ejercicio del derecho fundamental de petición (artículo 23 de la Constitución Política y Ley 1755 de 2015) y del derecho de acceso a la información pública (Ley 1712 de 2014), solicito respetuosamente:
+
+1. A la Sociedad de Activos Especiales (SAE): entregar el listado actualizado de inmuebles disponibles para la venta, con su modalidad (venta directa o subasta), precio base, estado físico y jurídico, y si están ocupados o tienen deudas de impuesto predial, servicios o administración. En especial, los ubicados en el departamento de ${v('fDepto')}.
+
+2. A la SAE: explicar cómo se fija el precio base de cada inmueble, quién hace el avalúo y cuáles son los únicos canales oficiales y cuentas autorizadas para pagar.
+
+3. A la SAE: informar cuántas denuncias por estafas con su nombre ha recibido en 2026, en qué regiones, qué ha hecho con ellas y qué medidas toma para proteger a los compradores.
+
+4. Al Fondo Nacional del Ahorro (FNA): informar qué inmuebles de la SAE se pueden financiar, con qué tasas, plazos y porcentaje máximo; si hay condiciones distintas para vivienda, lotes y locales; y cuántos créditos se han aprobado y desembolsado con esta alianza.
+
+5. Al FNA: detallar todos los costos que debe asumir el comprador además de la cuota inicial (estudio de títulos, avalúo, escrituración, registro, seguros).
+
+6. Al Ministerio de Hacienda y Crédito Público y a la Superintendencia Financiera: informar qué seguimiento hacen a la alianza SAE–FNA y a la transparencia de estas ventas.
+
+7. A la Procuraduría y a la Contraloría: informar si adelantan actuaciones preventivas, disciplinarias o fiscales sobre la venta de bienes de la SAE y su financiación con el FNA.
+
+Si alguna solicitud no es de su competencia, les pido darle traslado a la entidad competente, como lo ordena el artículo 21 de la Ley 1755 de 2015.
+
+Recibo respuesta en: ${v('fCorreo')} · Teléfono: ${v('fTel')}
+
+Atentamente,
+
+${v('fNombre')}
+C.C. ${v('fCedula')}`;
+}
+function pintarCarta(){$('carta').value=carta();$('destinos').textContent=DEST.map(d=>d[1]).join(', ')}
+['fNombre','fCedula','fCiudad','fCorreo','fTel','fDepto'].forEach(id=>$(id).addEventListener('input',pintarCarta));
+$('enviar').onclick=()=>{location.href='mailto:'+DEST.map(d=>d[1]).join(',')+'?subject='+encodeURIComponent('Derecho de petición — inmuebles de la SAE con crédito del FNA y medidas contra estafas')+'&body='+encodeURIComponent($('carta').value)};
+$('copiar').onclick=()=>{navigator.clipboard.writeText($('carta').value).then(()=>aviso(T[L].copiado))};
+$('whats').onclick=()=>window.open('https://wa.me/?text='+encodeURIComponent(T[L].share+URL_APP));
+// Eventos
+$('actualizar').onclick=async()=>{await cargar();await buscarRed($('q').value);aviso(T[L].listo)};
+$('idioma').onclick=()=>{L=L==='es'?'en':'es';localStorage.setItem('lang',L);textos();pintarCaso();pintarHoy();pintarVivo()};
+$('q').addEventListener('input',pintarVivo);
+$('q').addEventListener('keydown',e=>{if(e.key==='Enter')buscarRed($('q').value)});
+$('buscarRed').onclick=()=>buscarRed($('q').value);
+$('chips').onclick=e=>{if(e.target.dataset.f!==undefined){filtro=e.target.dataset.f;pintarVivo()}};
+// Portada con fotos reales que rotan (foto del caso + fotos de las noticias)
+let fi=0;const hf=$('heroFoto');hf.style.backgroundImage=`url('${FOTOS[0]}')`;
+setInterval(()=>{if(FOTOS.length<2)return;fi=(fi+1)%FOTOS.length;hf.style.opacity=0;setTimeout(()=>{hf.style.backgroundImage=`url('${FOTOS[fi]}')`;hf.style.opacity=1},600)},9000);
+// "Hoy" se actualiza cada vez que entra a la app
+document.addEventListener('visibilitychange',()=>{if(!document.hidden)cargar()});
+setInterval(cargar,5*60*1000);
+textos();pintarCarta();cargar().then(()=>buscarRed());
+if('serviceWorker' in navigator)navigator.serviceWorker.register('sw.js');
+</script>
+</body>
+</html>

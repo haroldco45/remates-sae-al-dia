@@ -1,0 +1,32 @@
+name: Robot de noticias Remates SAE al Día
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore: ['data/noticias.json']
+permissions:
+  contents: write
+jobs:
+  noticias:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: node scripts/robot-noticias.mjs
+      - name: Imágenes con foto real (vista previa y flyers)
+        run: |
+          if [ ! -f og.jpg ] || [ ! -f flyer.jpg ] || [ ! -f foto.jpg ]; then
+            npm install --no-save sharp && node scripts/hacer-imagenes.mjs || echo "imagenes pendientes"
+          fi
+      - name: Guardar cambios
+        run: |
+          git config user.name "robot-vibras"
+          git config user.email "robot@users.noreply.github.com"
+          git add data/noticias.json og.jpg flyer.jpg flyer-historia.jpg foto.jpg 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "Noticias al día $(TZ=America/Bogota date '+%Y-%m-%d %H:%M')"
+          git pull --rebase -q || true
+          git push

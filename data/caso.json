@@ -1,63 +1,351 @@
 {
-  "revisado": "2026-11-19T21:45:00-05:00",
+  "revisado": "2026-11-19T21:50:00-05:00",
   "intro": {
     "es": "La SAE vende casas, lotes y locales que pasaron al Estado, y el Fondo Nacional del Ahorro presta hasta el 90 % a sus afiliados para comprarlos. Es real, pero tiene letra menuda, y ya hay estafadores usando el nombre de la SAE. Aquí le explicamos cómo comprar bien y cómo no dejarse engañar.",
     "en": "The SAE sells houses, lots and shops that passed to the State, and the National Savings Fund (FNA) lends its members up to 90% to buy them. It is real, but there is fine print, and scammers are already using the SAE's name. Here we explain how to buy safely and how not to get fooled."
   },
   "verdad": [
-    { "t": {"es": "¿Es real la oferta?", "en": "Is the offer real?"}, "r": "si", "d": {"es": "Sí. La SAE y el FNA tienen una alianza y el catálogo está publicado en la página oficial del FNA. Noticias RCN lo confirmó el 11 de noviembre de 2026.", "en": "Yes. The SAE and the FNA have a partnership and the catalog is published on the FNA's official website. Noticias RCN confirmed it on November 11, 2026."} },
-    { "t": {"es": "¿Hay casas por $23 millones?", "en": "Are there houses for $23 million?"}, "r": "ojo", "d": {"es": "No exactamente. Lo de $23 millones eran locales de 3 metros cuadrados en Bogotá. Una casa de 36 m² en Armenia salía en $28 millones, pero ya aparecía vendida.", "en": "Not exactly. The $23 million items were 3-square-meter shops in Bogotá. A 36 m² house in Armenia was listed at $28 million, but it already showed as sold."} },
-    { "t": {"es": "¿Le prestan el 90 % a cualquiera?", "en": "Will they lend 90% to anyone?"}, "r": "no", "d": {"es": "No. Debe estar afiliado al FNA (cesantías o ahorro voluntario), demostrar ingresos y pasar el estudio de crédito. El 90 % es el máximo, no es automático y no aplica siempre a locales.", "en": "No. You must be an FNA member (severance savings or voluntary savings), prove income and pass the credit review. 90% is the maximum, not automatic, and does not always apply to commercial property."} },
-    { "t": {"es": "¿Solo pongo el 10 %?", "en": "Do I only pay 10%?"}, "r": "ojo", "d": {"es": "El 10 % es la cuota inicial mínima. Aparte vienen escrituras, registro, avalúo, estudio de títulos y a veces impuestos o administración atrasados. Pregunte todo antes de comprometerse.", "en": "10% is the minimum down payment. On top of that come deed, registration, appraisal, title review and sometimes unpaid taxes or HOA fees. Ask about everything before you commit."} },
-    { "t": {"es": "¿Alguien de la SAE me puede 'separar' un inmueble?", "en": "Can someone from the SAE 'hold' a property for me?"}, "r": "no", "d": {"es": "No. La SAE dice que no vende por fuera de sus canales oficiales y que no autoriza a nadie a recibir plata a su nombre. El que le pida consignar a una cuenta personal le está robando.", "en": "No. The SAE says it does not sell outside its official channels and does not authorize anyone to receive money on its behalf. Anyone asking you to pay into a personal account is robbing you."} },
-    { "t": {"es": "¿Hay que pagarle a un tramitador?", "en": "Do I need to pay a fixer?"}, "r": "no", "d": {"es": "No. Las subastas son públicas, sin intermediarios y sin costo de inscripción. La presidenta de la SAE lo dijo claro: nadie debe cobrarle por un trámite ante la SAE.", "en": "No. Auctions are public, with no middlemen and no sign-up cost. The SAE's president said it plainly: nobody should charge you for any procedure with the SAE."} }
+    {
+      "t": {
+        "es": "¿Es real la oferta?",
+        "en": "Is the offer real?"
+      },
+      "r": "si",
+      "d": {
+        "es": "Sí. La SAE y el FNA tienen una alianza y el catálogo está publicado en la página oficial del FNA. Noticias RCN lo confirmó el 11 de noviembre de 2026.",
+        "en": "Yes. The SAE and the FNA have a partnership and the catalog is published on the FNA's official website. Noticias RCN confirmed it on November 11, 2026."
+      }
+    },
+    {
+      "t": {
+        "es": "¿Hay casas por $23 millones?",
+        "en": "Are there houses for $23 million?"
+      },
+      "r": "ojo",
+      "d": {
+        "es": "No exactamente. Lo de $23 millones eran locales de 3 metros cuadrados en Bogotá. Una casa de 36 m² en Armenia salía en $28 millones, pero ya aparecía vendida.",
+        "en": "Not exactly. The $23 million items were 3-square-meter shops in Bogotá. A 36 m² house in Armenia was listed at $28 million, but it already showed as sold."
+      }
+    },
+    {
+      "t": {
+        "es": "¿Le prestan el 90 % a cualquiera?",
+        "en": "Will they lend 90% to anyone?"
+      },
+      "r": "no",
+      "d": {
+        "es": "No. Debe estar afiliado al FNA (cesantías o ahorro voluntario), demostrar ingresos y pasar el estudio de crédito. El 90 % es el máximo, no es automático y no aplica siempre a locales.",
+        "en": "No. You must be an FNA member (severance savings or voluntary savings), prove income and pass the credit review. 90% is the maximum, not automatic, and does not always apply to commercial property."
+      }
+    },
+    {
+      "t": {
+        "es": "¿Solo pongo el 10 %?",
+        "en": "Do I only pay 10%?"
+      },
+      "r": "ojo",
+      "d": {
+        "es": "El 10 % es la cuota inicial mínima. Aparte vienen escrituras, registro, avalúo, estudio de títulos y a veces impuestos o administración atrasados. Pregunte todo antes de comprometerse.",
+        "en": "10% is the minimum down payment. On top of that come deed, registration, appraisal, title review and sometimes unpaid taxes or HOA fees. Ask about everything before you commit."
+      }
+    },
+    {
+      "t": {
+        "es": "¿Alguien de la SAE me puede 'separar' un inmueble?",
+        "en": "Can someone from the SAE 'hold' a property for me?"
+      },
+      "r": "no",
+      "d": {
+        "es": "No. La SAE dice que no vende por fuera de sus canales oficiales y que no autoriza a nadie a recibir plata a su nombre. El que le pida consignar a una cuenta personal le está robando.",
+        "en": "No. The SAE says it does not sell outside its official channels and does not authorize anyone to receive money on its behalf. Anyone asking you to pay into a personal account is robbing you."
+      }
+    },
+    {
+      "t": {
+        "es": "¿Hay que pagarle a un tramitador?",
+        "en": "Do I need to pay a fixer?"
+      },
+      "r": "no",
+      "d": {
+        "es": "No. Las subastas son públicas, sin intermediarios y sin costo de inscripción. La presidenta de la SAE lo dijo claro: nadie debe cobrarle por un trámite ante la SAE.",
+        "en": "No. Auctions are public, with no middlemen and no sign-up cost. The SAE's president said it plainly: nobody should charge you for any procedure with the SAE."
+      }
+    }
   ],
   "pasos": [
-    { "t": {"es": "Afíliese al FNA", "en": "Join the FNA"}, "d": {"es": "Sin afiliación no hay crédito. Puede hacerlo en línea en fna.gov.co, con sus cesantías o con ahorro voluntario.", "en": "No membership, no loan. You can join online at fna.gov.co with your severance savings or voluntary savings."} },
-    { "t": {"es": "Mire el catálogo oficial", "en": "Check the official catalog"}, "d": {"es": "Solo en fna.gov.co/inmuebles-sae o en saesas.gov.co/ventas. Si el inmueble no aparece ahí, desconfíe.", "en": "Only at fna.gov.co/inmuebles-sae or saesas.gov.co/ventas. If the property is not listed there, be suspicious."} },
-    { "t": {"es": "Haga cuentas", "en": "Run the numbers"}, "d": {"es": "Use el simulador de esta app y luego el simulador oficial del FNA. La cuota no debería ahogarle el mes.", "en": "Use this app's calculator and then the FNA's official one. The monthly payment should not choke your budget."} },
-    { "t": {"es": "Revise el inmueble", "en": "Inspect the property"}, "d": {"es": "Pida el certificado de tradición y libertad, vaya a verlo, pregunte si tiene ocupantes, deudas de impuesto predial o administración, y cuál es la modalidad: venta directa o subasta.", "en": "Get the title certificate (tradición y libertad), visit it, ask if it has occupants, property-tax or HOA debts, and how it is sold: direct sale or auction."} },
-    { "t": {"es": "Solicite el crédito", "en": "Apply for the loan"}, "d": {"es": "Radíquelo en fna.gov.co o en una oficina del FNA. El estudio es gratis. Nadie del FNA le cobra por aprobarlo.", "en": "File it at fna.gov.co or at an FNA office. The review is free. Nobody at the FNA charges you to approve it."} },
-    { "t": {"es": "Pague solo por canales oficiales", "en": "Pay only through official channels"}, "d": {"es": "Nunca consigne a cuentas de personas. Antes de pagar, llame a la línea oficial de la SAE y confirme.", "en": "Never pay into personal accounts. Before paying, call the SAE's official line and confirm."} }
+    {
+      "t": {
+        "es": "Afíliese al FNA",
+        "en": "Join the FNA"
+      },
+      "d": {
+        "es": "Sin afiliación no hay crédito. Puede hacerlo en línea en fna.gov.co, con sus cesantías o con ahorro voluntario.",
+        "en": "No membership, no loan. You can join online at fna.gov.co with your severance savings or voluntary savings."
+      }
+    },
+    {
+      "t": {
+        "es": "Mire el catálogo oficial",
+        "en": "Check the official catalog"
+      },
+      "d": {
+        "es": "Solo en fna.gov.co/inmuebles-sae o en saesas.gov.co/ventas. Si el inmueble no aparece ahí, desconfíe.",
+        "en": "Only at fna.gov.co/inmuebles-sae or saesas.gov.co/ventas. If the property is not listed there, be suspicious."
+      }
+    },
+    {
+      "t": {
+        "es": "Haga cuentas",
+        "en": "Run the numbers"
+      },
+      "d": {
+        "es": "Use el simulador de esta app y luego el simulador oficial del FNA. La cuota no debería ahogarle el mes.",
+        "en": "Use this app's calculator and then the FNA's official one. The monthly payment should not choke your budget."
+      }
+    },
+    {
+      "t": {
+        "es": "Revise el inmueble",
+        "en": "Inspect the property"
+      },
+      "d": {
+        "es": "Pida el certificado de tradición y libertad, vaya a verlo, pregunte si tiene ocupantes, deudas de impuesto predial o administración, y cuál es la modalidad: venta directa o subasta.",
+        "en": "Get the title certificate (tradición y libertad), visit it, ask if it has occupants, property-tax or HOA debts, and how it is sold: direct sale or auction."
+      }
+    },
+    {
+      "t": {
+        "es": "Solicite el crédito",
+        "en": "Apply for the loan"
+      },
+      "d": {
+        "es": "Radíquelo en fna.gov.co o en una oficina del FNA. El estudio es gratis. Nadie del FNA le cobra por aprobarlo.",
+        "en": "File it at fna.gov.co or at an FNA office. The review is free. Nobody at the FNA charges you to approve it."
+      }
+    },
+    {
+      "t": {
+        "es": "Pague solo por canales oficiales",
+        "en": "Pay only through official channels"
+      },
+      "d": {
+        "es": "Nunca consigne a cuentas de personas. Antes de pagar, llame a la línea oficial de la SAE y confirme.",
+        "en": "Never pay into personal accounts. Before paying, call the SAE's official line and confirm."
+      }
+    }
   ],
   "estafas": [
-    { "t": {"es": "Ventas falsas", "en": "Fake sales"}, "d": {"es": "Le ofrecen un inmueble 'de la SAE' por debajo del precio, con afán, por WhatsApp o redes.", "en": "They offer you an 'SAE' property below price, in a rush, via WhatsApp or social media."} },
-    { "t": {"es": "Arriendos falsos", "en": "Fake rentals"}, "d": {"es": "Le arriendan un bien de la SAE sin ningún respaldo legal y le cobran meses por adelantado.", "en": "They rent you an SAE property with no legal backing and charge months in advance."} },
-    { "t": {"es": "Donaciones falsas", "en": "Fake donations"}, "d": {"es": "Le prometen que la SAE le 'regala' una casa, una finca o un carro si paga un trámite.", "en": "They promise the SAE will 'give' you a house, farm or car if you pay a fee."} },
-    { "t": {"es": "Citas pagadas con directivos", "en": "Paid meetings with executives"}, "d": {"es": "Le cobran por conseguirle una cita con el presidente u otro directivo de la SAE. La SAE dice que es de los casos más graves.", "en": "They charge you to get a meeting with the SAE's president or another executive. The SAE calls these among the most serious cases."} },
-    { "t": {"es": "Cobro por trámites", "en": "Charging for paperwork"}, "d": {"es": "Le cobran por papeles que la SAE entrega gratis.", "en": "They charge you for documents the SAE provides for free."} },
-    { "t": {"es": "Robo de datos", "en": "Data theft"}, "d": {"es": "Le piden cédula, fotos o datos bancarios 'para inscribirlo'. Con eso cometen otros fraudes.", "en": "They ask for your ID, photos or bank details 'to sign you up'. They use them for other fraud."} }
+    {
+      "t": {
+        "es": "Ventas falsas",
+        "en": "Fake sales"
+      },
+      "d": {
+        "es": "Le ofrecen un inmueble 'de la SAE' por debajo del precio, con afán, por WhatsApp o redes.",
+        "en": "They offer you an 'SAE' property below price, in a rush, via WhatsApp or social media."
+      }
+    },
+    {
+      "t": {
+        "es": "Arriendos falsos",
+        "en": "Fake rentals"
+      },
+      "d": {
+        "es": "Le arriendan un bien de la SAE sin ningún respaldo legal y le cobran meses por adelantado.",
+        "en": "They rent you an SAE property with no legal backing and charge months in advance."
+      }
+    },
+    {
+      "t": {
+        "es": "Donaciones falsas",
+        "en": "Fake donations"
+      },
+      "d": {
+        "es": "Le prometen que la SAE le 'regala' una casa, una finca o un carro si paga un trámite.",
+        "en": "They promise the SAE will 'give' you a house, farm or car if you pay a fee."
+      }
+    },
+    {
+      "t": {
+        "es": "Citas pagadas con directivos",
+        "en": "Paid meetings with executives"
+      },
+      "d": {
+        "es": "Le cobran por conseguirle una cita con el presidente u otro directivo de la SAE. La SAE dice que es de los casos más graves.",
+        "en": "They charge you to get a meeting with the SAE's president or another executive. The SAE calls these among the most serious cases."
+      }
+    },
+    {
+      "t": {
+        "es": "Cobro por trámites",
+        "en": "Charging for paperwork"
+      },
+      "d": {
+        "es": "Le cobran por papeles que la SAE entrega gratis.",
+        "en": "They charge you for documents the SAE provides for free."
+      }
+    },
+    {
+      "t": {
+        "es": "Robo de datos",
+        "en": "Data theft"
+      },
+      "d": {
+        "es": "Le piden cédula, fotos o datos bancarios 'para inscribirlo'. Con eso cometen otros fraudes.",
+        "en": "They ask for your ID, photos or bank details 'to sign you up'. They use them for other fraud."
+      }
+    }
   ],
   "senales": {
-    "es": ["Le piden plata a una cuenta personal o por Nequi/Daviplata a nombre de una persona", "Le meten afán: 'hoy mismo', 'quedan pocos'", "El inmueble no sale en fna.gov.co ni en saesas.gov.co", "Dicen ser funcionario, depositario o 'amigo de alguien de adentro'", "El precio es demasiado bueno para ser verdad", "No le dejan ver el inmueble ni el certificado de tradición"],
-    "en": ["They ask for money to a personal account or a Nequi/Daviplata in a person's name", "They pressure you: 'today only', 'only a few left'", "The property is not on fna.gov.co or saesas.gov.co", "They claim to be an official, custodian or 'friend of an insider'", "The price is too good to be true", "They won't let you see the property or the title certificate"]
+    "es": [
+      "Le piden plata a una cuenta personal o por Nequi/Daviplata a nombre de una persona",
+      "Le meten afán: 'hoy mismo', 'quedan pocos'",
+      "El inmueble no sale en fna.gov.co ni en saesas.gov.co",
+      "Dicen ser funcionario, depositario o 'amigo de alguien de adentro'",
+      "El precio es demasiado bueno para ser verdad",
+      "No le dejan ver el inmueble ni el certificado de tradición"
+    ],
+    "en": [
+      "They ask for money to a personal account or a Nequi/Daviplata in a person's name",
+      "They pressure you: 'today only', 'only a few left'",
+      "The property is not on fna.gov.co or saesas.gov.co",
+      "They claim to be an official, custodian or 'friend of an insider'",
+      "The price is too good to be true",
+      "They won't let you see the property or the title certificate"
+    ]
   },
   "canales": [
-    { "n": "SAE — Catálogo de ventas", "u": "https://www.saesas.gov.co/ventas/", "d": {"es": "Inmuebles de la SAE con filtros por tipo, ciudad y precio.", "en": "SAE properties filtered by type, city and price."} },
-    { "n": "FNA — Inmuebles SAE", "u": "https://www.fna.gov.co/inmuebles-sae", "d": {"es": "Catálogo de los inmuebles que el FNA puede financiar.", "en": "Catalog of the properties the FNA can finance."} },
-    { "n": "SAE — Atención", "u": "mailto:atencionalciudadano@saesas.gov.co", "d": {"es": "atencionalciudadano@saesas.gov.co · PBX +57 601 743 1444", "en": "atencionalciudadano@saesas.gov.co · PBX +57 601 743 1444"} },
-    { "n": "SAE — Denunciar estafa", "u": "tel:018000111612", "d": {"es": "Línea gratuita 018000 111612 · denuncias@sae.gov.co", "en": "Toll-free 018000 111612 · denuncias@sae.gov.co"} },
-    { "n": "SAE — Oficina Medellín", "u": "tel:6040132", "d": {"es": "Carrera 43A n.° 14-27, oficina 901 · tel. 604 0132", "en": "Carrera 43A No. 14-27, office 901 · phone 604 0132"} },
-    { "n": "FNA — Contact center", "u": "tel:018000527070", "d": {"es": "Línea nacional 018000 527070 · WhatsApp 321 321 3441 · contactenos@fna.gov.co", "en": "National line 018000 527070 · WhatsApp 321 321 3441 · contactenos@fna.gov.co"} }
+    {
+      "n": "SAE — Catálogo de ventas",
+      "u": "https://www.saesas.gov.co/ventas/",
+      "d": {
+        "es": "Inmuebles de la SAE con filtros por tipo, ciudad y precio.",
+        "en": "SAE properties filtered by type, city and price."
+      }
+    },
+    {
+      "n": "FNA — Inmuebles SAE",
+      "u": "https://www.fna.gov.co/inmuebles-sae",
+      "d": {
+        "es": "Catálogo de los inmuebles que el FNA puede financiar.",
+        "en": "Catalog of the properties the FNA can finance."
+      }
+    },
+    {
+      "n": "SAE — Atención",
+      "u": "mailto:atencionalciudadano@saesas.gov.co",
+      "d": {
+        "es": "atencionalciudadano@saesas.gov.co · PBX +57 601 743 1444",
+        "en": "atencionalciudadano@saesas.gov.co · PBX +57 601 743 1444"
+      }
+    },
+    {
+      "n": "SAE — Denunciar estafa",
+      "u": "tel:018000111612",
+      "d": {
+        "es": "Línea gratuita 018000 111612 · denuncias@sae.gov.co",
+        "en": "Toll-free 018000 111612 · denuncias@sae.gov.co"
+      }
+    },
+    {
+      "n": "SAE — Oficina Medellín",
+      "u": "tel:6040132",
+      "d": {
+        "es": "Carrera 43A n.° 14-27, oficina 901 · tel. 604 0132",
+        "en": "Carrera 43A No. 14-27, office 901 · phone 604 0132"
+      }
+    },
+    {
+      "n": "FNA — Contact center",
+      "u": "tel:018000527070",
+      "d": {
+        "es": "Línea nacional 018000 527070 · WhatsApp 321 321 3441 · contactenos@fna.gov.co",
+        "en": "National line 018000 527070 · WhatsApp 321 321 3441 · contactenos@fna.gov.co"
+      }
+    }
   ],
   "linea": [
-    { "f": "2026", "es": "Primera fase de la alianza: la SAE puso 100 inmuebles a disposición para comprarlos con crédito del FNA (Portafolio).", "en": "First phase of the partnership: the SAE made 100 properties available to buy with FNA loans (Portafolio)." },
-    { "f": "21 jul 2026", "es": "El País informa que hay inmuebles desde $25 millones con financiación de hasta el 90 %.", "en": "El País reports properties from $25 million with up to 90% financing." },
-    { "f": "16 oct 2026", "es": "La SAE alerta sobre al menos seis modalidades de estafa con su nombre. Su presidenta, Diana Patricia Bravo Vélez: nadie debe cobrar por un trámite ante la SAE.", "en": "The SAE warns of at least six scam types using its name. Its president, Diana Patricia Bravo Vélez: nobody should charge for any SAE procedure." },
-    { "f": "11 nov 2026", "es": "Noticias RCN: catálogo desde $23 millones (locales de 3 m² en Bogotá) y ejemplo de vivienda de $56,2 millones con cuota inicial de unos $5,6 millones.", "en": "Noticias RCN: catalog from $23 million (3 m² shops in Bogotá) and a sample $56.2 million home with a down payment of about $5.6 million." },
-    { "f": "nov 2026", "es": "Crónica Digital: al menos 28 propiedades en Bogotá, Cali, Neiva, Garzón y Mocoa, entre otras.", "en": "Crónica Digital: at least 28 properties in Bogotá, Cali, Neiva, Garzón and Mocoa, among others." },
-    { "f": "Pendiente", "pendiente": true, "es": "Que la SAE y el FNA publiquen cuántos inmuebles se han vendido con esta alianza y cuántas denuncias de estafa han recibido.", "en": "For the SAE and the FNA to publish how many properties have sold through this partnership and how many scam reports they've received." }
+    {
+      "f": "2026",
+      "es": "Primera fase de la alianza: la SAE puso 100 inmuebles a disposición para comprarlos con crédito del FNA (Portafolio).",
+      "en": "First phase of the partnership: the SAE made 100 properties available to buy with FNA loans (Portafolio)."
+    },
+    {
+      "f": "21 jul 2026",
+      "es": "El País informa que hay inmuebles desde $25 millones con financiación de hasta el 90 %.",
+      "en": "El País reports properties from $25 million with up to 90% financing."
+    },
+    {
+      "f": "16 oct 2026",
+      "es": "La SAE alerta sobre al menos seis modalidades de estafa con su nombre. Su presidenta, Diana Patricia Bravo Vélez: nadie debe cobrar por un trámite ante la SAE.",
+      "en": "The SAE warns of at least six scam types using its name. Its president, Diana Patricia Bravo Vélez: nobody should charge for any SAE procedure."
+    },
+    {
+      "f": "11 nov 2026",
+      "es": "Noticias RCN: catálogo desde $23 millones (locales de 3 m² en Bogotá) y ejemplo de vivienda de $56,2 millones con cuota inicial de unos $5,6 millones.",
+      "en": "Noticias RCN: catalog from $23 million (3 m² shops in Bogotá) and a sample $56.2 million home with a down payment of about $5.6 million."
+    },
+    {
+      "f": "nov 2026",
+      "es": "Crónica Digital: al menos 28 propiedades en Bogotá, Cali, Neiva, Garzón y Mocoa, entre otras.",
+      "en": "Crónica Digital: at least 28 properties in Bogotá, Cali, Neiva, Garzón and Mocoa, among others."
+    },
+    {
+      "f": "19 nov 2026",
+      "es": "La SAE anuncia descuentos de hasta el 40 % en 43 inmuebles que salen a subasta (un \"Black Friday\" de bienes del Estado). Mismas reglas: solo por canales oficiales.",
+      "en": "The SAE announces discounts of up to 40% on 43 properties going to auction (a \"Black Friday\" of State property). Same rules: official channels only."
+    },
+    {
+      "f": "Pendiente",
+      "pendiente": true,
+      "es": "Que la SAE y el FNA publiquen cuántos inmuebles se han vendido con esta alianza y cuántas denuncias de estafa han recibido.",
+      "en": "For the SAE and the FNA to publish how many properties have sold through this partnership and how many scam reports they've received."
+    }
   ],
   "fuentes": [
-    { "t": "Noticias RCN — SAE vende inmuebles desde $23 millones (11 nov 2026)", "u": "https://www.noticiasrcn.com/economia/sae-vende-inmuebles-desde-23-millones-financiacion-con-fna-1080855" },
-    { "t": "Telemedellín — Así puede acceder a los inmuebles en remate de la SAE con crédito del FNA", "u": "https://telemedellin.tv/?p=204743" },
-    { "t": "El País — SAE alerta sobre estafas con ventas falsas de bienes (16 oct 2026)", "u": "https://www.elpais.com.co/colombia/sae-alerta-sobre-estafas-con-ventas-falsas-de-bienes-y-citas-fraudulentas-con-directivos-1636.html" },
-    { "t": "El País — SAE advierte sobre estafas por suplantación de funcionarios", "u": "https://www.elpais.com.co/colombia/sae-advierte-sobre-estafas-por-suplantacion-de-funcionarios-que-terminan-en-millonarios-robos-2259.html" },
-    { "t": "Portafolio — Inmuebles desde $28 millones y financiación de hasta el 90 %", "u": "https://www.portafolio.co/mis-finanzas/vivienda/inmuebles-desde-28-millones-y-financiacion-de-hasta-el-90-en-remates-de-la-sae-con-fondo-nacional-del-ahorro-494743" },
-    { "t": "Portafolio — FNA ofrece créditos de vivienda con tasas desde 8,5 %", "u": "https://www.portafolio.co/mis-finanzas/vivienda/fna-ofrece-creditos-de-vivienda-con-tasas-desde-8-5-para-facilitar-compra-de-casa-propia-asi-puede-acceder-497466" },
-    { "t": "El País — Remates de viviendas SAE desde $25 millones (21 jul 2026)", "u": "https://www.elpais.com.co/economia/remates-de-viviendas-sae-casas-desde-25-millones-con-financiacion-del-90-2144.html" },
-    { "t": "Crónica Digital — SAE y FNA rematan inmuebles desde $23 millones", "u": "https://cronicadigital.co/sae-y-fna-rematan-inmuebles-desde-23-millones-con-financiacion-del-90/" },
-    { "t": "SAE — Catálogo oficial de ventas", "u": "https://www.saesas.gov.co/ventas/" },
-    { "t": "FNA — Inmuebles SAE", "u": "https://www.fna.gov.co/inmuebles-sae" }
+    {
+      "t": "El Espectador on MSN — SAE ofrece descuentos de hasta el 40 % en 43 inmuebles en subasta (19 nov 2026)",
+      "u": "https://www.msn.com/es-co/dinero/inmobiliaria/sae-ofrece-descuentos-de-hasta-el-40-en-43-inmuebles-que-est%C3%A1n-en-subasta/ar-AA2hOqiF"
+    },
+    {
+      "t": "Noticias RCN — SAE vende inmuebles desde $23 millones (11 nov 2026)",
+      "u": "https://www.noticiasrcn.com/economia/sae-vende-inmuebles-desde-23-millones-financiacion-con-fna-1080855"
+    },
+    {
+      "t": "Telemedellín — Así puede acceder a los inmuebles en remate de la SAE con crédito del FNA",
+      "u": "https://telemedellin.tv/?p=204743"
+    },
+    {
+      "t": "El País — SAE alerta sobre estafas con ventas falsas de bienes (16 oct 2026)",
+      "u": "https://www.elpais.com.co/colombia/sae-alerta-sobre-estafas-con-ventas-falsas-de-bienes-y-citas-fraudulentas-con-directivos-1636.html"
+    },
+    {
+      "t": "El País — SAE advierte sobre estafas por suplantación de funcionarios",
+      "u": "https://www.elpais.com.co/colombia/sae-advierte-sobre-estafas-por-suplantacion-de-funcionarios-que-terminan-en-millonarios-robos-2259.html"
+    },
+    {
+      "t": "Portafolio — Inmuebles desde $28 millones y financiación de hasta el 90 %",
+      "u": "https://www.portafolio.co/mis-finanzas/vivienda/inmuebles-desde-28-millones-y-financiacion-de-hasta-el-90-en-remates-de-la-sae-con-fondo-nacional-del-ahorro-494743"
+    },
+    {
+      "t": "Portafolio — FNA ofrece créditos de vivienda con tasas desde 8,5 %",
+      "u": "https://www.portafolio.co/mis-finanzas/vivienda/fna-ofrece-creditos-de-vivienda-con-tasas-desde-8-5-para-facilitar-compra-de-casa-propia-asi-puede-acceder-497466"
+    },
+    {
+      "t": "El País — Remates de viviendas SAE desde $25 millones (21 jul 2026)",
+      "u": "https://www.elpais.com.co/economia/remates-de-viviendas-sae-casas-desde-25-millones-con-financiacion-del-90-2144.html"
+    },
+    {
+      "t": "Crónica Digital — SAE y FNA rematan inmuebles desde $23 millones",
+      "u": "https://cronicadigital.co/sae-y-fna-rematan-inmuebles-desde-23-millones-con-financiacion-del-90/"
+    },
+    {
+      "t": "SAE — Catálogo oficial de ventas",
+      "u": "https://www.saesas.gov.co/ventas/"
+    },
+    {
+      "t": "FNA — Inmuebles SAE",
+      "u": "https://www.fna.gov.co/inmuebles-sae"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-21T00:35:27.838Z",
+  "actualizado": "2026-11-21T07:55:08.330Z",
   "total": 80,
   "noticias": [
     {
@@ -252,7 +252,7 @@
       "medio": "El Tiempo",
       "fecha": "2026-11-11T08:00:00.000Z",
       "imagen": "",
-      "tema": "Sociedad de Activos Especiales subasta"
+      "tema": "SAE FNA remate inmuebles"
     },
     {
       "titulo": "La SAE ofrece viviendas e inmuebles comerciales desde 20 millones de pesos en Colombia, con financiación de hasta el 90 % a través del FNA",
@@ -489,11 +489,11 @@
       "tema": "Fondo Nacional del Ahorro crédito vivienda usada"
     },
     {
-      "titulo": "Venta de inmuebles de la SAE superó los $16.000 millones y contribuye al fortalecimiento del fondo Frisco - Portafolio.co",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSVI3a2VrckpqQkZnUk9nTjc1eXhEZmJMOEJidV8wM0lXTVJxYllZNDFma0R2ajlNckdEdW4yS0drMUJZZlF1Rnd3dHYwa2k2NG5idllMWElMY1BwdENoQmktY1prOFh6SnFOS0VZMjVzQ3BSXzhlbDZST01sUnMwZU81S09MQkZBUXpEWS0wUmhFaG9MWm10SVVNWl",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSVI3a2VrckpqQkZnUk9nTjc1eXhEZmJMOEJidV8wM0lXTVJxYllZNDFma0R2ajlNckdEdW4yS0drMUJZZlF1Rnd3dHYwa2k2NG5idllMWElMY1BwdENoQmktY1prOFh6SnFOS0VZMjVzQ3BSXzhlbDZST01sUnMwZU81S09MQkZBUXpEWS0wUmhFaG9MWm10SVVNWlFYc2l0ekttcmlpbnlXelk1ZlNzWFF1YUM4VldMZjdIT1MyX3Y4TEFoMzZ2eTVuRUhqS3RQNnVyc04tZmdvMkxqazNN0gHkAUFVX3lxTE1hVmZ5QzhNYVdSMlhkTDQ1VkpzU0E5cUJnYTRvZ2w3b3Rfb21XZ3ZSeFl6NEVSNGJMNGt3OHdfUkFrc1hkXzZ0ZGZ0RGo1cTIzbU1sLWJNVEVsQnB3VERDV3FDaXVlRTdmZHo3ZkdLSVh4eHQ1LUVIVnFmclhsanJJa181WjdSMjBOUnJuWFhXVE00LUd0dEZPb2R0TXlwMjFzQWNxbzEzbkc3OEI3V1VENXZsd0ZDUDZmbmFHXzdJbEVVSkt6cGlmU014Zk9SZ2xRUWd5Y2ZxdXNHcFFIM2NhakJtdA?oc=5",
-      "medio": "Portafolio.co",
-      "fecha": "2026-10-09T07:00:00.000Z",
+      "titulo": "Venta de inmuebles de la SAE superó los $16.000 millones y contribuye al fortalecimiento del fondo Frisco",
+      "resumen": "Según la entidad, contribuyen al fortalecimiento del Fondo para la Rehabilitación, Inversión Social y Lucha contra el Crimen Organizado (FRISCO). La comercialización permite monetizar activos bajo ...",
+      "link": "https://www.portafolio.co/economia/venta-de-inmuebles-de-la-sae-supero-los-16-000-millones-y-contribuye-al-fortalecimiento-del-fondo-frisco-504175",
+      "medio": "Portafolio",
+      "fecha": "2026-10-09T10:27:00.000Z",
       "imagen": "",
       "tema": "SAE inmuebles venta"
     },
@@ -705,6 +705,15 @@
       "tema": "SAE FNA remate inmuebles"
     },
     {
+      "titulo": "Casas, apartamentos y locales desde $20 millones: nuevo remate de la SAE con el FNA",
+      "resumen": "Ha salido a la luz una oportunidad del Estado para personas que en el país actualmente se encuentran en la búsqueda de una casa, un apartamento o un local. En ese sentido, un nuevo remate de subastas ...",
+      "link": "https://www.elpais.com.co/economia/casas-apartamentos-y-locales-desde-20-millones-nuevo-remate-de-la-sae-con-el-fna-0131.html",
+      "medio": "elpais.com.co",
+      "fecha": "2026-09-01T06:24:00.000Z",
+      "imagen": "",
+      "tema": "SAE FNA remate inmuebles"
+    },
+    {
       "titulo": "Casas, apartamentos y locales desde los $20 millones: nuevo remate de la SAE con el FNA",
       "resumen": "Las personas que están buscando vivienda, un local comercial o una propiedad para inversión tienen una nueva oportunidad a través de las subastas de la Sociedad de Activos Especiales (SAE), una ...",
       "link": "https://www.noticiascaracol.com/economia/casas-apartamentos-y-locales-desde-los-20-millones-nuevo-remate-de-la-sae-con-el-fna-so35",
@@ -712,15 +721,6 @@
       "fecha": "2026-08-31T09:13:00.000Z",
       "imagen": "",
       "tema": "SAE FNA remate inmuebles"
-    },
-    {
-      "titulo": "Casas, apartamentos y locales desde los $20 millones: nuevo remate de la SAE con el FNA - Noticias Caracol",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQcW1ZSzVmUnBvQWhITEU0SGJJOWZMMWhta1BqRDY4VTZVbkNPVGhjMzYxeG5hYXkzeDNrZnduTTJaTkE1RFB3cWlPb2x6SkNPd0NER3ZaaGp2QnZZVWhBOUMyUWpGYi1YTlo2QVNuY1JoRHVDZ2ZxMGJsY2JFYnpzdFotRHFpNGdKbGdVNHBXajdGMjZEQ0NiTGR6RD",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcW1ZSzVmUnBvQWhITEU0SGJJOWZMMWhta1BqRDY4VTZVbkNPVGhjMzYxeG5hYXkzeDNrZnduTTJaTkE1RFB3cWlPb2x6SkNPd0NER3ZaaGp2QnZZVWhBOUMyUWpGYi1YTlo2QVNuY1JoRHVDZ2ZxMGJsY2JFYnpzdFotRHFpNGdKbGdVNHBXajdGMjZEQ0NiTGR6RDFCUUdDX0htM2otMHY0VWlwZFhyMzM0QU9HaVVrOG1NU1F5S0tRSDh6dVpkSXlB0gHXAUFVX3lxTFBQN3BaVzdVaXVrYWwzZm96cElRM0NEdkpvLVJ4WHU2d3I0RG5SVThnS0pneXZYZDBSdU9HVnpGNmRqQzBpVFZfX2NyVWxScE03UDlhUFZOeFQySGZ1SldUaE9yMDVQUE1jekR4dkluZjZOY3B5LTdVRVBBeVl5dDA3NUtWaXNnMHJKcXFZMWxpM0hBOEItVFJBM0FjUGNfQVFlRkZ2MVJXZlBiSHNOdFBKcnRXcGZKckcxYnYzcXVjWUlpNDRTeHRGRUw5anJzQ1hhNUU1YmdF?oc=5",
-      "medio": "Noticias Caracol",
-      "fecha": "2026-08-31T07:00:00.000Z",
-      "imagen": "",
-      "tema": "SAE inmuebles venta"
     }
   ]
 }

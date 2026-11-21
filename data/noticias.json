@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-21T07:55:08.330Z",
+  "actualizado": "2026-11-21T15:51:23.732Z",
   "total": 80,
   "noticias": [
     {
@@ -9,7 +9,7 @@
       "medio": "Diario del Sur",
       "fecha": "2026-11-20T06:31:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.gOE5A7Y9oIcOSdKk6NusEA&pid=News",
-      "tema": "SAE inmuebles venta"
+      "tema": "SAE Antioquia inmuebles"
     },
     {
       "titulo": "SAE busca dinamizar la inversión y la economía en Santa Marta y el país - Caracol Radio",
@@ -48,15 +48,6 @@
       "tema": "SAE inmuebles venta"
     },
     {
-      "titulo": "Casas, locales, bodegas y lotes con descuentos de hasta el 40 %: así puede comprar bienes administrados por la SAE - El Tiempo",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPOVF5U1E4bHZKQml2cGd0Mm9GU3VuazhHZUlURm8xQzlBZE1OeE5EMjlvNDI5OTZocndPWVRxY3A1czhUaXFpdmcyZDhlRkV1QWtFbGtmamdNVlhfU2pGY0dlMzhJTjdHaWlWN3BKX0VDUGc3bllpdk85X0NZdG56cnpXaG55aWFDU2xaY09zSVhfSW5DVG9RbUZwT2",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPOVF5U1E4bHZKQml2cGd0Mm9GU3VuazhHZUlURm8xQzlBZE1OeE5EMjlvNDI5OTZocndPWVRxY3A1czhUaXFpdmcyZDhlRkV1QWtFbGtmamdNVlhfU2pGY0dlMzhJTjdHaWlWN3BKX0VDUGc3bllpdk85X0NZdG56cnpXaG55aWFDU2xaY09zSVhfSW5DVG9RbUZwT2FyYlpCem9QbFY1R3RVVVJjZnJGOXc5VWlnSXd4TlNhdXZIdzM2eExwRzZRWG82UFZkdzlpUEg4SWZBQmpDemhDLU9HQ2gxWl93N3N1X1FMME9kYk0xR09UUW82MNIB_gFBVV95cUxQcGoxd2Q5QjBjTlVKTkJLazhZbnhrdlRBMHNjekpNMk9GclJ6Mkx0TUxsV05rUUpkYlNJNjl6NGwzQXoxZF9FSGRYTVNPSERVUU1oLVJCZi1NTVdZUm1rbkZTVjJSRWhfRmNMOFZXTnlmQkFxSzhvVFJZNkNPVkNDeWQtNFdYWmRLVW11Tl9fMXFDSXdoMk1ud3RyU3pvaGg1R0RoeDdmeGgwSHRzRFp4bkMwNGpwVzA1Z2hObmY1UTg3TFVTWk9wMVczOU0tUWVaSUNqSEktdmtpdUxBQmw3MUw2VEsycnJJdWM1QXVseDdJWHh6SFpQRzRra09idw?oc=5",
-      "medio": "El Tiempo",
-      "fecha": "2026-11-19T12:32:38.000Z",
-      "imagen": "",
-      "tema": "SAE inmuebles venta"
-    },
-    {
       "titulo": "SAE ofrece descuentos de hasta 40 % en inmuebles decomisados al crimen organizado en subastas a nivel nacional",
       "resumen": "La SAE ofrece inmuebles decomisados con descuentos de hasta 40%. Oportunidad para invertir antes de la actualización catastral en 2027.",
       "link": "https://www.pulzo.com/economia/vivienda/sae-ofrece-descuentos-del-40-en-inmuebles-decomisados-en-colombia-como-participar-en-subastas-PP5359823A",
@@ -81,6 +72,15 @@
       "medio": "Diario El País",
       "fecha": "2026-11-19T06:14:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.I_uPiSrdlE3Gkm9WN21oZA&pid=News",
+      "tema": "SAE inmuebles venta"
+    },
+    {
+      "titulo": "Casas, locales, bodegas y lotes con descuentos de hasta el 40 %: así puede comprar bienes administrados por la SAE",
+      "resumen": "Estos son los criterios y cómo participar en la nueva estrategia de ofertas de la entidad.",
+      "link": "https://www.msn.com/es-co/dinero/inmobiliaria/casas-locales-bodegas-y-lotes-con-descuentos-de-hasta-el-40-as%C3%AD-puede-comprar-bienes-administrados-por-la-sae/ar-AA2hMxq3",
+      "medio": "El Tiempo on MSN",
+      "fecha": "2026-11-19T04:32:38.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.PFxbvVgmRfY8xjTwPvxjBw&pid=News",
       "tema": "SAE inmuebles venta"
     },
     {
@@ -156,12 +156,12 @@
       "tema": "SAE bienes extinción de dominio venta"
     },
     {
-      "titulo": "Subastas de la SAE dejaron $1.967 millones más de lo esperado: así fue la venta de 44 inmuebles en tres meses",
-      "resumen": "Entre agosto y octubre, la entidad realizó 12 subastas inmobiliarias que cubrieron 68 folios de matrícula.",
-      "link": "https://www.msn.com/es-co/dinero/econom%C3%ADa/subastas-de-la-sae-dejaron-1-967-millones-m%C3%A1s-de-lo-esperado-as%C3%AD-fue-la-venta-de-44-inmuebles-en-tres-meses/ar-AA2htTr1",
-      "medio": "Portafolio on MSN",
-      "fecha": "2026-11-15T09:30:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.FhcnBdcNJY4lpMnLN1loiw&pid=News",
+      "titulo": "Subastas de la SAE dejaron $1.967 millones más de lo esperado: así fue la venta de 44 inmuebles en tres meses - Portafolio.co",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYXpqSm44dmxPX1JIWGNWaFVuXzBSYXkzb3NuaEtkZ2pZckhuQ2ppUlZuWDFxQi1SMnEzWmViWXZGMVBBQm5rWmV2LTNiTjVjbjI2bzRYSGRjTV9TdHV2aHIzNkZuTVdNaFBsc0lwYkI1cVlyQlVmT3JKT1NNN0RLblZHUllpOThPZXhmeDNIbXE0Uy1Oa1k2WkRGQz",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYXpqSm44dmxPX1JIWGNWaFVuXzBSYXkzb3NuaEtkZ2pZckhuQ2ppUlZuWDFxQi1SMnEzWmViWXZGMVBBQm5rWmV2LTNiTjVjbjI2bzRYSGRjTV9TdHV2aHIzNkZuTVdNaFBsc0lwYkI1cVlyQlVmT3JKT1NNN0RLblZHUllpOThPZXhmeDNIbXE0Uy1Oa1k2WkRGQzBXcTNkRVZDX08ySEt1dEtfQklJRl8taUpNRkJWWktoVmNwOU01VEp1TzZ5bjFNSV9iMnF1R1FGZnhrNjNuYkJpTG8xeVIxS3pjdkNWTDhra2ljMNIB9AFBVV95cUxOSlk1TDR6OEVCTk5GTGQxWURzMkk3RkxkbEJNemdDNDh1YW5qYi1qZjJBeWlOS3lTMHROTDc0Uy1raGxMTGpyOTlKMURKaEUwRXl0dTFjV1ZvOHA5WmhFR0dEWFlKNElLMmJTNjlQa09aeHVScTFNYlpNM3l0dThMLV9zb2dZOENYV0dTU0lCNk5xclFva1E0MWpjZmF2eTBrbmI4alp1dER5Rzl1VUhXWUNmMjdmODhJMTE5TnpIWDdZcFhENjY3VGxTY0s2NXRFMk5wM0tCVXdDYXU4bnpyQXRFZUhTU2ttSVcxdE9OUUhnV0Jf?oc=5",
+      "medio": "Portafolio.co",
+      "fecha": "2026-11-15T17:30:00.000Z",
+      "imagen": "",
       "tema": "SAE inmuebles venta"
     },
     {
@@ -246,13 +246,22 @@
       "tema": "SAE inmuebles venta"
     },
     {
+      "titulo": "SAE vende inmuebles desde $23 millones en Colombia: así puede comprarlos con el FNA - Noticias RCN",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQNUcwcTJEZUhUcGc0bjFBWVVkVGE0NEZ2V01xX3k2cER6QWpYalJHZ2NWUmhrOTZzQWxfaEpzSjl4VWRpX3d1SlczYUhBUnItbFRMaGVnckdoSGU3dmdtc1NhdnpfZVZNNGpJZ1dsaUl1ZkNSWUFxeWJCcGNqbWZVU1FTQkV5V20tR213T0RwRF82OU5PVFVieXd4Zl",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNUcwcTJEZUhUcGc0bjFBWVVkVGE0NEZ2V01xX3k2cER6QWpYalJHZ2NWUmhrOTZzQWxfaEpzSjl4VWRpX3d1SlczYUhBUnItbFRMaGVnckdoSGU3dmdtc1NhdnpfZVZNNGpJZ1dsaUl1ZkNSWUFxeWJCcGNqbWZVU1FTQkV5V20tR213T0RwRF82OU5PVFVieXd4ZlgzNk0tWUxSXzJn0gGmAUFVX3lxTE1MSWU2TjZmODhWZDFDS3FmWnFPeVRmbk1Wc2JJQnZmN0RXLXYtRVlzaFRSN25pN0dPaC1US3hLWXJUc3R5X3RmSXhDSWUyUGs2aDB2T05HTlUybmdQVFhrY2xXUEtpQWNvNXRFUzJCTEE1eGpQMDZ6alNZeGNZeXJ3MnhQNFdwZ24xenBmVWp2VUFBdktYeXVfSnBWLWdJX3BITU9xTVE?oc=5",
+      "medio": "Noticias RCN",
+      "fecha": "2026-11-11T08:00:00.000Z",
+      "imagen": "",
+      "tema": "SAE inmuebles venta"
+    },
+    {
       "titulo": "SAE ofrece viviendas e inmuebles comerciales desde 20 millones de pesos en Colombia, con financiación de hasta 90 por ciento a través del FNA - El Tiempo",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxNZ1JUYndWWVh5dzRReFhjaFhNSzlfbERMVm1UWnhnWFM5bHFrcVVYeEVQYVdkMUxJUWVUcGNMWTlYS0JXb3ZIZXRIeEN0U1VXS20xSllFZG9XR09NVmJjTHloRnRZcm9vNGNheWhLZlJ2Y1BoRWM1SjhYaFRxM3JYVWo5cXNxOEhhYXRyODNPMVpySk5iZ1BIQ0xmSl",
       "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNZ1JUYndWWVh5dzRReFhjaFhNSzlfbERMVm1UWnhnWFM5bHFrcVVYeEVQYVdkMUxJUWVUcGNMWTlYS0JXb3ZIZXRIeEN0U1VXS20xSllFZG9XR09NVmJjTHloRnRZcm9vNGNheWhLZlJ2Y1BoRWM1SjhYaFRxM3JYVWo5cXNxOEhhYXRyODNPMVpySk5iZ1BIQ0xmSlVoWXo5NTNkcDhXak4zWjZ3bFBrcFNLNW15YThGOEVpT3BaOC1JLVZZc1A1WF9hVHhaS3U1U0F2ZDdTSHVDd242TEE1RmRTNlp5RnVYd1NKNHRVSTR0SVRVZFlEdWRYMFYydDI0TF8tbWNpejJxUkxzZ3g2aTJWM3JnT0hRcjN4OTBhTHkwc03SAagCQVVfeXFMT1dqTmlzMENuWXBoaXZLV0ZHYi1LSDVCR2dlWTZOeENDckRaM1o1dEIxUlRKbjNpQ2kyZFdIQ3pWLTBQTHJENWtTZUxVYXljTmJMeHBMZE1WbXV2d2dCdmdGWFlnNUU3T1pWZE9TaU15VXhLdDBDQmwzWE9PR09KM2p2ZDQtSVlCd1VkNG1QNFBMZmpwVU43dnBmUHQzZTJ0djNSU3RQWU9OdzVVOUUwa0V1bTFDOHpqZXJDNjR4QlBvcURrN3FLcGhkQjRWby1veWhyeG5jM0g1TzJLLUJoX1RPc3ZQcmZBV1RwQkE1b0d0Wk0ydl9qSjhOZnlaMGxMODR0R3ZkMmoyeFVMTXJub2pUZENEZVdNYVZ3YVh6R2Z3VkpBY29Fd1I?oc=5",
       "medio": "El Tiempo",
       "fecha": "2026-11-11T08:00:00.000Z",
       "imagen": "",
-      "tema": "SAE FNA remate inmuebles"
+      "tema": "Sociedad de Activos Especiales subasta"
     },
     {
       "titulo": "La SAE ofrece viviendas e inmuebles comerciales desde 20 millones de pesos en Colombia, con financiación de hasta el 90 % a través del FNA",
@@ -314,7 +323,7 @@
       "link": "https://www.semana.com/politica/articulo/extincion-de-dominio-al-clan-torres-la-historia-desconocida-del-apartamento-recuperado-por-la-sae/202629/",
       "medio": "Semana",
       "fecha": "2026-11-07T00:37:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.5DU1ci2r3KjhidMm0MXDYQ&pid=News",
+      "imagen": "",
       "tema": "SAE bienes extinción de dominio venta"
     },
     {
@@ -354,11 +363,11 @@
       "tema": "SAE bienes extinción de dominio venta"
     },
     {
-      "titulo": "FNA, BBVA y AV Villas tienen las tasas más bajas en pesos y UVR para crédito de vivienda",
-      "resumen": "Los créditos de vivienda en pesos pueden ser una opción para quienes tengan mayor presupuesto para la cuota inicial, mientras que la opción de UVR estará atada al IPC ...",
-      "link": "https://www.msn.com/es-co/noticias/otras/fna-bbva-y-av-villas-tienen-las-tasas-m%C3%A1s-bajas-en-pesos-y-uvr-para-cr%C3%A9dito-de-vivienda/ar-AA2gHJd0",
-      "medio": "La República on MSN",
-      "fecha": "2026-11-03T21:01:58.000Z",
+      "titulo": "FNA, Bbva y AV Villas tienen las tasas más bajas en pesos y UVR para crédito de vivienda - LaRepublica.co",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPV2t1MmlqdFF4dTVFMlZLOUs4YWsweXVJelctV2ZnalBabWpiS1RpVXQ4Q2xjdnJneEhsOTVqZ1BPMmR4aXpFT2tucW0xbE9DbmpneUxtbmVhbkRod2NYZUpBMVFGeGxzcC1CTkFFWmJxVE9sZ0tWMVF4OUZmVllCeVhPMnBrX0VjcU52QTdpOGdNbEZMN0F5b3dSZV",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPV2t1MmlqdFF4dTVFMlZLOUs4YWsweXVJelctV2ZnalBabWpiS1RpVXQ4Q2xjdnJneEhsOTVqZ1BPMmR4aXpFT2tucW0xbE9DbmpneUxtbmVhbkRod2NYZUpBMVFGeGxzcC1CTkFFWmJxVE9sZ0tWMVF4OUZmVllCeVhPMnBrX0VjcU52QTdpOGdNbEZMN0F5b3dSZVpxSzZfaHlqdlU5azhkTkh4d1VBWGU1MHZWSEl4SUxsVEZJYUJDNUZtTUdzM01XY9IBywFBVV95cUxQZS1RMGxfd1VrQWlPSXFKZjFzcGVodUtCUEtJckZSZlppNXppM2k3MHliNXVna0FKM0h1OFE0QnhpU2c5cG9jeWUxTWRVQzhtQ1VSQnVTY1RxakZOSWtwOXk4Sy1fOUY0S0dCc2VDckt2MUFzcmNrV1JVWkJGazk5S3FHY3lhNS1TbWdjSEpGa2Fib0Z4SXVkTTZTNXVRMnQyNzQ1UnBMZ1ZBSE53WGhicnN2TUJhZ0ROckE4WGh3MGVJSWZnMFJXRXd5UQ?oc=5",
+      "medio": "LaRepublica.co",
+      "fecha": "2026-11-04T08:00:00.000Z",
       "imagen": "",
       "tema": "FNA vivienda tasas"
     },
@@ -489,6 +498,15 @@
       "tema": "Fondo Nacional del Ahorro crédito vivienda usada"
     },
     {
+      "titulo": "Vivienda usada: el porcentaje que financia el FNA y los plazos para pagar",
+      "resumen": "Tener casa propia es una de las metas de millones de familias, pero acceder a una vivienda sigue siendo un desafío para muchos hogares. Las cifras muestran que el 38,1 % de las familias vive en una ...",
+      "link": "https://www.lafm.com.co/economia/fna-credito-vivienda-usada-financiacion-plazos-2026-413625",
+      "medio": "LA F.m.",
+      "fecha": "2026-10-10T03:38:00.000Z",
+      "imagen": "",
+      "tema": "Fondo Nacional del Ahorro crédito vivienda usada"
+    },
+    {
       "titulo": "Venta de inmuebles de la SAE superó los $16.000 millones y contribuye al fortalecimiento del fondo Frisco",
       "resumen": "Según la entidad, contribuyen al fortalecimiento del Fondo para la Rehabilitación, Inversión Social y Lucha contra el Crimen Organizado (FRISCO). La comercialización permite monetizar activos bajo ...",
       "link": "https://www.portafolio.co/economia/venta-de-inmuebles-de-la-sae-supero-los-16-000-millones-y-contribuye-al-fortalecimiento-del-fondo-frisco-504175",
@@ -561,11 +579,11 @@
       "tema": "SAE Antioquia inmuebles"
     },
     {
-      "titulo": "Cómo comprar vivienda usada con Fondo Nacional del Ahorro: le prestan hasta el 90% del valor",
-      "resumen": "De acuerdo con la información oficial del FNA, esta modalidad permite financiar inmuebles ubicados en cualquier lugar del país, incluyendo viviendas de interés prioritario (VIP), viviendas de interés ...",
-      "link": "https://www.noticiascaracol.com/economia/como-comprar-vivienda-usada-con-fondo-nacional-del-ahorro-le-prestan-hasta-el-90-del-valor-so35",
-      "medio": "Caracol | Noticias",
-      "fecha": "2026-10-05T10:28:00.000Z",
+      "titulo": "Cómo comprar vivienda usada con Fondo Nacional del Ahorro: le prestan hasta el 90% del valor - Noticias Caracol",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc3A4WHBPNWNSb0tEc0Fkb1d3YlZyaFNHbkZoZmR5VGZ1ZHkxbW5Ec2hDb0FlWjRTbnJNRTR2aFF6ckp2c2taZUd3WUprMzZfNWY4ZzFEMGxkb0lSMmRBWVk4NVdjNExnXzIwMjY3OUQzVHlId0Y1b1RfaDNGZnhUaWNxN19sZklVd1JEdUU3UWM1OEhJZ2VTRXF3UE",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc3A4WHBPNWNSb0tEc0Fkb1d3YlZyaFNHbkZoZmR5VGZ1ZHkxbW5Ec2hDb0FlWjRTbnJNRTR2aFF6ckp2c2taZUd3WUprMzZfNWY4ZzFEMGxkb0lSMmRBWVk4NVdjNExnXzIwMjY3OUQzVHlId0Y1b1RfaDNGZnhUaWNxN19sZklVd1JEdUU3UWM1OEhJZ2VTRXF3UElZclk4TVZqSlhoRXNsNFZyUnp2XzBUUWNOMWNEekFGY1hLZEVNZlQ4WEdwX2Mxa3d2alpPTmfSAd8BQVVfeXFMT1dscTlyTVFQaUdlUVJ2Mjhyb2x1RVR0dzFZejIxOHU4azlvbE9FSWFYd2hOV3hxODBhSTlxbHRsZ3NSSm9HVkdJbUdNSm82SjVPd0pOb0lCTmRsMnhkdnFBMmZOMzh1ZDV4SVV2LUFDakhWZmxkSkZjUjRBNm5yTFFWTGtxY0htaDdmeGhBQkNlX2JtM1VBSkJkRGxsNHJkanpXaEZMN0Q0djVJeGZxOFYwaDBMUDliVVl4QUpHa2ZxaDB3U1dMcVRrdTFGaGJaTV9ydUZQWDc2aXJFb1dubw?oc=5",
+      "medio": "Noticias Caracol",
+      "fecha": "2026-10-05T07:00:00.000Z",
       "imagen": "",
       "tema": "Fondo Nacional del Ahorro crédito vivienda usada"
     },
@@ -701,24 +719,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWGxlQjg4cFYyZVFjcXo1dEhSYlhZbXpiU3AwaUxNLW5DTzZTVUNIZ3RHMHJLQ0JkeTFjQnRCajljN1NSbFUwMEdwSTdxWjZJS2xnWFlXM3F2SDQtT3dWdXN4QVdUcS14NjZyQ2ZyY044dlNfMEJYcHU3Z1JuWDRTTnRTd01sQlBxUFRodHo4c2ZUbzdGVUZ4S2wyUmNkUTM3cjN2anZhc1FzUdIBrwFBVV95cUxNeTk4TVRWRDhDVWs4YU9naHltSmZlWmFuSk9tTW02eUlaSnh4aVUxNUxTUms2THVqNUoya2JvdldkR0RuenVzaUdHTWVqVWJBX0t3b19wTkRaVUZZVkJVOVRFUjBzWllXWi1lSzJzbEsycHdnTExQaVBoZ2ZTc2xWVEdjTU9VVERQVDdXbnVnOElaYS1rXzVaOGt4NzZVZHRNTmVXUEdhMmZKS25RbEVZ?oc=5",
       "medio": "Pulzo",
       "fecha": "2026-09-01T07:00:00.000Z",
-      "imagen": "",
-      "tema": "SAE FNA remate inmuebles"
-    },
-    {
-      "titulo": "Casas, apartamentos y locales desde $20 millones: nuevo remate de la SAE con el FNA",
-      "resumen": "Ha salido a la luz una oportunidad del Estado para personas que en el país actualmente se encuentran en la búsqueda de una casa, un apartamento o un local. En ese sentido, un nuevo remate de subastas ...",
-      "link": "https://www.elpais.com.co/economia/casas-apartamentos-y-locales-desde-20-millones-nuevo-remate-de-la-sae-con-el-fna-0131.html",
-      "medio": "elpais.com.co",
-      "fecha": "2026-09-01T06:24:00.000Z",
-      "imagen": "",
-      "tema": "SAE FNA remate inmuebles"
-    },
-    {
-      "titulo": "Casas, apartamentos y locales desde los $20 millones: nuevo remate de la SAE con el FNA",
-      "resumen": "Las personas que están buscando vivienda, un local comercial o una propiedad para inversión tienen una nueva oportunidad a través de las subastas de la Sociedad de Activos Especiales (SAE), una ...",
-      "link": "https://www.noticiascaracol.com/economia/casas-apartamentos-y-locales-desde-los-20-millones-nuevo-remate-de-la-sae-con-el-fna-so35",
-      "medio": "Caracol | Noticias",
-      "fecha": "2026-08-31T09:13:00.000Z",
       "imagen": "",
       "tema": "SAE FNA remate inmuebles"
     }

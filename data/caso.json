@@ -346,6 +346,10 @@
     {
       "t": "FNA — Inmuebles SAE",
       "u": "https://www.fna.gov.co/inmuebles-sae"
+    },
+    {
+      "t": "IGAC — Base Catastral Pública (datos abiertos), consultada en vivo para \"Verifique el predio\"",
+      "u": "https://geoportal.igac.gov.co/es/contenido/datos-abiertos-catastro"
     }
   ]
 }

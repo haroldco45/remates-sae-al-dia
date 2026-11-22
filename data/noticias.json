@@ -1,7 +1,16 @@
 {
-  "actualizado": "2026-11-22T08:36:38.987Z",
+  "actualizado": "2026-11-22T16:50:17.558Z",
   "total": 80,
   "noticias": [
+    {
+      "titulo": "La SAE lanza venta de inmuebles con descuentos de hasta el 40 % antes de la actualización de avalúos en 2027",
+      "resumen": "La Sociedad de Activos Especiales (SAE) puso en marcha una estrategia comercial que permite adquirir bienes inmuebles bajo su administración con descuentos de ...",
+      "link": "https://telemedellin.tv/sae-lanza-venta-inmuebles-con-descuesto-hasta-40/",
+      "medio": "Telemedellín",
+      "fecha": "2026-11-22T02:24:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.76QIxXjtqxV9L5JU7PN0dw&pid=News",
+      "tema": "SAE inmuebles venta"
+    },
     {
       "titulo": "Remates de viviendas de la SAE con FNA: desde $23 millones, financiación del 80% -",
       "resumen": "Según la página de la SAE, hay al menos 28 inmuebles disponibles entre casas, locales comerciales, lotes y otras propiedades ubicadas en diferentes regiones del país.",
@@ -31,12 +40,12 @@
     },
     {
       "titulo": "SAE ofrece descuentos de hasta el 40 % en 43 inmuebles que están en subasta - El Espectador",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPWHNuQU12TlU1WUtEOHM2RFYtS2k0dmliRjI1a1pYZjAwZ3dIamZvRVVULUR0Z1R6WjYzdWxWWE92VjctWHcxVG9IVkpMNW9BVzczQzU3dkExcFNPemRFRUI0WS1ubExoeFZ4SjA1aVlTUzNKbkwwMERIZFYyYmVKcms4WFZtNEtoNDNhTTNrZ1ZqLXVMN0I1U19CZX",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWHNuQU12TlU1WUtEOHM2RFYtS2k0dmliRjI1a1pYZjAwZ3dIamZvRVVULUR0Z1R6WjYzdWxWWE92VjctWHcxVG9IVkpMNW9BVzczQzU3dkExcFNPemRFRUI0WS1ubExoeFZ4SjA1aVlTUzNKbkwwMERIZFYyYmVKcms4WFZtNEtoNDNhTTNrZ1ZqLXVMN0I1U19CZXRKZzJNMTR2MzlRaFAxRF9ub2M1bXA3MGFsWFgyTlRHVl9TUXdzalNyZkHSAcYBQVVfeXFMT1hzbkFNdk5VNVlLRDhzNkRWLUtpNHZpYkYyNWtaWGYwMGd3SGpmb0VVVC1EdGdUelo2M3VsVlhPdlY3LVh3MVRvSFZKTDVvQVc3M0M1N3ZBMXBTT3pkRUVCNFktbmxMaHhWeEowNWlZU1MzSm5MMDBESGRWMmJlSnJrOFhWbTRLaDQzYU0za2dWai11TDdCNVNfQmV0SmcyTTE0djM5UWhQMURfbm9jNW1wNzBhbFhYMk5UR1ZfU1F3c2pTcmZB?oc=5",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOU2hoZ0VJaWV2NVJsYmpwVTctR2tkYS1Kd0gwdVJHWlJ1NDRmaldacXNpSHFsVXRuZEVNcUktQmdkZjhBX3ZWaGtQdFVmMTNBT01uY08zejhxcEVrRE9hVjQ2OGRmRnlhYWZzRXhnRGVUVmgtRnc5ZUVfbE1oMW5BWFNOMVVTQjh0RFd2MUplel9VX3NjMS12aGJKdk",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU2hoZ0VJaWV2NVJsYmpwVTctR2tkYS1Kd0gwdVJHWlJ1NDRmaldacXNpSHFsVXRuZEVNcUktQmdkZjhBX3ZWaGtQdFVmMTNBT01uY08zejhxcEVrRE9hVjQ2OGRmRnlhYWZzRXhnRGVUVmgtRnc5ZUVfbE1oMW5BWFNOMVVTQjh0RFd2MUplel9VX3NjMS12aGJKdkpJTF9YYkxQR2FDZzROWGxhRk9yZm5B0gHGAUFVX3lxTE9Yc25BTXZOVTVZS0Q4czZEVi1LaTR2aWJGMjVrWlhmMDBnd0hqZm9FVVQtRHRnVHpaNjN1bFZYT3ZWNy1YdzFUb0hWSkw1b0FXNzNDNTd2QTFwU096ZEVFQjRZLW5sTGh4VnhKMDVpWVNTM0puTDAwREhkVjJiZUpyazhYVm00S2g0M2FNM2tnVmotdUw3QjVTX0JldEpnMk0xNHYzOVFoUDFEX25vYzVtcDcwYWxYWDJOVEdWX1NRd3NqU3JmQQ?oc=5",
       "medio": "El Espectador",
       "fecha": "2026-11-19T21:54:03.000Z",
       "imagen": "",
-      "tema": "SAE inmuebles venta"
+      "tema": "Sociedad de Activos Especiales subasta"
     },
     {
       "titulo": "SAE busca dinamizar la inversión y la economía en Santa Marta y el país",
@@ -54,6 +63,15 @@
       "medio": "El Espectador on MSN",
       "fecha": "2026-11-19T13:54:03.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.YU8efpBUkMqz6bPwLc1nkQ&pid=News",
+      "tema": "SAE inmuebles venta"
+    },
+    {
+      "titulo": "Casas, locales, bodegas y lotes con descuentos de hasta el 40 %: así puede comprar bienes administrados por la SAE - El Tiempo",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPOVF5U1E4bHZKQml2cGd0Mm9GU3VuazhHZUlURm8xQzlBZE1OeE5EMjlvNDI5OTZocndPWVRxY3A1czhUaXFpdmcyZDhlRkV1QWtFbGtmamdNVlhfU2pGY0dlMzhJTjdHaWlWN3BKX0VDUGc3bllpdk85X0NZdG56cnpXaG55aWFDU2xaY09zSVhfSW5DVG9RbUZwT2",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPOVF5U1E4bHZKQml2cGd0Mm9GU3VuazhHZUlURm8xQzlBZE1OeE5EMjlvNDI5OTZocndPWVRxY3A1czhUaXFpdmcyZDhlRkV1QWtFbGtmamdNVlhfU2pGY0dlMzhJTjdHaWlWN3BKX0VDUGc3bllpdk85X0NZdG56cnpXaG55aWFDU2xaY09zSVhfSW5DVG9RbUZwT2FyYlpCem9QbFY1R3RVVVJjZnJGOXc5VWlnSXd4TlNhdXZIdzM2eExwRzZRWG82UFZkdzlpUEg4SWZBQmpDemhDLU9HQ2gxWl93N3N1X1FMME9kYk0xR09UUW82MNIB_gFBVV95cUxQcGoxd2Q5QjBjTlVKTkJLazhZbnhrdlRBMHNjekpNMk9GclJ6Mkx0TUxsV05rUUpkYlNJNjl6NGwzQXoxZF9FSGRYTVNPSERVUU1oLVJCZi1NTVdZUm1rbkZTVjJSRWhfRmNMOFZXTnlmQkFxSzhvVFJZNkNPVkNDeWQtNFdYWmRLVW11Tl9fMXFDSXdoMk1ud3RyU3pvaGg1R0RoeDdmeGgwSHRzRFp4bkMwNGpwVzA1Z2hObmY1UTg3TFVTWk9wMVczOU0tUWVaSUNqSEktdmtpdUxBQmw3MUw2VEsycnJJdWM1QXVseDdJWHh6SFpQRzRra09idw?oc=5",
+      "medio": "El Tiempo",
+      "fecha": "2026-11-19T12:32:38.000Z",
+      "imagen": "",
       "tema": "SAE inmuebles venta"
     },
     {
@@ -81,15 +99,6 @@
       "medio": "Diario El País",
       "fecha": "2026-11-19T06:14:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.I_uPiSrdlE3Gkm9WN21oZA&pid=News",
-      "tema": "SAE inmuebles venta"
-    },
-    {
-      "titulo": "Casas, locales, bodegas y lotes con descuentos de hasta el 40 %: así puede comprar bienes administrados por la SAE",
-      "resumen": "Estos son los criterios y cómo participar en la nueva estrategia de ofertas de la entidad.",
-      "link": "https://www.msn.com/es-co/dinero/econom%C3%ADa/casas-locales-bodegas-y-lotes-con-descuentos-de-hasta-el-40-as%C3%AD-puede-comprar-bienes-administrados-por-la-sae/ar-AA2hMxq3",
-      "medio": "El Tiempo on MSN",
-      "fecha": "2026-11-19T04:32:38.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.PFxbvVgmRfY8xjTwPvxjBw&pid=News",
       "tema": "SAE inmuebles venta"
     },
     {
@@ -134,7 +143,7 @@
       "link": "https://www.lafm.com.co/sociedad/fna-financiacion-90-porciento-vivienda-como-usar-cesantias-417605",
       "medio": "La FM",
       "fecha": "2026-11-18T05:56:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.PpE_pB5pfHin4Vpw-M0C0w&pid=News",
+      "imagen": "",
       "tema": "Fondo Nacional del Ahorro crédito vivienda usada"
     },
     {
@@ -165,12 +174,12 @@
       "tema": "SAE bienes extinción de dominio venta"
     },
     {
-      "titulo": "Subastas de la SAE dejaron $1.967 millones más de lo esperado: así fue la venta de 44 inmuebles en tres meses - Portafolio.co",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYXpqSm44dmxPX1JIWGNWaFVuXzBSYXkzb3NuaEtkZ2pZckhuQ2ppUlZuWDFxQi1SMnEzWmViWXZGMVBBQm5rWmV2LTNiTjVjbjI2bzRYSGRjTV9TdHV2aHIzNkZuTVdNaFBsc0lwYkI1cVlyQlVmT3JKT1NNN0RLblZHUllpOThPZXhmeDNIbXE0Uy1Oa1k2WkRGQz",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYXpqSm44dmxPX1JIWGNWaFVuXzBSYXkzb3NuaEtkZ2pZckhuQ2ppUlZuWDFxQi1SMnEzWmViWXZGMVBBQm5rWmV2LTNiTjVjbjI2bzRYSGRjTV9TdHV2aHIzNkZuTVdNaFBsc0lwYkI1cVlyQlVmT3JKT1NNN0RLblZHUllpOThPZXhmeDNIbXE0Uy1Oa1k2WkRGQzBXcTNkRVZDX08ySEt1dEtfQklJRl8taUpNRkJWWktoVmNwOU01VEp1TzZ5bjFNSV9iMnF1R1FGZnhrNjNuYkJpTG8xeVIxS3pjdkNWTDhra2ljMNIB9AFBVV95cUxOSlk1TDR6OEVCTk5GTGQxWURzMkk3RkxkbEJNemdDNDh1YW5qYi1qZjJBeWlOS3lTMHROTDc0Uy1raGxMTGpyOTlKMURKaEUwRXl0dTFjV1ZvOHA5WmhFR0dEWFlKNElLMmJTNjlQa09aeHVScTFNYlpNM3l0dThMLV9zb2dZOENYV0dTU0lCNk5xclFva1E0MWpjZmF2eTBrbmI4alp1dER5Rzl1VUhXWUNmMjdmODhJMTE5TnpIWDdZcFhENjY3VGxTY0s2NXRFMk5wM0tCVXdDYXU4bnpyQXRFZUhTU2ttSVcxdE9OUUhnV0Jf?oc=5",
-      "medio": "Portafolio.co",
-      "fecha": "2026-11-15T17:30:00.000Z",
-      "imagen": "",
+      "titulo": "Subastas de la SAE dejaron $1.967 millones más de lo esperado: así fue la venta de 44 inmuebles en tres meses",
+      "resumen": "Entre agosto y octubre, la entidad realizó 12 subastas inmobiliarias que cubrieron 68 folios de matrícula.",
+      "link": "https://www.msn.com/es-co/dinero/econom%C3%ADa/subastas-de-la-sae-dejaron-1-967-millones-m%C3%A1s-de-lo-esperado-as%C3%AD-fue-la-venta-de-44-inmuebles-en-tres-meses/ar-AA2htTr1",
+      "medio": "Portafolio on MSN",
+      "fecha": "2026-11-15T09:30:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.FhcnBdcNJY4lpMnLN1loiw&pid=News",
       "tema": "SAE inmuebles venta"
     },
     {
@@ -495,7 +504,7 @@
       "medio": "El País",
       "fecha": "2026-10-16T07:00:00.000Z",
       "imagen": "",
-      "tema": "SAE estafa falsos funcionarios"
+      "tema": "Sociedad de Activos Especiales subasta"
     },
     {
       "titulo": "SAE alerta por estafas con supuestas ventas de bienes, trámites y citas con directivos a cambio de dinero - Infobae",
@@ -552,19 +561,19 @@
       "tema": "SAE inmuebles venta"
     },
     {
-      "titulo": "SAE reporta recuperación de más de $16.000 millones tras subastas de bienes incautados en Colombia - Revista Semana",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxOYUJCVkpETDFuUU1nNWlxck9BaGJvS1FUWVhYdnNJallmR0VTVFN2b1ZxUEZWLU95X252VXhoQzVHeXR2bHMyem5ldFR4ajJCZmZvN2d2VEhRUnI0Q2gzeUwzdTVCMWNQOW5wNTE5c1FkcjBXc0w2a0E4SWZ0bFdtYmFlRmlHMlZlYVVWSnM2aDNhM1RaN2lqNXE5Qk",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOYUJCVkpETDFuUU1nNWlxck9BaGJvS1FUWVhYdnNJallmR0VTVFN2b1ZxUEZWLU95X252VXhoQzVHeXR2bHMyem5ldFR4ajJCZmZvN2d2VEhRUnI0Q2gzeUwzdTVCMWNQOW5wNTE5c1FkcjBXc0w2a0E4SWZ0bFdtYmFlRmlHMlZlYVVWSnM2aDNhM1RaN2lqNXE5QkZ6ZjEwdVFvMWExclRGVmNYVjZ0Y0YtOHVOWWVzZDgtMEtLZlctZERXNzNubklrVnVWMHgxS1VNdFMzVWIyZ1cwY1VMMkp1TjNYTWFYSzlhaUN6amjSAfYBQVVfeXFMTVVvdmhacDBxa2xiTWI0RUo4YVhIWldaeEpMSjNWMHE3WG5TX1dib1J0MHozSVRZdmVzak9iWHJPN3Q5QWlTWTAydmhOS2RFMWZ5OG1mNlJLLWJ2YXUzNlpjb1puQkJZRXprVkN5T1B3VU1uLUs4S2IyWVZ1OFlRZFFkRHlzQ3U1S254dHRvaUJoSF9ERE42V3lrOXpnNzI3MTlQMGxqMlVwYlBReWdjbnk1TkFmd1JpSWRjanBhb3NQd0RHOXZNREFMdHZId21hNGNYc05BNjZJSDVtT3A2ZFFtdHhmLUlELXJkaXVEdFNCZkZRcm13?oc=5",
-      "medio": "Revista Semana",
+      "titulo": "Así fue la gran subasta de bienes de la SAE en septiembre: el Estado recogió $16 mil millones incautados a la mafia - El Tiempo",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMzRETjBySnFmNDRnVFZWYVpTRk9WTFdGN0V1dG8zVzNJSjFGcVNzejAyZ05WOVRmaEttZHlFa1ZXWEdQNEZPVmd2YWM0VjdKN0NlVVFlWEI4X1l6NG5YM0FKdTROYzFwSm80Q3FlekRzVkdiSFA2OXE3QkI5QTVIUXhoT0xQQmJaeFdQb25ZeURhZGFyZlV2THhFWn",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMzRETjBySnFmNDRnVFZWYVpTRk9WTFdGN0V1dG8zVzNJSjFGcVNzejAyZ05WOVRmaEttZHlFa1ZXWEdQNEZPVmd2YWM0VjdKN0NlVVFlWEI4X1l6NG5YM0FKdTROYzFwSm80Q3FlekRzVkdiSFA2OXE3QkI5QTVIUXhoT0xQQmJaeFdQb25ZeURhZGFyZlV2THhFWnJ1dkMwYkp4NjNQanp1VXRWT0NGWjBXYUZuSTR1WTI3X0JNMVNoMTJzU0hDUmxscTBtOUxpdlV4R2R3OFYzaXVqczBMSW5wdklpS1VUSEI5U29rRzRpNk1hMGdXNnprUk44Z9IBgwJBVV95cUxQTXcyX0lDVXJfMC1vNzhrUmhMR0dEXzdWME1wS3BDSzg5MjBTUHFQblBEVFBxLVhRY3NwTjhhd2tDV21ibDhybVBBY0J6NkJRNW16cHNidXhEcmNWLVFyaFEtSlgwb05CY1FYaG0ybG1SMEt0bHBkNmhPbVg2OWR6REZlazNrUHVqZkNaVUQ4YnJDUFRVYl9rQXZXLXRPangzdW1FZTQtQUNqeHlENTZZOUFHTm1GX3MyT0gzcDF4QjlkZGZjZmx3eHYzY0VVQVRWYlA1c19pNm1qaU9iaG16d0liMHBEZnJ2aTFNSzZ6Xy1STVpTTDI1UXFVNDVXZzdOeXRF?oc=5",
+      "medio": "El Tiempo",
       "fecha": "2026-10-09T07:00:00.000Z",
       "imagen": "",
       "tema": "Sociedad de Activos Especiales subasta"
     },
     {
-      "titulo": "Así fue la gran subasta de bienes de la SAE en septiembre: el Estado recogió $16 mil millones incautados a la mafia - El Tiempo",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMzRETjBySnFmNDRnVFZWYVpTRk9WTFdGN0V1dG8zVzNJSjFGcVNzejAyZ05WOVRmaEttZHlFa1ZXWEdQNEZPVmd2YWM0VjdKN0NlVVFlWEI4X1l6NG5YM0FKdTROYzFwSm80Q3FlekRzVkdiSFA2OXE3QkI5QTVIUXhoT0xQQmJaeFdQb25ZeURhZGFyZlV2THhFWn",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMzRETjBySnFmNDRnVFZWYVpTRk9WTFdGN0V1dG8zVzNJSjFGcVNzejAyZ05WOVRmaEttZHlFa1ZXWEdQNEZPVmd2YWM0VjdKN0NlVVFlWEI4X1l6NG5YM0FKdTROYzFwSm80Q3FlekRzVkdiSFA2OXE3QkI5QTVIUXhoT0xQQmJaeFdQb25ZeURhZGFyZlV2THhFWnJ1dkMwYkp4NjNQanp1VXRWT0NGWjBXYUZuSTR1WTI3X0JNMVNoMTJzU0hDUmxscTBtOUxpdlV4R2R3OFYzaXVqczBMSW5wdklpS1VUSEI5U29rRzRpNk1hMGdXNnprUk44Z9IBgwJBVV95cUxQTXcyX0lDVXJfMC1vNzhrUmhMR0dEXzdWME1wS3BDSzg5MjBTUHFQblBEVFBxLVhRY3NwTjhhd2tDV21ibDhybVBBY0J6NkJRNW16cHNidXhEcmNWLVFyaFEtSlgwb05CY1FYaG0ybG1SMEt0bHBkNmhPbVg2OWR6REZlazNrUHVqZkNaVUQ4YnJDUFRVYl9rQXZXLXRPangzdW1FZTQtQUNqeHlENTZZOUFHTm1GX3MyT0gzcDF4QjlkZGZjZmx3eHYzY0VVQVRWYlA1c19pNm1qaU9iaG16d0liMHBEZnJ2aTFNSzZ6Xy1STVpTTDI1UXFVNDVXZzdOeXRF?oc=5",
-      "medio": "El Tiempo",
+      "titulo": "SAE reporta recuperación de más de $16.000 millones tras subastas de bienes incautados en Colombia - Revista Semana",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxOYUJCVkpETDFuUU1nNWlxck9BaGJvS1FUWVhYdnNJallmR0VTVFN2b1ZxUEZWLU95X252VXhoQzVHeXR2bHMyem5ldFR4ajJCZmZvN2d2VEhRUnI0Q2gzeUwzdTVCMWNQOW5wNTE5c1FkcjBXc0w2a0E4SWZ0bFdtYmFlRmlHMlZlYVVWSnM2aDNhM1RaN2lqNXE5Qk",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOYUJCVkpETDFuUU1nNWlxck9BaGJvS1FUWVhYdnNJallmR0VTVFN2b1ZxUEZWLU95X252VXhoQzVHeXR2bHMyem5ldFR4ajJCZmZvN2d2VEhRUnI0Q2gzeUwzdTVCMWNQOW5wNTE5c1FkcjBXc0w2a0E4SWZ0bFdtYmFlRmlHMlZlYVVWSnM2aDNhM1RaN2lqNXE5QkZ6ZjEwdVFvMWExclRGVmNYVjZ0Y0YtOHVOWWVzZDgtMEtLZlctZERXNzNubklrVnVWMHgxS1VNdFMzVWIyZ1cwY1VMMkp1TjNYTWFYSzlhaUN6amjSAfYBQVVfeXFMTVVvdmhacDBxa2xiTWI0RUo4YVhIWldaeEpMSjNWMHE3WG5TX1dib1J0MHozSVRZdmVzak9iWHJPN3Q5QWlTWTAydmhOS2RFMWZ5OG1mNlJLLWJ2YXUzNlpjb1puQkJZRXprVkN5T1B3VU1uLUs4S2IyWVZ1OFlRZFFkRHlzQ3U1S254dHRvaUJoSF9ERE42V3lrOXpnNzI3MTlQMGxqMlVwYlBReWdjbnk1TkFmd1JpSWRjanBhb3NQd0RHOXZNREFMdHZId21hNGNYc05BNjZJSDVtT3A2ZFFtdHhmLUlELXJkaXVEdFNCZkZRcm13?oc=5",
+      "medio": "Revista Semana",
       "fecha": "2026-10-09T07:00:00.000Z",
       "imagen": "",
       "tema": "Sociedad de Activos Especiales subasta"
@@ -588,15 +597,6 @@
       "tema": "Sociedad de Activos Especiales subasta"
     },
     {
-      "titulo": "Viviendas en Bogotá, Cali y Medellín con arriendos desde $360 mil: oferta de la SAE - La Kalle",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxObmJwU3VOdlFVM2xMZlk0dDNkVndFelcwQkxBbW83VVJXeHFyOGlSQWF4cFpjbDU1YldrVnZUVTNKRlFLWHBOTjFvNzA2UzRUZUFaTVpGVHoza196WlAzeWN6NUd3TF9aX0Rka1I5dDFZci1DMjJxWmlKSk1jcjlTc3FmRTNyUlBUdGxlZlZfdVFsXzE1T05oVktfS2",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObmJwU3VOdlFVM2xMZlk0dDNkVndFelcwQkxBbW83VVJXeHFyOGlSQWF4cFpjbDU1YldrVnZUVTNKRlFLWHBOTjFvNzA2UzRUZUFaTVpGVHoza196WlAzeWN6NUd3TF9aX0Rka1I5dDFZci1DMjJxWmlKSk1jcjlTc3FmRTNyUlBUdGxlZlZfdVFsXzE1T05oVktfS2NoYWRiV0NXeDJpa0I3VnFCdEo5bC04TVJLcWQtNzJfaW1UNk1TbW80QzRRVjkxdVBHMlJVZnRNOF9LOERmVkNLQVJJ0gHsAUFVX3lxTFAxSllCMHgxbU44TU5yS3RmUDA1WENFdzF3S2t5MmsyZ2dTVTdnQ3JlcGlFMXExRDlTNFZBTTlQZ1RPc0ZGeWIxakN0eVRWdmlRRVZYRF9wMWk0dGdwblFTcTM2S3FWbjdabnh1LUFJT1JWTkdBdnNVdHdiLXJNSmNxVUZBaDV5X2xiUlpJeGJHbzRDLWE5a01vbEowOTZ6ZXJ3VE9hSnUycHpnOElONVlPZW84eU5tcmdYemttREp4YVBnLWFNWVdYeDhMZ196S3NOOEtUcXh6TzQtU0pScjhKNnJUVlA2aVNiR2tU?oc=5",
-      "medio": "La Kalle",
-      "fecha": "2026-10-07T07:00:00.000Z",
-      "imagen": "",
-      "tema": "SAE Antioquia inmuebles"
-    },
-    {
       "titulo": "Activos por Colombia incluye lote en Santa Marta entre inmuebles disponibles para subasta - Caracol Radio",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUlM4MmVfSi03S1dZbFdMU1g2REJKZ0llMzgzakFYX01aYTFCUzRjV1RnUFlrNlVXekItc1hha3RCbHA4ZGJ1R1NPc0RJa2VBZURqeHB3czZZeUo5bnpGNTJjNk5vQVcyb0pDeFNiaWtkYXRKRTF3YWdESnFHTGRickFLMkNJVlp5RUxLanprQUJzSEFMQVhHRmtvb0",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUlM4MmVfSi03S1dZbFdMU1g2REJKZ0llMzgzakFYX01aYTFCUzRjV1RnUFlrNlVXekItc1hha3RCbHA4ZGJ1R1NPc0RJa2VBZURqeHB3czZZeUo5bnpGNTJjNk5vQVcyb0pDeFNiaWtkYXRKRTF3YWdESnFHTGRickFLMkNJVlp5RUxLanprQUJzSEFMQVhHRmtvb0VaQjR5UEZVMjZUUDZ3bXRLYUZvcjRGQUhuT1JkRk50bDVRVU02UdIB1gFBVV95cUxQV2cxbGpHUURESkRJcFd5c0hWYk9wQWpva3RhRlFUZmUxTUIwcEVzd1cyWEtoMjQzbW4wRFlTZnJjUUd5MHlSa1JOeTd4T3hlNGtaNFVmZnNmeDJFZkpPZVRmeUhNdG9xeGF3SHNQR2VJQlA4SndaRWtuU2JjcUprQ3dhbFNWbFRhM25hUzgtVDNXRjNWU0p1RzdRR3lLOHNtUEFsVTZ4TG0wQUVoekRTaUxlWHBXWkNSRjZDWFhzYWpZeXNlQmxlMTR6eVpmNDFFSVNueWhR?oc=5",
@@ -604,6 +604,15 @@
       "fecha": "2026-10-07T07:00:00.000Z",
       "imagen": "",
       "tema": "Sociedad de Activos Especiales subasta"
+    },
+    {
+      "titulo": "Viviendas en Bogotá, Cali y Medellín con arriendos desde $360 mil: oferta de la SAE - La Kalle",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxObmJwU3VOdlFVM2xMZlk0dDNkVndFelcwQkxBbW83VVJXeHFyOGlSQWF4cFpjbDU1YldrVnZUVTNKRlFLWHBOTjFvNzA2UzRUZUFaTVpGVHoza196WlAzeWN6NUd3TF9aX0Rka1I5dDFZci1DMjJxWmlKSk1jcjlTc3FmRTNyUlBUdGxlZlZfdVFsXzE1T05oVktfS2",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObmJwU3VOdlFVM2xMZlk0dDNkVndFelcwQkxBbW83VVJXeHFyOGlSQWF4cFpjbDU1YldrVnZUVTNKRlFLWHBOTjFvNzA2UzRUZUFaTVpGVHoza196WlAzeWN6NUd3TF9aX0Rka1I5dDFZci1DMjJxWmlKSk1jcjlTc3FmRTNyUlBUdGxlZlZfdVFsXzE1T05oVktfS2NoYWRiV0NXeDJpa0I3VnFCdEo5bC04TVJLcWQtNzJfaW1UNk1TbW80QzRRVjkxdVBHMlJVZnRNOF9LOERmVkNLQVJJ0gHsAUFVX3lxTFAxSllCMHgxbU44TU5yS3RmUDA1WENFdzF3S2t5MmsyZ2dTVTdnQ3JlcGlFMXExRDlTNFZBTTlQZ1RPc0ZGeWIxakN0eVRWdmlRRVZYRF9wMWk0dGdwblFTcTM2S3FWbjdabnh1LUFJT1JWTkdBdnNVdHdiLXJNSmNxVUZBaDV5X2xiUlpJeGJHbzRDLWE5a01vbEowOTZ6ZXJ3VE9hSnUycHpnOElONVlPZW84eU5tcmdYemttREp4YVBnLWFNWVdYeDhMZ196S3NOOEtUcXh6TzQtU0pScjhKNnJUVlA2aVNiR2tU?oc=5",
+      "medio": "La Kalle",
+      "fecha": "2026-10-07T07:00:00.000Z",
+      "imagen": "",
+      "tema": "SAE Antioquia inmuebles"
     },
     {
       "titulo": "SAE arrienda apartamentos y casas desde $ 360 mil en octubre de 2026: entrega inmuebles en distintas ciudades de Colombia - RED+ Noticias",
@@ -712,15 +721,6 @@
       "fecha": "2026-09-03T07:00:00.000Z",
       "imagen": "",
       "tema": "SAE inmuebles venta"
-    },
-    {
-      "titulo": "Casas y apartamentos desde $20 millones en remate de la SAE; así puede adquirirlos por medio del Fondo del Ahorro - Revista Semana",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxQazhtZWJNb05zMDRVWGNCcGhfNFRTWUM2NzluUVlVSjlsLVUycGRjRml4VFRaZDJnT2RHWmF6Y2FGbEVDZVU3b19HaC1IRjFFR0dSWVl0SVJuejNaV3hhZVc3MUd1RDRZQ21adWdiWmdRRUJ3U1BkaWcySWxjTkRCNloyVnJlMm1CRUFsMmxVdTcwVmJJalZLbFhCZ3",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQazhtZWJNb05zMDRVWGNCcGhfNFRTWUM2NzluUVlVSjlsLVUycGRjRml4VFRaZDJnT2RHWmF6Y2FGbEVDZVU3b19HaC1IRjFFR0dSWVl0SVJuejNaV3hhZVc3MUd1RDRZQ21adWdiWmdRRUJ3U1BkaWcySWxjTkRCNloyVnJlMm1CRUFsMmxVdTcwVmJJalZLbFhCZ3dPS2JGNXBzRTJKM1I5VEFpeEkwNVNjYmFzcC03TzhhSXVBSUFWZGptaWxpckQ5bVF6S2FybDNFTHRUMkdHN3A5cFBMZEU5dlF1UU5xVW1xQ19IdEdrWUU3bFFSUnE2by1zdDJrYVpRUERuUFRnLXRw0gGSAkFVX3lxTE9VS0dCcHBpbHg1WUMxcGtqMnA0czI3cHNoSFdVYkV3UkJKOGJhSkl6UlQ1eDJWNW9aUFBYOVdsSkFNYnd2SVQ2V3pjM0xnS2o4SW11WmVOLWVjakd6U3RkdFdfMERXNndsQjFudEcxcFIzWW5JSUJDOXJ0YXZTWGZHVzJEX2diMHpfbVhtd0EycU01R0ZSekh3UGttQUZVY2ZtX1BYTzFsY1VjVGhDRkJ3YjNQOXRNUzM0TmRoZExJeHVDczgycjlET3J4RTNEanNIZEJoekVLb3llNXp2T0FzaTVaUF95UTNaOFgxaE5CTDEyNEU5QXZ1QkM5c0IzR0JWX0pDbEVXWnJ3OXhGS2xnanc?oc=5",
-      "medio": "Revista Semana",
-      "fecha": "2026-09-03T07:00:00.000Z",
-      "imagen": "",
-      "tema": "SAE FNA remate inmuebles"
     }
   ]
 }

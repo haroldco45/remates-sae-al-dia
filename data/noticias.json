@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-23T02:56:41.340Z",
+  "actualizado": "2026-11-23T11:47:00.823Z",
   "total": 80,
   "noticias": [
     {
@@ -207,7 +207,7 @@
       "medio": "Cambio Colombia",
       "fecha": "2026-11-13T05:33:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.mEKsg77yNKUeqLsqfojZfQ&pid=News",
-      "tema": "SAE inmuebles venta"
+      "tema": "SAE Antioquia inmuebles"
     },
     {
       "titulo": "La fortuna de medio billón de pesos en bienes de alias Tom que persiguen la Fiscalía y la SAE",
@@ -217,15 +217,6 @@
       "fecha": "2026-11-13T04:54:00.000Z",
       "imagen": "",
       "tema": "SAE bienes extinción de dominio venta"
-    },
-    {
-      "titulo": "Hasta el 90 % de financiación para vivienda: así puede acceder con el FNA - Pulzo",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNcDFRQXNpUThrV2lCZVhEaHZ4b1dZaE9mZm5CMVgtZDduaGdHS0lsWGhfV2FkUHNlM2pkemkxbnI2R0h2NHpCQ0VTR3ZpTFBBRS1tOG1mMFIzOXZPU1hOZEg3cVZWZURvRDlOVVJtd1BLUlRDcVlScGFjaEl6WDBKMkl3cllSNFB4bzV5NDFUT2JaUlcwNEhiTNIBng",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcDFRQXNpUThrV2lCZVhEaHZ4b1dZaE9mZm5CMVgtZDduaGdHS0lsWGhfV2FkUHNlM2pkemkxbnI2R0h2NHpCQ0VTR3ZpTFBBRS1tOG1mMFIzOXZPU1hOZEg3cVZWZURvRDlOVVJtd1BLUlRDcVlScGFjaEl6WDBKMkl3cllSNFB4bzV5NDFUT2JaUlcwNEhiTNIBngFBVV95cUxPWkdBV2E2cFh5SlNUQTBLRVkxWXdKc1ZRSjVVUmJDSVdMeHoyZ3hmYWFweDlaeXgwTTRxWTBqc2dTaERna3haS2pLYzBURlNUVGtRYnZFTV9PeGhMR0ttSlpEbVltVTJENGtqaU9RWHl4QmdPVGlLREh5TlpqVTFrRWQwcE0wb0ppeVh3cDQxTDJTandmR1ptVVhOOXJOQQ?oc=5",
-      "medio": "Pulzo",
-      "fecha": "2026-11-12T22:38:11.000Z",
-      "imagen": "",
-      "tema": "Fondo Nacional del Ahorro crédito vivienda usada"
     },
     {
       "titulo": "FNA da alternativa con cesantías para que ciudadanos puedan comprar vivienda con importante financiación",
@@ -246,12 +237,21 @@
       "tema": "Fondo Nacional del Ahorro crédito vivienda usada"
     },
     {
+      "titulo": "Hasta el 90 % de financiación para vivienda: así puede acceder con el FNA - Pulzo",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNcDFRQXNpUThrV2lCZVhEaHZ4b1dZaE9mZm5CMVgtZDduaGdHS0lsWGhfV2FkUHNlM2pkemkxbnI2R0h2NHpCQ0VTR3ZpTFBBRS1tOG1mMFIzOXZPU1hOZEg3cVZWZURvRDlOVVJtd1BLUlRDcVlScGFjaEl6WDBKMkl3cllSNFB4bzV5NDFUT2JaUlcwNEhiTNIBng",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcDFRQXNpUThrV2lCZVhEaHZ4b1dZaE9mZm5CMVgtZDduaGdHS0lsWGhfV2FkUHNlM2pkemkxbnI2R0h2NHpCQ0VTR3ZpTFBBRS1tOG1mMFIzOXZPU1hOZEg3cVZWZURvRDlOVVJtd1BLUlRDcVlScGFjaEl6WDBKMkl3cllSNFB4bzV5NDFUT2JaUlcwNEhiTNIBngFBVV95cUxPWkdBV2E2cFh5SlNUQTBLRVkxWXdKc1ZRSjVVUmJDSVdMeHoyZ3hmYWFweDlaeXgwTTRxWTBqc2dTaERna3haS2pLYzBURlNUVGtRYnZFTV9PeGhMR0ttSlpEbVltVTJENGtqaU9RWHl4QmdPVGlLREh5TlpqVTFrRWQwcE0wb0ppeVh3cDQxTDJTandmR1ptVVhOOXJOQQ?oc=5",
+      "medio": "Pulzo",
+      "fecha": "2026-11-12T08:00:00.000Z",
+      "imagen": "",
+      "tema": "Fondo Nacional del Ahorro crédito vivienda usada"
+    },
+    {
       "titulo": "Gobierno vendería bienes de la SAE para pagar deuda: hay fincas, aviones y Ferraris",
       "resumen": "El ministro de Hacienda explicó que los recursos obtenidos por estas ventas se destinarían exclusivamente al prepago de la deuda pública.",
       "link": "https://www.lafm.com.co/economia/venta-bienes-sae-pago-deuda-publica-ferraris-objetos-lujo-416948",
       "medio": "La FM",
       "fecha": "2026-11-11T17:27:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.XhMp5NtTEMAWswEJ3FsIZA&pid=News",
+      "imagen": "http://www.bing.com/th?id=ONUT.78uxNu4tIlcE_-1f24HW3A&pid=News",
       "tema": "SAE bienes extinción de dominio venta"
     },
     {
@@ -279,7 +279,7 @@
       "medio": "El Tiempo",
       "fecha": "2026-11-11T08:00:00.000Z",
       "imagen": "",
-      "tema": "Sociedad de Activos Especiales subasta"
+      "tema": "SAE FNA remate inmuebles"
     },
     {
       "titulo": "SAE vende inmuebles desde $23 millones en Colombia: así puede comprarlos con el FNA - Noticias RCN",
@@ -341,7 +341,7 @@
       "link": "https://www.msn.com/es-co/noticias/otras/bitcoin-y-otras-criptomonedas-podr%C3%ADan-entrar-en-procesos-de-extinci%C3%B3n-de-dominio-estos-son-los-retos-de-la-sae/ar-AA2h5SmE",
       "medio": "Portafolio on MSN",
       "fecha": "2026-11-09T15:44:51.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.pl203imdkltfcN3y8ts_XQ&pid=News",
+      "imagen": "http://www.bing.com/th?id=ONUT.EJcGcWL2u2VMRwMawYb_oA&pid=News",
       "tema": "SAE bienes extinción de dominio venta"
     },
     {
@@ -390,15 +390,6 @@
       "tema": "SAE Antioquia inmuebles"
     },
     {
-      "titulo": "FNA, Bbva y AV Villas tienen las tasas más bajas en pesos y UVR para crédito de vivienda - LaRepublica.co",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPV2t1MmlqdFF4dTVFMlZLOUs4YWsweXVJelctV2ZnalBabWpiS1RpVXQ4Q2xjdnJneEhsOTVqZ1BPMmR4aXpFT2tucW0xbE9DbmpneUxtbmVhbkRod2NYZUpBMVFGeGxzcC1CTkFFWmJxVE9sZ0tWMVF4OUZmVllCeVhPMnBrX0VjcU52QTdpOGdNbEZMN0F5b3dSZV",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPV2t1MmlqdFF4dTVFMlZLOUs4YWsweXVJelctV2ZnalBabWpiS1RpVXQ4Q2xjdnJneEhsOTVqZ1BPMmR4aXpFT2tucW0xbE9DbmpneUxtbmVhbkRod2NYZUpBMVFGeGxzcC1CTkFFWmJxVE9sZ0tWMVF4OUZmVllCeVhPMnBrX0VjcU52QTdpOGdNbEZMN0F5b3dSZVpxSzZfaHlqdlU5azhkTkh4d1VBWGU1MHZWSEl4SUxsVEZJYUJDNUZtTUdzM01XY9IBywFBVV95cUxQZS1RMGxfd1VrQWlPSXFKZjFzcGVodUtCUEtJckZSZlppNXppM2k3MHliNXVna0FKM0h1OFE0QnhpU2c5cG9jeWUxTWRVQzhtQ1VSQnVTY1RxakZOSWtwOXk4Sy1fOUY0S0dCc2VDckt2MUFzcmNrV1JVWkJGazk5S3FHY3lhNS1TbWdjSEpGa2Fib0Z4SXVkTTZTNXVRMnQyNzQ1UnBMZ1ZBSE53WGhicnN2TUJhZ0ROckE4WGh3MGVJSWZnMFJXRXd5UQ?oc=5",
-      "medio": "LaRepublica.co",
-      "fecha": "2026-11-04T08:00:00.000Z",
-      "imagen": "",
-      "tema": "FNA vivienda tasas"
-    },
-    {
       "titulo": "FNA, BBVA y AV Villas tienen tasas más bajas para comprar vivienda en Colombia: así compiten hoy - Pulzo",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPQUI0eE0wRTVkQkRTUHRFck9kVW51QllHdGNaTGhSWHhTSUdUN0NrS2xJcC1HTm9BelJfTGRQRFR4WlYwdmE2eVJnMmsydTl0VlJNR1d1OTVnTFIzUlRZdHg5VmpJQ2xqcHo4bDF0akZlX0dKRFF0MEg0UnpQRFJfTU5lNzhIZ3RQdFo5bjd3b08wbWlaMEhZLXlOc1",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQUI0eE0wRTVkQkRTUHRFck9kVW51QllHdGNaTGhSWHhTSUdUN0NrS2xJcC1HTm9BelJfTGRQRFR4WlYwdmE2eVJnMmsydTl0VlJNR1d1OTVnTFIzUlRZdHg5VmpJQ2xqcHo4bDF0akZlX0dKRFF0MEg0UnpQRFJfTU5lNzhIZ3RQdFo5bjd3b08wbWlaMEhZLXlOc1U1WGFpemxN0gGoAUFVX3lxTFBnZlgwa0kyOGRzNG1nTTJSUG5aVFRrRzNfY3Nva29HLUxjQmlVQ3BDdUlyRXBjemFXWTc2SFJfSXVvRjUzUFF5c0djR25kU19HZktQMGt2ZXhvOU1iWDZrMFp4cm1aWnI0RTEzVlVZSEZXbXQyYTdReHVKdWotRDhrRlNqdEtGQXpJX3oxRzRKemRISzU0YTZteDJ4SXIzeWU4VEZvaGx0TQ?oc=5",
@@ -415,6 +406,15 @@
       "fecha": "2026-11-04T08:00:00.000Z",
       "imagen": "",
       "tema": "SAE bienes extinción de dominio venta"
+    },
+    {
+      "titulo": "FNA, Bbva y AV Villas tienen las tasas más bajas en pesos y UVR para crédito de vivienda",
+      "resumen": "Los créditos de vivienda en pesos pueden ser una opción para quienes tengan mayor presupuesto para la cuota inicial, mientras que la opción de UVR estará atada al IPC ...",
+      "link": "https://www.msn.com/es-co/noticias/otras/fna-bbva-y-av-villas-tienen-las-tasas-m%C3%A1s-bajas-en-pesos-y-uvr-para-cr%C3%A9dito-de-vivienda/ar-AA2gHJd0",
+      "medio": "La República on MSN",
+      "fecha": "2026-11-03T21:01:58.000Z",
+      "imagen": "",
+      "tema": "FNA vivienda tasas"
     },
     {
       "titulo": "La SAE subastará 93 vehículos en noviembre: estas son las fechas, los catálogos y el proceso para participar",

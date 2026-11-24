@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-23T23:13:15.417Z",
+  "actualizado": "2026-11-24T07:00:30.558Z",
   "total": 80,
   "noticias": [
     {
@@ -10,6 +10,15 @@
       "fecha": "2026-11-23T12:49:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.OVP9ScbxPp6aBKW3m1SAxA&pid=News",
       "tema": "SAE bienes extinción de dominio venta"
+    },
+    {
+      "titulo": "'SAE venderá bienes a personas que busquen producir, generen empleo y muevan la economía': directora comercial de la entidad",
+      "resumen": "EL TIEMPO habló con Estefanía Espinal, quien reveló la nueva estrategia de comercialización de activos que en el pasado pertenecieron a la mafia, ...",
+      "link": "https://www.eltiempo.com/justicia/investigacion/sae-vendera-bienes-a-personas-que-busquen-producir-generen-empleo-y-muevan-la-economia-directora-comercial-de-la-entidad-3603394",
+      "medio": "El Tiempo",
+      "fecha": "2026-11-23T10:03:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.DNo8o_TIQ_0eku3HNYVCrA&pid=News",
+      "tema": "SAE inmuebles venta"
     },
     {
       "titulo": "La SAE lanza venta de inmuebles con descuentos de hasta el 40 % antes de la actualización de avalúos en 2027",
@@ -350,7 +359,7 @@
       "link": "https://www.msn.com/es-co/noticias/otras/bitcoin-y-otras-criptomonedas-podr%C3%ADan-entrar-en-procesos-de-extinci%C3%B3n-de-dominio-estos-son-los-retos-de-la-sae/ar-AA2h5SmE",
       "medio": "Portafolio on MSN",
       "fecha": "2026-11-09T15:44:51.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.EJcGcWL2u2VMRwMawYb_oA&pid=News",
+      "imagen": "",
       "tema": "SAE bienes extinción de dominio venta"
     },
     {
@@ -390,13 +399,22 @@
       "tema": "Fondo Nacional del Ahorro crédito vivienda usada"
     },
     {
-      "titulo": "La SAE recuperó dos lujosos inmuebles del empresario Euclides Torres, señalado de financiar la campaña presidencial de Gustavo Petro: estaban siendo ocupados ilegalmente - Infobae",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMitwJBVV95cUxPMndnNW83aWxMZnR1TDh1NUhGZnlBMkEzcWk1bi0yLUZGanpBY3Y0Wm5lbDlyX1NkSWI1UU9XYl84U0pHUkJndFl1REYxRUJyVjNub0NoWVJyV0o4T000bXZWNTZQT2N3ZXFfUmgxclIyZnR6TUhVNDZRd3FPNTdVMVFDNEhfMS1McnVJdEpXYnhCOW1QVFI4RGxrWT",
-      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPMndnNW83aWxMZnR1TDh1NUhGZnlBMkEzcWk1bi0yLUZGanpBY3Y0Wm5lbDlyX1NkSWI1UU9XYl84U0pHUkJndFl1REYxRUJyVjNub0NoWVJyV0o4T000bXZWNTZQT2N3ZXFfUmgxclIyZnR6TUhVNDZRd3FPNTdVMVFDNEhfMS1McnVJdEpXYnhCOW1QVFI4RGxrWTFXaDlLSm5kb1JWZWFSTUt1X0hTc1dNbWVfZ09TVEJMblB3S2NTMzA0ZHhDbkotQ0FST0RqVUVGMzVzdUEzVGVCdndxaUREanVhdmtPZXVJYXphLWlKcUlfMVRQRFVBVWFPUHRlRG01UFp3M1VfWDkxd1A5ZURtSXBEeU1aOWRiVkx5cmFvYl9KcFJiY0d5R0FhTFpCN0VqVXgyQdIB0gJBVV95cUxNYnl1eDdLNEZNNFprbVdoNGI4dTBOeGk2Njd2V3hoMi13M1gyYkpUR2VjVEZ2emxwSTQzcnZiUFNPOF9hSkY4a2xISzJsZDhNT0dBNmhrZ0hFM2JBMXRENWFlbUVRYTdDc2RlVVJ1TlRxTjVKT2pRNTBHdWdOV2MxSXFmeDhLaGhzczhDbG5KSGtsU3gxUGdEOHNMVVQ5OF9NLWZTTjR6azI1T1QtcUhwNTE1TlVUQTRQbC0tOTk2M2pjdFdwRUQ4WGNuWGJ3cHh1TzN2TmZzMmxLYk54cjNmaGdZU19JTEhrTFd0WDB0UHVsOFZIVUpWUmNlNDZGSWM4YUJteFEwSTRzNFl5b1p2Vm9IUnlwVXNKTTVlNDdxRnZxSUxmZXlIdnpQVjFpWHRJYWhRd2ZiN01nMEtTZTUyRFg1czlDSVIzS04zOWxtcTdNdw?oc=5",
-      "medio": "Infobae",
+      "titulo": "La SAE recupera dos lujosos bienes del Clan Torres en Barranquilla sometidos a extinción de dominio - Diario La Libertad",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY1VyeHM1cE1Xd2FoX2lVZ3RneHFOM0hla19HeEVRUko1WEpnTExrcC0zNkdZMzZ3UXl5NFFJQ2hlakpOOU1HVVNxX0FXM2xIb0JvT0RQX1FDTTVsOXhXN08wM25hbmRyS3duaEhvUEhvWUNpZThQX21qMkFPa2VKMDA3azhoSkwxeVlqUG9zRThlc0RWTVVTbmgxSj",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY1VyeHM1cE1Xd2FoX2lVZ3RneHFOM0hla19HeEVRUko1WEpnTExrcC0zNkdZMzZ3UXl5NFFJQ2hlakpOOU1HVVNxX0FXM2xIb0JvT0RQX1FDTTVsOXhXN08wM25hbmRyS3duaEhvUEhvWUNpZThQX21qMkFPa2VKMDA3azhoSkwxeVlqUG9zRThlc0RWTVVTbmgxSjZLQnFrTzFiTEpZOFhySlZFNmJQUVVPQVR1TjF0c0xZcFhtZ1NPdlRTRVRxaVVyOUxHSEhBWHJPZXl6OA?oc=5",
+      "medio": "Diario La Libertad",
       "fecha": "2026-11-04T08:00:00.000Z",
       "imagen": "",
-      "tema": "SAE Antioquia inmuebles"
+      "tema": "SAE bienes extinción de dominio venta"
+    },
+    {
+      "titulo": "FNA, Bbva y AV Villas tienen las tasas más bajas en pesos y UVR para crédito de vivienda - LaRepublica.co",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPV2t1MmlqdFF4dTVFMlZLOUs4YWsweXVJelctV2ZnalBabWpiS1RpVXQ4Q2xjdnJneEhsOTVqZ1BPMmR4aXpFT2tucW0xbE9DbmpneUxtbmVhbkRod2NYZUpBMVFGeGxzcC1CTkFFWmJxVE9sZ0tWMVF4OUZmVllCeVhPMnBrX0VjcU52QTdpOGdNbEZMN0F5b3dSZV",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPV2t1MmlqdFF4dTVFMlZLOUs4YWsweXVJelctV2ZnalBabWpiS1RpVXQ4Q2xjdnJneEhsOTVqZ1BPMmR4aXpFT2tucW0xbE9DbmpneUxtbmVhbkRod2NYZUpBMVFGeGxzcC1CTkFFWmJxVE9sZ0tWMVF4OUZmVllCeVhPMnBrX0VjcU52QTdpOGdNbEZMN0F5b3dSZVpxSzZfaHlqdlU5azhkTkh4d1VBWGU1MHZWSEl4SUxsVEZJYUJDNUZtTUdzM01XY9IBywFBVV95cUxQZS1RMGxfd1VrQWlPSXFKZjFzcGVodUtCUEtJckZSZlppNXppM2k3MHliNXVna0FKM0h1OFE0QnhpU2c5cG9jeWUxTWRVQzhtQ1VSQnVTY1RxakZOSWtwOXk4Sy1fOUY0S0dCc2VDckt2MUFzcmNrV1JVWkJGazk5S3FHY3lhNS1TbWdjSEpGa2Fib0Z4SXVkTTZTNXVRMnQyNzQ1UnBMZ1ZBSE53WGhicnN2TUJhZ0ROckE4WGh3MGVJSWZnMFJXRXd5UQ?oc=5",
+      "medio": "LaRepublica.co",
+      "fecha": "2026-11-04T08:00:00.000Z",
+      "imagen": "",
+      "tema": "FNA vivienda tasas"
     },
     {
       "titulo": "FNA, BBVA y AV Villas tienen tasas más bajas para comprar vivienda en Colombia: así compiten hoy - Pulzo",
@@ -408,22 +426,13 @@
       "tema": "FNA vivienda tasas"
     },
     {
-      "titulo": "La SAE recupera dos lujosos bienes del Clan Torres en Barranquilla sometidos a extinción de dominio - Diario La Libertad",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY1VyeHM1cE1Xd2FoX2lVZ3RneHFOM0hla19HeEVRUko1WEpnTExrcC0zNkdZMzZ3UXl5NFFJQ2hlakpOOU1HVVNxX0FXM2xIb0JvT0RQX1FDTTVsOXhXN08wM25hbmRyS3duaEhvUEhvWUNpZThQX21qMkFPa2VKMDA3azhoSkwxeVlqUG9zRThlc0RWTVVTbmgxSj",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY1VyeHM1cE1Xd2FoX2lVZ3RneHFOM0hla19HeEVRUko1WEpnTExrcC0zNkdZMzZ3UXl5NFFJQ2hlakpOOU1HVVNxX0FXM2xIb0JvT0RQX1FDTTVsOXhXN08wM25hbmRyS3duaEhvUEhvWUNpZThQX21qMkFPa2VKMDA3azhoSkwxeVlqUG9zRThlc0RWTVVTbmgxSjZLQnFrTzFiTEpZOFhySlZFNmJQUVVPQVR1TjF0c0xZcFhtZ1NPdlRTRVRxaVVyOUxHSEhBWHJPZXl6OA?oc=5",
-      "medio": "Diario La Libertad",
+      "titulo": "La SAE recuperó dos lujosos inmuebles del empresario Euclides Torres, señalado de financiar la campaña presidencial de Gustavo Petro: estaban siendo ocupados ilegalmente - Infobae",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMitwJBVV95cUxPMndnNW83aWxMZnR1TDh1NUhGZnlBMkEzcWk1bi0yLUZGanpBY3Y0Wm5lbDlyX1NkSWI1UU9XYl84U0pHUkJndFl1REYxRUJyVjNub0NoWVJyV0o4T000bXZWNTZQT2N3ZXFfUmgxclIyZnR6TUhVNDZRd3FPNTdVMVFDNEhfMS1McnVJdEpXYnhCOW1QVFI4RGxrWT",
+      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPMndnNW83aWxMZnR1TDh1NUhGZnlBMkEzcWk1bi0yLUZGanpBY3Y0Wm5lbDlyX1NkSWI1UU9XYl84U0pHUkJndFl1REYxRUJyVjNub0NoWVJyV0o4T000bXZWNTZQT2N3ZXFfUmgxclIyZnR6TUhVNDZRd3FPNTdVMVFDNEhfMS1McnVJdEpXYnhCOW1QVFI4RGxrWTFXaDlLSm5kb1JWZWFSTUt1X0hTc1dNbWVfZ09TVEJMblB3S2NTMzA0ZHhDbkotQ0FST0RqVUVGMzVzdUEzVGVCdndxaUREanVhdmtPZXVJYXphLWlKcUlfMVRQRFVBVWFPUHRlRG01UFp3M1VfWDkxd1A5ZURtSXBEeU1aOWRiVkx5cmFvYl9KcFJiY0d5R0FhTFpCN0VqVXgyQdIB0gJBVV95cUxNYnl1eDdLNEZNNFprbVdoNGI4dTBOeGk2Njd2V3hoMi13M1gyYkpUR2VjVEZ2emxwSTQzcnZiUFNPOF9hSkY4a2xISzJsZDhNT0dBNmhrZ0hFM2JBMXRENWFlbUVRYTdDc2RlVVJ1TlRxTjVKT2pRNTBHdWdOV2MxSXFmeDhLaGhzczhDbG5KSGtsU3gxUGdEOHNMVVQ5OF9NLWZTTjR6azI1T1QtcUhwNTE1TlVUQTRQbC0tOTk2M2pjdFdwRUQ4WGNuWGJ3cHh1TzN2TmZzMmxLYk54cjNmaGdZU19JTEhrTFd0WDB0UHVsOFZIVUpWUmNlNDZGSWM4YUJteFEwSTRzNFl5b1p2Vm9IUnlwVXNKTTVlNDdxRnZxSUxmZXlIdnpQVjFpWHRJYWhRd2ZiN01nMEtTZTUyRFg1czlDSVIzS04zOWxtcTdNdw?oc=5",
+      "medio": "Infobae",
       "fecha": "2026-11-04T08:00:00.000Z",
       "imagen": "",
-      "tema": "SAE bienes extinción de dominio venta"
-    },
-    {
-      "titulo": "FNA, Bbva y AV Villas tienen las tasas más bajas en pesos y UVR para crédito de vivienda",
-      "resumen": "Los créditos de vivienda en pesos pueden ser una opción para quienes tengan mayor presupuesto para la cuota inicial, mientras que la opción de UVR estará atada al IPC ...",
-      "link": "https://www.msn.com/es-co/noticias/otras/fna-bbva-y-av-villas-tienen-las-tasas-m%C3%A1s-bajas-en-pesos-y-uvr-para-cr%C3%A9dito-de-vivienda/ar-AA2gHJd0",
-      "medio": "La República on MSN",
-      "fecha": "2026-11-03T21:01:58.000Z",
-      "imagen": "",
-      "tema": "FNA vivienda tasas"
+      "tema": "SAE Antioquia inmuebles"
     },
     {
       "titulo": "La SAE subastará 93 vehículos en noviembre: estas son las fechas, los catálogos y el proceso para participar",
@@ -543,22 +552,13 @@
       "tema": "SAE inmuebles venta"
     },
     {
-      "titulo": "SAE alerta por estafas con supuestas ventas de bienes, trámites y citas con directivos a cambio de dinero - Infobae",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPa1ZTZk56NGhMQXFfRng3RkdUbVdEeFF5MUw0dFY1UklNVHB1OFM1MHFlTjZkQlpVSjI4Uk9EOTFHdjktMGx5eEhCaE9VVlJfdklfTlFXNDlpbGNXUEMwNTJpYWljeGVPU2IxamZhY29qSnYwTndnYXJQc0huNnhIUHlZMEVVaHFWWkptWHhyakJ3dGNodm9iSXFhcV",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPa1ZTZk56NGhMQXFfRng3RkdUbVdEeFF5MUw0dFY1UklNVHB1OFM1MHFlTjZkQlpVSjI4Uk9EOTFHdjktMGx5eEhCaE9VVlJfdklfTlFXNDlpbGNXUEMwNTJpYWljeGVPU2IxamZhY29qSnYwTndnYXJQc0huNnhIUHlZMEVVaHFWWkptWHhyakJ3dGNodm9iSXFhcV9Ec2RSZmlBbkpUaEZjTHMwUkVEckY0WXJUbnVTR3JYSnBTbzFZaVJTZjlCcURUdGNRbmdKVTJQVkdicFZzVUdFN2IycHFsSdIB_gFBVV95cUxQNTRyaUt3aGNINnMtTC1HVmdnbGxPd2ZPaWs1aTdseXdJdzZ1R29feWdvbEswSnIwZmRmSjU2M05OUUJ3eXlWb1lfRmphWVRwaVhSTmlmc3lZeWtmTnRHU0VuRjlUdjcxRDFNZkdybjJRYmVFZmZOa01nS2g0UTRabmVnN2JaZVRlZmpkYXZrdHpINHRrVUhBVW9HQkJKWWJIQmhaS2h0RmFBQWRJZElrcjM4SWpySzRvNDFTVmFqNzlLcWVkc05sblZBN2Q2dDZmbWhULV9BSUxSdFNqczJ5eWk0V2pUTnZBaWZfRl9SSmhTbWVuWnplMm5acmY2dw?oc=5",
-      "medio": "Infobae",
-      "fecha": "2026-10-16T07:00:00.000Z",
-      "imagen": "",
-      "tema": "SAE inmuebles venta"
-    },
-    {
       "titulo": "SAE alerta sobre estafas con ventas falsas de bienes y citas fraudulentas con directivos - El País",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQOXNuQ2luZ3E3OHJMb2lZWnZBRWc4R3dfNG9KN2QyemREbXJmUmZWRmFoeVFxVUg0MTV2clZnbDNPallfYXpnZlFHLW9xZXd6SFVnRjkzQ0U0ZFF1ZmFlVlh5SUc4MmxvX0JxZkhoM2ZZUzB1eUw1cFRGRnBYSVdHSHRudTMyMDhFZlhhOVZPSTFvdTdMbFg3NHg4UE",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOXNuQ2luZ3E3OHJMb2lZWnZBRWc4R3dfNG9KN2QyemREbXJmUmZWRmFoeVFxVUg0MTV2clZnbDNPallfYXpnZlFHLW9xZXd6SFVnRjkzQ0U0ZFF1ZmFlVlh5SUc4MmxvX0JxZkhoM2ZZUzB1eUw1cFRGRnBYSVdHSHRudTMyMDhFZlhhOVZPSTFvdTdMbFg3NHg4UEVudlBBM2VzNHZrVEdMQTBJSWNuMGdlZHJqa0JiOFFiTlRZQ2k1ZGNRWXpUOUtjMEktd9IB0wFBVV95cUxQdFVyWDJFT3lvZG9Kakt3NTg3MmVMREVpejR0OUU4WVZMZGR1SWFkckFlY3p4bW1xTnRsVk1nMHN0VzYxR2hrb3RYQ1RPaWxTU3dMTXRRblNsdWVjemo1a0RaU2xaLUdDeHVucVBZWVVaU3AwRFAwUElzdnBmdGd0Y2x1TlBSS1FYX3hrZVdqRVFDaW9qVE51RzAwc0c1Z2xuaU9wYkpJZmZ0UW5NM2hid2FCQWJ6bGwwU1BXLTVrNFpZeU9IZ3hnRFNaR1VsbVdFM0Zn?oc=5",
       "medio": "El País",
       "fecha": "2026-10-16T07:00:00.000Z",
       "imagen": "",
-      "tema": "SAE inmuebles venta"
+      "tema": "Sociedad de Activos Especiales subasta"
     },
     {
       "titulo": "Sociedad de Activos Especiales advierte sobre modalidades de estafa y cobros irregulares en trámites - IFM Noticias",
@@ -568,6 +568,15 @@
       "fecha": "2026-10-16T07:00:00.000Z",
       "imagen": "",
       "tema": "SAE estafa falsos funcionarios"
+    },
+    {
+      "titulo": "SAE alerta por estafas con supuestas ventas de bienes, trámites y citas con directivos a cambio de dinero - Infobae",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPa1ZTZk56NGhMQXFfRng3RkdUbVdEeFF5MUw0dFY1UklNVHB1OFM1MHFlTjZkQlpVSjI4Uk9EOTFHdjktMGx5eEhCaE9VVlJfdklfTlFXNDlpbGNXUEMwNTJpYWljeGVPU2IxamZhY29qSnYwTndnYXJQc0huNnhIUHlZMEVVaHFWWkptWHhyakJ3dGNodm9iSXFhcV",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPa1ZTZk56NGhMQXFfRng3RkdUbVdEeFF5MUw0dFY1UklNVHB1OFM1MHFlTjZkQlpVSjI4Uk9EOTFHdjktMGx5eEhCaE9VVlJfdklfTlFXNDlpbGNXUEMwNTJpYWljeGVPU2IxamZhY29qSnYwTndnYXJQc0huNnhIUHlZMEVVaHFWWkptWHhyakJ3dGNodm9iSXFhcV9Ec2RSZmlBbkpUaEZjTHMwUkVEckY0WXJUbnVTR3JYSnBTbzFZaVJTZjlCcURUdGNRbmdKVTJQVkdicFZzVUdFN2IycHFsSdIB_gFBVV95cUxQNTRyaUt3aGNINnMtTC1HVmdnbGxPd2ZPaWs1aTdseXdJdzZ1R29feWdvbEswSnIwZmRmSjU2M05OUUJ3eXlWb1lfRmphWVRwaVhSTmlmc3lZeWtmTnRHU0VuRjlUdjcxRDFNZkdybjJRYmVFZmZOa01nS2g0UTRabmVnN2JaZVRlZmpkYXZrdHpINHRrVUhBVW9HQkJKWWJIQmhaS2h0RmFBQWRJZElrcjM4SWpySzRvNDFTVmFqNzlLcWVkc05sblZBN2Q2dDZmbWhULV9BSUxSdFNqczJ5eWk0V2pUTnZBaWZfRl9SSmhTbWVuWnplMm5acmY2dw?oc=5",
+      "medio": "Infobae",
+      "fecha": "2026-10-16T07:00:00.000Z",
+      "imagen": "",
+      "tema": "SAE inmuebles venta"
     },
     {
       "titulo": "¡Pilas! Esta es la nueva modalidad de estafa que alerta la SAE: ofrecen bienes y citas con directivos a cambio de dinero - El Tiempo",
@@ -712,15 +721,6 @@
       "fecha": "2026-10-01T07:00:00.000Z",
       "imagen": "",
       "tema": "Fondo Nacional del Ahorro crédito vivienda usada"
-    },
-    {
-      "titulo": "Inmuebles en Bogotá, Medellín y Barranquilla de la SAE salen a subasta desde $29 millones - Revista Semana",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPV3JRbzRaZURMd2tyYUFReEJnS3hOMmVqNzdnUTZmcklhcnpGcE9mcVY2aWI0bjdid18tRDNDTGlORWpiRmZDdEY0eU80NDZuRzJxV2dDbThIX25JQTZwSGNzSHlZTEhrWkpsR3VaM2ZWQ2hsUUFlUHRMdlJPbjliNlFEbFdqeFAwLUFiaDlIWEVtdFBmM0dzejIwLX",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPV3JRbzRaZURMd2tyYUFReEJnS3hOMmVqNzdnUTZmcklhcnpGcE9mcVY2aWI0bjdid18tRDNDTGlORWpiRmZDdEY0eU80NDZuRzJxV2dDbThIX25JQTZwSGNzSHlZTEhrWkpsR3VaM2ZWQ2hsUUFlUHRMdlJPbjliNlFEbFdqeFAwLUFiaDlIWEVtdFBmM0dzejIwLXZENUU1UktmQkdNT2hoYkRHRFhadnZEOGJUNUVDRVhYUUJMNDVkM2dwSGl0MDlicDgwODg?oc=5",
-      "medio": "Revista Semana",
-      "fecha": "2026-09-30T07:00:00.000Z",
-      "imagen": "",
-      "tema": "Sociedad de Activos Especiales subasta"
     }
   ]
 }

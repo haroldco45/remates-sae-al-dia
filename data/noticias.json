@@ -1,7 +1,25 @@
 {
-  "actualizado": "2026-11-25T12:18:36.982Z",
+  "actualizado": "2026-11-25T21:53:43.616Z",
   "total": 80,
   "noticias": [
+    {
+      "titulo": "SAE adjudica 24 viviendas en Cali para hogares afectados por el sismo",
+      "resumen": "Los inmuebles se entregarán a la Alcaldía antes del 20 de diciembre. La ciudad convocará a hogares afectados por el terremoto para definir beneficiarios.",
+      "link": "https://www.diariodelsur.com.co/noticias/sae-adjudica-24-viviendas-en-cali-para-hogares-afectados-por-el-sismo",
+      "medio": "Diario del Sur",
+      "fecha": "2026-11-25T12:21:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.ubNh-i0gI3FMJF_NxS-KwA&pid=News",
+      "tema": "SAE inmuebles venta"
+    },
+    {
+      "titulo": "La Sociedad de Activos Especiales entregó 24 inmuebles a la Alcaldía de Cali para las familias damnificadas por el terremoto",
+      "resumen": "La Sociedad de Activos Especiales (SAE) adjudicó 24 inmuebles a la Alcaldía de Cali para que sean entregadas a familias afectadas por el terremoto del pasado 10 de agosto, luego de ser revisadas y se ...",
+      "link": "https://www.elpais.com.co/cali/la-sociedad-de-activos-especiales-entrego-24-inmuebles-a-la-alcaldia-de-cali-para-las-familias-damnificadas-por-el-terremoto-2502.html",
+      "medio": "Diario El País",
+      "fecha": "2026-11-25T07:14:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.JCtMt8JYcb1C52ucHiLJJg&pid=News",
+      "tema": "SAE inmuebles venta"
+    },
     {
       "titulo": "Por qué una costosa casa en la Calera, carros de lujo y otros bienes de Mauricio Leal siguen en el limbo",
       "resumen": "El patrimonio del estilista, estimado en unos $5 mil millones, lo tienes la SAE mientras avanza un proceso de extinción de dominio y sus hermanos presos lo reclaman ...",
@@ -71,7 +89,7 @@
       "link": "https://caracol.com.co/2026/11/19/sae-busca-dinamizar-la-inversion-y-la-economia-en-santa-marta-y-el-pais/",
       "medio": "Caracol Radio",
       "fecha": "2026-11-19T14:50:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.Fo-7BPT-Yg4Hr4Z15e5FtQ&pid=News",
+      "imagen": "http://www.bing.com/th?id=ONUT.m0a7b3gr1XR6EuBumklUsQ&pid=News",
       "tema": "Sociedad de Activos Especiales subasta"
     },
     {
@@ -180,7 +198,7 @@
       "medio": "Diario La Libertad",
       "fecha": "2026-11-17T04:48:00.000Z",
       "imagen": "",
-      "tema": "SAE inmuebles venta"
+      "tema": "SAE Antioquia inmuebles"
     },
     {
       "titulo": "Gobierno venderá bienes de la SAE, incluidos Ferraris, para pagar deuda - Emisora Nueva Época",
@@ -503,7 +521,7 @@
       "link": "https://www.elcolombiano.com/antioquia/sae-recupera-10-predios-buritica-halla-nueve-bocaminas-ilegales-MG42552385",
       "medio": "El Colombiano",
       "fecha": "2026-10-21T07:55:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.JEZMLQoU3PBJ2dltDnaqKg&pid=News",
+      "imagen": "",
       "tema": "SAE Antioquia inmuebles"
     },
     {
@@ -651,15 +669,6 @@
       "tema": "Sociedad de Activos Especiales subasta"
     },
     {
-      "titulo": "Activos por Colombia incluye lote en Santa Marta entre inmuebles disponibles para subasta - Caracol Radio",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUlM4MmVfSi03S1dZbFdMU1g2REJKZ0llMzgzakFYX01aYTFCUzRjV1RnUFlrNlVXekItc1hha3RCbHA4ZGJ1R1NPc0RJa2VBZURqeHB3czZZeUo5bnpGNTJjNk5vQVcyb0pDeFNiaWtkYXRKRTF3YWdESnFHTGRickFLMkNJVlp5RUxLanprQUJzSEFMQVhHRmtvb0",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUlM4MmVfSi03S1dZbFdMU1g2REJKZ0llMzgzakFYX01aYTFCUzRjV1RnUFlrNlVXekItc1hha3RCbHA4ZGJ1R1NPc0RJa2VBZURqeHB3czZZeUo5bnpGNTJjNk5vQVcyb0pDeFNiaWtkYXRKRTF3YWdESnFHTGRickFLMkNJVlp5RUxLanprQUJzSEFMQVhHRmtvb0VaQjR5UEZVMjZUUDZ3bXRLYUZvcjRGQUhuT1JkRk50bDVRVU02UdIB1gFBVV95cUxQV2cxbGpHUURESkRJcFd5c0hWYk9wQWpva3RhRlFUZmUxTUIwcEVzd1cyWEtoMjQzbW4wRFlTZnJjUUd5MHlSa1JOeTd4T3hlNGtaNFVmZnNmeDJFZkpPZVRmeUhNdG9xeGF3SHNQR2VJQlA4SndaRWtuU2JjcUprQ3dhbFNWbFRhM25hUzgtVDNXRjNWU0p1RzdRR3lLOHNtUEFsVTZ4TG0wQUVoekRTaUxlWHBXWkNSRjZDWFhzYWpZeXNlQmxlMTR6eVpmNDFFSVNueWhR?oc=5",
-      "medio": "Caracol Radio",
-      "fecha": "2026-10-07T07:00:00.000Z",
-      "imagen": "",
-      "tema": "Sociedad de Activos Especiales subasta"
-    },
-    {
       "titulo": "Viviendas en Bogotá, Cali y Medellín con arriendos desde $360 mil: oferta de la SAE - La Kalle",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxObmJwU3VOdlFVM2xMZlk0dDNkVndFelcwQkxBbW83VVJXeHFyOGlSQWF4cFpjbDU1YldrVnZUVTNKRlFLWHBOTjFvNzA2UzRUZUFaTVpGVHoza196WlAzeWN6NUd3TF9aX0Rka1I5dDFZci1DMjJxWmlKSk1jcjlTc3FmRTNyUlBUdGxlZlZfdVFsXzE1T05oVktfS2",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObmJwU3VOdlFVM2xMZlk0dDNkVndFelcwQkxBbW83VVJXeHFyOGlSQWF4cFpjbDU1YldrVnZUVTNKRlFLWHBOTjFvNzA2UzRUZUFaTVpGVHoza196WlAzeWN6NUd3TF9aX0Rka1I5dDFZci1DMjJxWmlKSk1jcjlTc3FmRTNyUlBUdGxlZlZfdVFsXzE1T05oVktfS2NoYWRiV0NXeDJpa0I3VnFCdEo5bC04TVJLcWQtNzJfaW1UNk1TbW80QzRRVjkxdVBHMlJVZnRNOF9LOERmVkNLQVJJ0gHsAUFVX3lxTFAxSllCMHgxbU44TU5yS3RmUDA1WENFdzF3S2t5MmsyZ2dTVTdnQ3JlcGlFMXExRDlTNFZBTTlQZ1RPc0ZGeWIxakN0eVRWdmlRRVZYRF9wMWk0dGdwblFTcTM2S3FWbjdabnh1LUFJT1JWTkdBdnNVdHdiLXJNSmNxVUZBaDV5X2xiUlpJeGJHbzRDLWE5a01vbEowOTZ6ZXJ3VE9hSnUycHpnOElONVlPZW84eU5tcmdYemttREp4YVBnLWFNWVdYeDhMZ196S3NOOEtUcXh6TzQtU0pScjhKNnJUVlA2aVNiR2tU?oc=5",
@@ -667,6 +676,15 @@
       "fecha": "2026-10-07T07:00:00.000Z",
       "imagen": "",
       "tema": "SAE Antioquia inmuebles"
+    },
+    {
+      "titulo": "Activos por Colombia incluye lote en Santa Marta entre inmuebles disponibles para subasta",
+      "resumen": "La Sociedad de Activos Especiales (SAE) inició el proceso de subasta electrónica en varias regiones del país, uno de ellos está ubicado en el barrio Gaira, en el sur de Santa Marta. Se trata de un ...",
+      "link": "https://caracol.com.co/2026/10/07/activos-por-colombia-incluye-lote-en-santa-marta-entre-inmuebles-disponibles-para-subasta/",
+      "medio": "Caracol Radio",
+      "fecha": "2026-10-07T03:49:00.000Z",
+      "imagen": "",
+      "tema": "Sociedad de Activos Especiales subasta"
     },
     {
       "titulo": "SAE arrienda apartamentos y casas desde $ 360 mil en octubre de 2026: entrega inmuebles en distintas ciudades de Colombia - RED+ Noticias",
@@ -701,24 +719,6 @@
       "link": "https://www.eltiempo.com/economia/finanzas-personales/como-comprar-una-vivienda-usada-con-el-fondo-nacional-del-ahorro-conozca-los-requisitos-documentos-clave-y-el-tope-maximo-de-financiacion-3590740",
       "medio": "El Tiempo",
       "fecha": "2026-10-02T07:07:00.000Z",
-      "imagen": "",
-      "tema": "Fondo Nacional del Ahorro crédito vivienda usada"
-    },
-    {
-      "titulo": "¿Cómo comprar casa usada con el Fondo Nacional del Ahorro? Esto prestan y requisitos que piden",
-      "resumen": "Comprar una casa o apartamento usado también es una opción para quienes están afiliados al Fondo Nacional del Ahorro (FNA). La entidad permite financiar inmuebles VIP, VISy No VIS en diferentes ...",
-      "link": "https://www.noticiasrcn.com/economia/fondo-nacional-del-ahorro-asi-puede-comprar-casa-usada-1067608",
-      "medio": "Noticias",
-      "fecha": "2026-10-02T02:33:00.000Z",
-      "imagen": "",
-      "tema": "Fondo Nacional del Ahorro crédito vivienda usada"
-    },
-    {
-      "titulo": "Cómo comprar casa usada con el Fondo Nacional del Ahorro: Valor máximo que presta y requisitos - Caracol Radio",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQNHVlcW1VdEJ1RHFvLXpRVW43S0U0OExUaExZZFhJcTZUaXNMdzdrdXZQcTg3Z2Qyc2FBQy1DcmZWejAzY3dlSW9LUWoyN2Z1c1cybjFRcVo5QnR5UUtKajdZbEh6aHkwdEFjbGZyVmIzbUNkNk9oUTBUXzNUNmRoUnJWb2locmxRVFhlQ002QmNMa3FlR3pWQmJBa1",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNHVlcW1VdEJ1RHFvLXpRVW43S0U0OExUaExZZFhJcTZUaXNMdzdrdXZQcTg3Z2Qyc2FBQy1DcmZWejAzY3dlSW9LUWoyN2Z1c1cybjFRcVo5QnR5UUtKajdZbEh6aHkwdEFjbGZyVmIzbUNkNk9oUTBUXzNUNmRoUnJWb2locmxRVFhlQ002QmNMa3FlR3pWQmJBa1VENG43dEZjWThhZE44aWszdjEydXlRMURMXzVXOUJvaGJuMENHdmpRZnUw0gHbAUFVX3lxTE40TU9SWjJQSFR5NEtxT05DQ01hbUZVdXVfNEFweW1jRDhhVXB0cUNRaTdvVzNnUmZqbmRrNE1VdjR5NGRnYUJETXlzT05vb0FZSE5qQ1JySTZjUVNEajU3QWZVbWc3RFlLSUtIRTJmTFBJOEV6b3UwRnRsQnZrOTBYMF80RFZxM0VMVHNOeHEtLW1IMW5LOEJZNG40NWhra0gxMEVmMzlwTEZJWnRiTmdBbWJlOHlHQVNWVVlqdUNyMjZNX25ibW5ITHQ2cnJPWERoTTVtQ04tOVgtdw?oc=5",
-      "medio": "Caracol Radio",
-      "fecha": "2026-10-01T07:00:00.000Z",
       "imagen": "",
       "tema": "Fondo Nacional del Ahorro crédito vivienda usada"
     }

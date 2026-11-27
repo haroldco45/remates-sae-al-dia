@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-27T20:57:07.628Z",
+  "actualizado": "2026-11-27T23:08:30.731Z",
   "total": 80,
   "noticias": [
     {
@@ -9,6 +9,15 @@
       "medio": "El Tiempo",
       "fecha": "2026-11-27T13:50:42.000Z",
       "imagen": "",
+      "tema": "Sociedad de Activos Especiales subasta"
+    },
+    {
+      "titulo": "Feria Milagro se realizará en Barranquilla: una oportunidad de inversión con propiedades en descuento",
+      "resumen": "La jornada se realizará el 1 y 2 de diciembre en Comfamiliar, sede Caribe. Los asistentes podrán hacer uso de un simulador interactivo para saber cómo funcionan las subastas.",
+      "link": "https://www.elheraldo.co/atlantico/barranquilla/2026/11/27/feria-milagro-se-realizara-en-barranquilla-una-oportunidad-de-inversion-a-propiedades-en-descuento/",
+      "medio": "El Heraldo",
+      "fecha": "2026-11-27T08:41:00.000Z",
+      "imagen": "http://www.bing.com/th?id=ONUT.ST6W9MIkxXhyC1wGPGV5QQ&pid=News",
       "tema": "Sociedad de Activos Especiales subasta"
     },
     {
@@ -579,19 +588,19 @@
       "tema": "SAE Antioquia inmuebles"
     },
     {
-      "titulo": "La SAE desalojó a varias familias que habitaban 10 inmuebles que fueron recuperados en Buriticá - Caracol Radio",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNOG1nZXFJYlhvMXFQSTgzTnBsQmFCTnFxci1FVmlycGp3Ti1SN2FhbzBLX0E5LVdhaDZmQUxhS1BtNldaTE9fMWJNdEs2dHJ4eXVvbXpnejgzYjFHVHI4c1plVXFYWG5HR2x2WXVKLUNUVi13UkkwZzlpeDE4cnFhOU9KVUVDaEJkTEt3OGNaUkRhb2ROU3JyYTRTdz",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOG1nZXFJYlhvMXFQSTgzTnBsQmFCTnFxci1FVmlycGp3Ti1SN2FhbzBLX0E5LVdhaDZmQUxhS1BtNldaTE9fMWJNdEs2dHJ4eXVvbXpnejgzYjFHVHI4c1plVXFYWG5HR2x2WXVKLUNUVi13UkkwZzlpeDE4cnFhOU9KVUVDaEJkTEt3OGNaUkRhb2ROU3JyYTRTdzc4anNESXp2NHJSZ0tmR0VGdkVmcC1YLVJfWDRlRHh6Z3I0N0VjOU1FQjhIb1Zn0gHeAUFVX3lxTE9VVHpMSXU3SnVqU3hkSXNuR0pad09LbGM4bE40bGJZbld6LWhZdG9KdXFYaEdPeWJvZEYxYTFjMzQ2dTB6dkstTzk2TUprbE5oTGZXdVNaa2dzUGNON3NHZGlzNGVzbnR0Z2ZkSUtEYmxJbWlPNEEzdGE1dnNIOUZkWnBVWmRoVENBNDhkOXVYRVNLTmhlWkQ5aW1KUVJOUmFpbHRYdzBsNkl0N3p2c3NWd3M1QWp4NlVHT3JSYnNSNS1EMURVRVhISFgxLUg0NS12ZjE5ZFhLeWEtdE15Zw?oc=5",
-      "medio": "Caracol Radio",
+      "titulo": "SAE recuperó 10 inmuebles vinculados a la minería ilegal en Buriticá; hay 20 familias desalojadas - Blu Radio",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPd05HRHdnQU1LNFF1Skc2RHhhTUtlSkVSRWhCbXR4bWpnYnQ2Y1B2dURuYnFfNE5naVdoVU5zMVdHU05JSm12VU9LQ3lHMXJ2OEpxM1VBRzNreURLVWwtZ2lVOWRkV2p6MTFmaENTOTN3ZDkxYmlhZEJaNUViWVoyQ3lBMjdKN1JJczEwaUlhd3hEYS1uZ3RiNkNWMW",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPd05HRHdnQU1LNFF1Skc2RHhhTUtlSkVSRWhCbXR4bWpnYnQ2Y1B2dURuYnFfNE5naVdoVU5zMVdHU05JSm12VU9LQ3lHMXJ2OEpxM1VBRzNreURLVWwtZ2lVOWRkV2p6MTFmaENTOTN3ZDkxYmlhZEJaNUViWVoyQ3lBMjdKN1JJczEwaUlhd3hEYS1uZ3RiNkNWMWYxYUxER1Z3U0E3bWh5bGxONG1qTThFVjFzM3YwZ0VkYzByMEF5SnZIa090eEg3OWhEZTBVNUlxTU5iWGt6R0xBMGfSAesBQVVfeXFMT1B5SkVSMDdEZTlQVDJLMWZTWkxzM2xrcy10Y0N0cWFnNDc0ck9kNi01U1JWU3BMRV8temZsY2poNVZYUDVIVmh5a2lYRTJOZ1NVM1Z3VGRxR1FmeWs5LU9NMi1VdWtEM0RiQ1pZcFpMVFprMWstRGZ3X3RlMEJ3YUlNQ3RqSDFobDR3cEg0SktYejVHZDVBbVpTS0FXcDJWQjRwVS13MHMxOUI1SEJzdS1rWlhyaWlmUEpLNjBRUmVUOW5kbVRaTEVQWDN3R2xpclZLZUlMdzA1MG9KUVViUXhSZ1R3a3N6cVl5aw?oc=5",
+      "medio": "Blu Radio",
       "fecha": "2026-10-21T07:00:00.000Z",
       "imagen": "",
       "tema": "SAE Antioquia inmuebles"
     },
     {
-      "titulo": "SAE recuperó 10 inmuebles vinculados a la minería ilegal en Buriticá; hay 20 familias desalojadas - Blu Radio",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPd05HRHdnQU1LNFF1Skc2RHhhTUtlSkVSRWhCbXR4bWpnYnQ2Y1B2dURuYnFfNE5naVdoVU5zMVdHU05JSm12VU9LQ3lHMXJ2OEpxM1VBRzNreURLVWwtZ2lVOWRkV2p6MTFmaENTOTN3ZDkxYmlhZEJaNUViWVoyQ3lBMjdKN1JJczEwaUlhd3hEYS1uZ3RiNkNWMW",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPd05HRHdnQU1LNFF1Skc2RHhhTUtlSkVSRWhCbXR4bWpnYnQ2Y1B2dURuYnFfNE5naVdoVU5zMVdHU05JSm12VU9LQ3lHMXJ2OEpxM1VBRzNreURLVWwtZ2lVOWRkV2p6MTFmaENTOTN3ZDkxYmlhZEJaNUViWVoyQ3lBMjdKN1JJczEwaUlhd3hEYS1uZ3RiNkNWMWYxYUxER1Z3U0E3bWh5bGxONG1qTThFVjFzM3YwZ0VkYzByMEF5SnZIa090eEg3OWhEZTBVNUlxTU5iWGt6R0xBMGfSAesBQVVfeXFMT1B5SkVSMDdEZTlQVDJLMWZTWkxzM2xrcy10Y0N0cWFnNDc0ck9kNi01U1JWU3BMRV8temZsY2poNVZYUDVIVmh5a2lYRTJOZ1NVM1Z3VGRxR1FmeWs5LU9NMi1VdWtEM0RiQ1pZcFpMVFprMWstRGZ3X3RlMEJ3YUlNQ3RqSDFobDR3cEg0SktYejVHZDVBbVpTS0FXcDJWQjRwVS13MHMxOUI1SEJzdS1rWlhyaWlmUEpLNjBRUmVUOW5kbVRaTEVQWDN3R2xpclZLZUlMdzA1MG9KUVViUXhSZ1R3a3N6cVl5aw?oc=5",
-      "medio": "Blu Radio",
+      "titulo": "La SAE desalojó a varias familias que habitaban 10 inmuebles que fueron recuperados en Buriticá - Caracol Radio",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNOG1nZXFJYlhvMXFQSTgzTnBsQmFCTnFxci1FVmlycGp3Ti1SN2FhbzBLX0E5LVdhaDZmQUxhS1BtNldaTE9fMWJNdEs2dHJ4eXVvbXpnejgzYjFHVHI4c1plVXFYWG5HR2x2WXVKLUNUVi13UkkwZzlpeDE4cnFhOU9KVUVDaEJkTEt3OGNaUkRhb2ROU3JyYTRTdz",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOG1nZXFJYlhvMXFQSTgzTnBsQmFCTnFxci1FVmlycGp3Ti1SN2FhbzBLX0E5LVdhaDZmQUxhS1BtNldaTE9fMWJNdEs2dHJ4eXVvbXpnejgzYjFHVHI4c1plVXFYWG5HR2x2WXVKLUNUVi13UkkwZzlpeDE4cnFhOU9KVUVDaEJkTEt3OGNaUkRhb2ROU3JyYTRTdzc4anNESXp2NHJSZ0tmR0VGdkVmcC1YLVJfWDRlRHh6Z3I0N0VjOU1FQjhIb1Zn0gHeAUFVX3lxTE9VVHpMSXU3SnVqU3hkSXNuR0pad09LbGM4bE40bGJZbld6LWhZdG9KdXFYaEdPeWJvZEYxYTFjMzQ2dTB6dkstTzk2TUprbE5oTGZXdVNaa2dzUGNON3NHZGlzNGVzbnR0Z2ZkSUtEYmxJbWlPNEEzdGE1dnNIOUZkWnBVWmRoVENBNDhkOXVYRVNLTmhlWkQ5aW1KUVJOUmFpbHRYdzBsNkl0N3p2c3NWd3M1QWp4NlVHT3JSYnNSNS1EMURVRVhISFgxLUg0NS12ZjE5ZFhLeWEtdE15Zw?oc=5",
+      "medio": "Caracol Radio",
       "fecha": "2026-10-21T07:00:00.000Z",
       "imagen": "",
       "tema": "SAE Antioquia inmuebles"
@@ -712,15 +721,6 @@
       "fecha": "2026-10-09T07:00:00.000Z",
       "imagen": "",
       "tema": "Fondo Nacional del Ahorro crédito vivienda usada"
-    },
-    {
-      "titulo": "SAE abre tres nuevos cronogramas de subasta electrónica en el país por medio de Activos por Colombia - Revista Semana",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZDdtU0tsdlJPSk5saDdtX08wNF92TVdRa1RJUVhHYXRnVEoyRnBEbnJOMnk0elF4S2NYUjhDd3dYdmp4MVo4NGdwVklkTzBXdDUxMDZtbHZaOE1HMG02UHJDRmpVeUhrWTdJdGducVdhcjJFOXVfbEd0cUFXRW0yMjJPTlA2X0dBTjJqNHFjaXdoNHRmMWw5M2l3ck",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZDdtU0tsdlJPSk5saDdtX08wNF92TVdRa1RJUVhHYXRnVEoyRnBEbnJOMnk0elF4S2NYUjhDd3dYdmp4MVo4NGdwVklkTzBXdDUxMDZtbHZaOE1HMG02UHJDRmpVeUhrWTdJdGducVdhcjJFOXVfbEd0cUFXRW0yMjJPTlA2X0dBTjJqNHFjaXdoNHRmMWw5M2l3ckw5WlVOV2U4TlZhYUlDSUdwRXkzd3RVZEpnOW93d2lzaGRDdEdTdS1Oak8xNXJNSnlCdnVjSjhieTRyeEtRYXpZUVZNbg?oc=5",
-      "medio": "Revista Semana",
-      "fecha": "2026-10-07T07:00:00.000Z",
-      "imagen": "",
-      "tema": "Sociedad de Activos Especiales subasta"
     }
   ]
 }

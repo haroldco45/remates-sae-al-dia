@@ -27,6 +27,6 @@ jobs:
           git config user.name "robot-vibras"
           git config user.email "robot@users.noreply.github.com"
           git add data/noticias.json og.jpg flyer.jpg flyer-historia.jpg foto.jpg 2>/dev/null || true
-          git diff --cached --quiet || git commit -m "Noticias al día $(TZ=America/Bogota date '+%Y-%m-%d %H:%M')"
+          git diff --cached --quiet || git commit -m "[skip netlify] Noticias al día $(TZ=America/Bogota date '+%Y-%m-%d %H:%M')"
           git pull --rebase -q || true
           git push

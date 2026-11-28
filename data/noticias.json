@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-27T23:08:30.731Z",
+  "actualizado": "2026-11-28T04:50:01.976Z",
   "total": 80,
   "noticias": [
     {
@@ -17,7 +17,7 @@
       "link": "https://www.elheraldo.co/atlantico/barranquilla/2026/11/27/feria-milagro-se-realizara-en-barranquilla-una-oportunidad-de-inversion-a-propiedades-en-descuento/",
       "medio": "El Heraldo",
       "fecha": "2026-11-27T08:41:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.ST6W9MIkxXhyC1wGPGV5QQ&pid=News",
+      "imagen": "http://www.bing.com/th?id=ONUT.kQ-kzkxrAy19kjXTu3T1YQ&pid=News",
       "tema": "Sociedad de Activos Especiales subasta"
     },
     {
@@ -54,7 +54,7 @@
       "medio": "Blu Radio",
       "fecha": "2026-11-25T14:30:00.000Z",
       "imagen": "http://www.bing.com/th?id=ONUT.3d1HpFh-wBEU3dWVbBKouA&pid=News",
-      "tema": "SAE Antioquia inmuebles"
+      "tema": "SAE bienes extinción de dominio venta"
     },
     {
       "titulo": "SAE adjudica 24 viviendas en Cali para hogares afectados por el sismo",
@@ -174,6 +174,15 @@
       "tema": "SAE inmuebles venta"
     },
     {
+      "titulo": "SAE ofrece inmuebles con descuentos de hasta el 40 %; así se pueden adquirir viviendas, locales y lotes - El País",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPb1lKZ0taeExZZ01kS05NTzJWRDk3UjVDbGFHVTFveG5kUFJxckx3VUNYQzFpOHBCdWlCdlNUcV9aYk82S0Q5ODdERXNJMVJYak95OUloaFQ3cS1INFYxcWlGdm1uQVhTelJJN1lIb19YRWw4MVBxM0pGVE1kMk1ScXRpUVE3MEdWTG9md21KR184RHBRdGlyTWFRSl",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPb1lKZ0taeExZZ01kS05NTzJWRDk3UjVDbGFHVTFveG5kUFJxckx3VUNYQzFpOHBCdWlCdlNUcV9aYk82S0Q5ODdERXNJMVJYak95OUloaFQ3cS1INFYxcWlGdm1uQVhTelJJN1lIb19YRWw4MVBxM0pGVE1kMk1ScXRpUVE3MEdWTG9md21KR184RHBRdGlyTWFRSlVmRU85ejY3b2tMRHltRUVBQjdka1B5NjJPMkJ3Nlcyay13cUZlTHNveTJPOVd6TmFrQW5vNHhuc1k4SUp1Nnlt0gHiAUFVX3lxTE1UdEtxeTdBYlZpbjRONFNvaHRQVXNXaTdxbklCd0lvemtVeHgzSnk5bHV4MFpTZmRTTHBobzl2Ym55MFpCRU1yQk1GSlRvUFJsblNVaVZQWWxCdHI1bFFLSnpXZS00WXlDT28xNUUwNUJ0Skh6SE1lekp3d1UwUm9lbzhmVFFWX0FkVkpJTVJBbXExUTNSNnpWVFZfcVRQcFpucnRRRDBUc2xpYnp5Wk5xZnVyUUN4Uklpb0VZc3BCN1Zsc0xuVEYyd0l0MXZzNWRoSDczeklOX29kRUxmSml5Smc?oc=5",
+      "medio": "El País",
+      "fecha": "2026-11-19T08:00:00.000Z",
+      "imagen": "",
+      "tema": "SAE inmuebles venta"
+    },
+    {
       "titulo": "SAE ofrece descuentos de hasta el 40 % en 43 inmuebles que están en subasta - El Espectador",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOU2hoZ0VJaWV2NVJsYmpwVTctR2tkYS1Kd0gwdVJHWlJ1NDRmaldacXNpSHFsVXRuZEVNcUktQmdkZjhBX3ZWaGtQdFVmMTNBT01uY08zejhxcEVrRE9hVjQ2OGRmRnlhYWZzRXhnRGVUVmgtRnc5ZUVfbE1oMW5BWFNOMVVTQjh0RFd2MUplel9VX3NjMS12aGJKdk",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU2hoZ0VJaWV2NVJsYmpwVTctR2tkYS1Kd0gwdVJHWlJ1NDRmaldacXNpSHFsVXRuZEVNcUktQmdkZjhBX3ZWaGtQdFVmMTNBT01uY08zejhxcEVrRE9hVjQ2OGRmRnlhYWZzRXhnRGVUVmgtRnc5ZUVfbE1oMW5BWFNOMVVTQjh0RFd2MUplel9VX3NjMS12aGJKdkpJTF9YYkxQR2FDZzROWGxhRk9yZm5B0gHGAUFVX3lxTE9Yc25BTXZOVTVZS0Q4czZEVi1LaTR2aWJGMjVrWlhmMDBnd0hqZm9FVVQtRHRnVHpaNjN1bFZYT3ZWNy1YdzFUb0hWSkw1b0FXNzNDNTd2QTFwU096ZEVFQjRZLW5sTGh4VnhKMDVpWVNTM0puTDAwREhkVjJiZUpyazhYVm00S2g0M2FNM2tnVmotdUw3QjVTX0JldEpnMk0xNHYzOVFoUDFEX25vYzVtcDcwYWxYWDJOVEdWX1NRd3NqU3JmQQ?oc=5",
@@ -181,15 +190,6 @@
       "fecha": "2026-11-19T08:00:00.000Z",
       "imagen": "",
       "tema": "Sociedad de Activos Especiales subasta"
-    },
-    {
-      "titulo": "SAE ofrece inmuebles con descuentos de hasta el 40 %; así se pueden adquirir viviendas, locales y lotes",
-      "resumen": "La Sociedad de Activos Especiales busca dinamizar la venta de bienes bajo su administración mediante condiciones comerciales especiales. La oferta incluye inmuebles residenciales y comerciales, así co ...",
-      "link": "https://www.elpais.com.co/colombia/sae-ofrece-inmuebles-con-descuentos-de-hasta-el-40-asi-se-pueden-adquirir-viviendas-locales-y-lotes-1908.html",
-      "medio": "Diario El País",
-      "fecha": "2026-11-19T06:14:00.000Z",
-      "imagen": "http://www.bing.com/th?id=ONUT.I_uPiSrdlE3Gkm9WN21oZA&pid=News",
-      "tema": "SAE inmuebles venta"
     },
     {
       "titulo": "SAE reconoce fallas en entrega de viviendas a damnificados: familias de Pereira tuvieron que buscar alojamiento por su cuenta",
@@ -363,11 +363,11 @@
       "tema": "SAE inmuebles venta"
     },
     {
-      "titulo": "Inmuebles en venta de la SAE con el FNA; locales, casas y apartamentos y más desde $28 millones - Tropicana Colombia",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTVhUR1E3ak1tTWN6V3AxRkE3Q2pON2dzVW9CZVZ2RDFUaEI2RmNaa2xqcFJtNWFwUnp6dWJSaVUxcHRDZGtzYUllVkd6SktCMkVKTy1ldXhnZEZiSWZlZUxCYlFZWDJKc2IzbjVMV0FNU0RoNVhfd2JxTVRaNHpQSFZBbkhmUDFuUGNvUDlLT3dEMmMwWW9QWmk4ZE",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTVhUR1E3ak1tTWN6V3AxRkE3Q2pON2dzVW9CZVZ2RDFUaEI2RmNaa2xqcFJtNWFwUnp6dWJSaVUxcHRDZGtzYUllVkd6SktCMkVKTy1ldXhnZEZiSWZlZUxCYlFZWDJKc2IzbjVMV0FNU0RoNVhfd2JxTVRaNHpQSFZBbkhmUDFuUGNvUDlLT3dEMmMwWW9QWmk4ZEFrU21VS0U5LVptdzljME9QRlJVNVF0U3ozM0ZhYjA5NlIzVFA4V2Q4SW0tV1VfdGR2WG1EUE840gHYAUFVX3lxTFBfQVpHRnFpZl85NldMNldqQ1Jkak5hcXF4eUI2S2ZVOV85MGpxWDVGUUVMbHFuc18yM25McUIxWXVhdVNKV1RvWDZkd0xSTUFCM0g4aHkxMnNkVktNd0JCZW1odTNzZTdUdmt2cWpYWW9NVlpVYWN0bjZyUDhhOUJQcFBOTzZsSEdwLUJsS0ZyaGRiWm9pWDcxX0ZYYU9tbnV5RVN4aHVweUdCQkxqeEVzbVpPX0VrWHBnYWcwRFAwLS10eHUxUl95b3dNbHY0ZXh2WGJodDZ3Zw?oc=5",
-      "medio": "Tropicana Colombia",
-      "fecha": "2026-11-11T08:00:00.000Z",
+      "titulo": "Inmuebles en venta de la SAE con el FNA; locales, casas y apartamentos y más desde $28 millones",
+      "resumen": "En Colombia existen diversas maneras de encontrar inmuebles en venta que hacen parte del mercado inmobiliario. Actualmente, las construcciones tanto nuevas como usadas tienen un movimiento destacado ...",
+      "link": "https://www.tropicanafm.com/2026/inmuebles-en-venta-de-la-sae-con-el-fna-locales-casas-y-apartamentos-y-mas-desde-28-millones-480737.html",
+      "medio": "Tropicana",
+      "fecha": "2026-11-11T10:21:00.000Z",
       "imagen": "",
       "tema": "SAE inmuebles venta"
     },
@@ -588,19 +588,19 @@
       "tema": "SAE Antioquia inmuebles"
     },
     {
-      "titulo": "SAE recuperó 10 inmuebles vinculados a la minería ilegal en Buriticá; hay 20 familias desalojadas - Blu Radio",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPd05HRHdnQU1LNFF1Skc2RHhhTUtlSkVSRWhCbXR4bWpnYnQ2Y1B2dURuYnFfNE5naVdoVU5zMVdHU05JSm12VU9LQ3lHMXJ2OEpxM1VBRzNreURLVWwtZ2lVOWRkV2p6MTFmaENTOTN3ZDkxYmlhZEJaNUViWVoyQ3lBMjdKN1JJczEwaUlhd3hEYS1uZ3RiNkNWMW",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPd05HRHdnQU1LNFF1Skc2RHhhTUtlSkVSRWhCbXR4bWpnYnQ2Y1B2dURuYnFfNE5naVdoVU5zMVdHU05JSm12VU9LQ3lHMXJ2OEpxM1VBRzNreURLVWwtZ2lVOWRkV2p6MTFmaENTOTN3ZDkxYmlhZEJaNUViWVoyQ3lBMjdKN1JJczEwaUlhd3hEYS1uZ3RiNkNWMWYxYUxER1Z3U0E3bWh5bGxONG1qTThFVjFzM3YwZ0VkYzByMEF5SnZIa090eEg3OWhEZTBVNUlxTU5iWGt6R0xBMGfSAesBQVVfeXFMT1B5SkVSMDdEZTlQVDJLMWZTWkxzM2xrcy10Y0N0cWFnNDc0ck9kNi01U1JWU3BMRV8temZsY2poNVZYUDVIVmh5a2lYRTJOZ1NVM1Z3VGRxR1FmeWs5LU9NMi1VdWtEM0RiQ1pZcFpMVFprMWstRGZ3X3RlMEJ3YUlNQ3RqSDFobDR3cEg0SktYejVHZDVBbVpTS0FXcDJWQjRwVS13MHMxOUI1SEJzdS1rWlhyaWlmUEpLNjBRUmVUOW5kbVRaTEVQWDN3R2xpclZLZUlMdzA1MG9KUVViUXhSZ1R3a3N6cVl5aw?oc=5",
-      "medio": "Blu Radio",
+      "titulo": "La SAE desalojó a varias familias que habitaban 10 inmuebles que fueron recuperados en Buriticá - Caracol Radio",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNOG1nZXFJYlhvMXFQSTgzTnBsQmFCTnFxci1FVmlycGp3Ti1SN2FhbzBLX0E5LVdhaDZmQUxhS1BtNldaTE9fMWJNdEs2dHJ4eXVvbXpnejgzYjFHVHI4c1plVXFYWG5HR2x2WXVKLUNUVi13UkkwZzlpeDE4cnFhOU9KVUVDaEJkTEt3OGNaUkRhb2ROU3JyYTRTdz",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOG1nZXFJYlhvMXFQSTgzTnBsQmFCTnFxci1FVmlycGp3Ti1SN2FhbzBLX0E5LVdhaDZmQUxhS1BtNldaTE9fMWJNdEs2dHJ4eXVvbXpnejgzYjFHVHI4c1plVXFYWG5HR2x2WXVKLUNUVi13UkkwZzlpeDE4cnFhOU9KVUVDaEJkTEt3OGNaUkRhb2ROU3JyYTRTdzc4anNESXp2NHJSZ0tmR0VGdkVmcC1YLVJfWDRlRHh6Z3I0N0VjOU1FQjhIb1Zn0gHeAUFVX3lxTE9VVHpMSXU3SnVqU3hkSXNuR0pad09LbGM4bE40bGJZbld6LWhZdG9KdXFYaEdPeWJvZEYxYTFjMzQ2dTB6dkstTzk2TUprbE5oTGZXdVNaa2dzUGNON3NHZGlzNGVzbnR0Z2ZkSUtEYmxJbWlPNEEzdGE1dnNIOUZkWnBVWmRoVENBNDhkOXVYRVNLTmhlWkQ5aW1KUVJOUmFpbHRYdzBsNkl0N3p2c3NWd3M1QWp4NlVHT3JSYnNSNS1EMURVRVhISFgxLUg0NS12ZjE5ZFhLeWEtdE15Zw?oc=5",
+      "medio": "Caracol Radio",
       "fecha": "2026-10-21T07:00:00.000Z",
       "imagen": "",
       "tema": "SAE Antioquia inmuebles"
     },
     {
-      "titulo": "La SAE desalojó a varias familias que habitaban 10 inmuebles que fueron recuperados en Buriticá - Caracol Radio",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNOG1nZXFJYlhvMXFQSTgzTnBsQmFCTnFxci1FVmlycGp3Ti1SN2FhbzBLX0E5LVdhaDZmQUxhS1BtNldaTE9fMWJNdEs2dHJ4eXVvbXpnejgzYjFHVHI4c1plVXFYWG5HR2x2WXVKLUNUVi13UkkwZzlpeDE4cnFhOU9KVUVDaEJkTEt3OGNaUkRhb2ROU3JyYTRTdz",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOG1nZXFJYlhvMXFQSTgzTnBsQmFCTnFxci1FVmlycGp3Ti1SN2FhbzBLX0E5LVdhaDZmQUxhS1BtNldaTE9fMWJNdEs2dHJ4eXVvbXpnejgzYjFHVHI4c1plVXFYWG5HR2x2WXVKLUNUVi13UkkwZzlpeDE4cnFhOU9KVUVDaEJkTEt3OGNaUkRhb2ROU3JyYTRTdzc4anNESXp2NHJSZ0tmR0VGdkVmcC1YLVJfWDRlRHh6Z3I0N0VjOU1FQjhIb1Zn0gHeAUFVX3lxTE9VVHpMSXU3SnVqU3hkSXNuR0pad09LbGM4bE40bGJZbld6LWhZdG9KdXFYaEdPeWJvZEYxYTFjMzQ2dTB6dkstTzk2TUprbE5oTGZXdVNaa2dzUGNON3NHZGlzNGVzbnR0Z2ZkSUtEYmxJbWlPNEEzdGE1dnNIOUZkWnBVWmRoVENBNDhkOXVYRVNLTmhlWkQ5aW1KUVJOUmFpbHRYdzBsNkl0N3p2c3NWd3M1QWp4NlVHT3JSYnNSNS1EMURVRVhISFgxLUg0NS12ZjE5ZFhLeWEtdE15Zw?oc=5",
-      "medio": "Caracol Radio",
+      "titulo": "SAE recuperó 10 inmuebles vinculados a la minería ilegal en Buriticá; hay 20 familias desalojadas - Blu Radio",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPd05HRHdnQU1LNFF1Skc2RHhhTUtlSkVSRWhCbXR4bWpnYnQ2Y1B2dURuYnFfNE5naVdoVU5zMVdHU05JSm12VU9LQ3lHMXJ2OEpxM1VBRzNreURLVWwtZ2lVOWRkV2p6MTFmaENTOTN3ZDkxYmlhZEJaNUViWVoyQ3lBMjdKN1JJczEwaUlhd3hEYS1uZ3RiNkNWMW",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPd05HRHdnQU1LNFF1Skc2RHhhTUtlSkVSRWhCbXR4bWpnYnQ2Y1B2dURuYnFfNE5naVdoVU5zMVdHU05JSm12VU9LQ3lHMXJ2OEpxM1VBRzNreURLVWwtZ2lVOWRkV2p6MTFmaENTOTN3ZDkxYmlhZEJaNUViWVoyQ3lBMjdKN1JJczEwaUlhd3hEYS1uZ3RiNkNWMWYxYUxER1Z3U0E3bWh5bGxONG1qTThFVjFzM3YwZ0VkYzByMEF5SnZIa090eEg3OWhEZTBVNUlxTU5iWGt6R0xBMGfSAesBQVVfeXFMT1B5SkVSMDdEZTlQVDJLMWZTWkxzM2xrcy10Y0N0cWFnNDc0ck9kNi01U1JWU3BMRV8temZsY2poNVZYUDVIVmh5a2lYRTJOZ1NVM1Z3VGRxR1FmeWs5LU9NMi1VdWtEM0RiQ1pZcFpMVFprMWstRGZ3X3RlMEJ3YUlNQ3RqSDFobDR3cEg0SktYejVHZDVBbVpTS0FXcDJWQjRwVS13MHMxOUI1SEJzdS1rWlhyaWlmUEpLNjBRUmVUOW5kbVRaTEVQWDN3R2xpclZLZUlMdzA1MG9KUVViUXhSZ1R3a3N6cVl5aw?oc=5",
+      "medio": "Blu Radio",
       "fecha": "2026-10-21T07:00:00.000Z",
       "imagen": "",
       "tema": "SAE Antioquia inmuebles"
@@ -633,15 +633,6 @@
       "tema": "SAE inmuebles venta"
     },
     {
-      "titulo": "SAE alerta por estafas con supuestas ventas de bienes, trámites y citas con directivos a cambio de dinero - Infobae",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPa1ZTZk56NGhMQXFfRng3RkdUbVdEeFF5MUw0dFY1UklNVHB1OFM1MHFlTjZkQlpVSjI4Uk9EOTFHdjktMGx5eEhCaE9VVlJfdklfTlFXNDlpbGNXUEMwNTJpYWljeGVPU2IxamZhY29qSnYwTndnYXJQc0huNnhIUHlZMEVVaHFWWkptWHhyakJ3dGNodm9iSXFhcV",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPa1ZTZk56NGhMQXFfRng3RkdUbVdEeFF5MUw0dFY1UklNVHB1OFM1MHFlTjZkQlpVSjI4Uk9EOTFHdjktMGx5eEhCaE9VVlJfdklfTlFXNDlpbGNXUEMwNTJpYWljeGVPU2IxamZhY29qSnYwTndnYXJQc0huNnhIUHlZMEVVaHFWWkptWHhyakJ3dGNodm9iSXFhcV9Ec2RSZmlBbkpUaEZjTHMwUkVEckY0WXJUbnVTR3JYSnBTbzFZaVJTZjlCcURUdGNRbmdKVTJQVkdicFZzVUdFN2IycHFsSdIB_gFBVV95cUxQNTRyaUt3aGNINnMtTC1HVmdnbGxPd2ZPaWs1aTdseXdJdzZ1R29feWdvbEswSnIwZmRmSjU2M05OUUJ3eXlWb1lfRmphWVRwaVhSTmlmc3lZeWtmTnRHU0VuRjlUdjcxRDFNZkdybjJRYmVFZmZOa01nS2g0UTRabmVnN2JaZVRlZmpkYXZrdHpINHRrVUhBVW9HQkJKWWJIQmhaS2h0RmFBQWRJZElrcjM4SWpySzRvNDFTVmFqNzlLcWVkc05sblZBN2Q2dDZmbWhULV9BSUxSdFNqczJ5eWk0V2pUTnZBaWZfRl9SSmhTbWVuWnplMm5acmY2dw?oc=5",
-      "medio": "Infobae",
-      "fecha": "2026-10-16T07:00:00.000Z",
-      "imagen": "",
-      "tema": "SAE inmuebles venta"
-    },
-    {
       "titulo": "SAE alerta sobre estafas con ventas falsas de bienes y citas fraudulentas con directivos - El País",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQOXNuQ2luZ3E3OHJMb2lZWnZBRWc4R3dfNG9KN2QyemREbXJmUmZWRmFoeVFxVUg0MTV2clZnbDNPallfYXpnZlFHLW9xZXd6SFVnRjkzQ0U0ZFF1ZmFlVlh5SUc4MmxvX0JxZkhoM2ZZUzB1eUw1cFRGRnBYSVdHSHRudTMyMDhFZlhhOVZPSTFvdTdMbFg3NHg4UE",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOXNuQ2luZ3E3OHJMb2lZWnZBRWc4R3dfNG9KN2QyemREbXJmUmZWRmFoeVFxVUg0MTV2clZnbDNPallfYXpnZlFHLW9xZXd6SFVnRjkzQ0U0ZFF1ZmFlVlh5SUc4MmxvX0JxZkhoM2ZZUzB1eUw1cFRGRnBYSVdHSHRudTMyMDhFZlhhOVZPSTFvdTdMbFg3NHg4UEVudlBBM2VzNHZrVEdMQTBJSWNuMGdlZHJqa0JiOFFiTlRZQ2k1ZGNRWXpUOUtjMEktd9IB0wFBVV95cUxQdFVyWDJFT3lvZG9Kakt3NTg3MmVMREVpejR0OUU4WVZMZGR1SWFkckFlY3p4bW1xTnRsVk1nMHN0VzYxR2hrb3RYQ1RPaWxTU3dMTXRRblNsdWVjemo1a0RaU2xaLUdDeHVucVBZWVVaU3AwRFAwUElzdnBmdGd0Y2x1TlBSS1FYX3hrZVdqRVFDaW9qVE51RzAwc0c1Z2xuaU9wYkpJZmZ0UW5NM2hid2FCQWJ6bGwwU1BXLTVrNFpZeU9IZ3hnRFNaR1VsbVdFM0Zn?oc=5",
@@ -655,6 +646,15 @@
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOOFplakx6aDNQdEJabWFxU2NJX243VmZ2TFVITzV5SC1CNVZuZ212LVFETDUydTVvTUxIcWRrUzBkSG91RUZhR3h0ZmY3WDVtNXFHbXFrSzlSUVpSSlNRTjEydWlMMlBORG5hM2tobThZMklUd09idG1iUDZYUllHZm1GMFRua09kLVQ5VVZLazR5VjFPaTFMQzh5UU",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOFplakx6aDNQdEJabWFxU2NJX243VmZ2TFVITzV5SC1CNVZuZ212LVFETDUydTVvTUxIcWRrUzBkSG91RUZhR3h0ZmY3WDVtNXFHbXFrSzlSUVpSSlNRTjEydWlMMlBORG5hM2tobThZMklUd09idG1iUDZYUllHZm1GMFRua09kLVQ5VVZLazR5VjFPaTFMQzh5UUNwSG1vOG1LVFJ1ZFRnVUhBbFdFZGk4bk5TUlk0V2JmSmRBbzlzWmVlUElNVkxuTEVIUFE?oc=5",
       "medio": "IFM Noticias",
+      "fecha": "2026-10-16T07:00:00.000Z",
+      "imagen": "",
+      "tema": "SAE estafa falsos funcionarios"
+    },
+    {
+      "titulo": "SAE alerta por estafas con supuestas ventas de bienes, trámites y citas con directivos a cambio de dinero - Infobae",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPa1ZTZk56NGhMQXFfRng3RkdUbVdEeFF5MUw0dFY1UklNVHB1OFM1MHFlTjZkQlpVSjI4Uk9EOTFHdjktMGx5eEhCaE9VVlJfdklfTlFXNDlpbGNXUEMwNTJpYWljeGVPU2IxamZhY29qSnYwTndnYXJQc0huNnhIUHlZMEVVaHFWWkptWHhyakJ3dGNodm9iSXFhcV",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPa1ZTZk56NGhMQXFfRng3RkdUbVdEeFF5MUw0dFY1UklNVHB1OFM1MHFlTjZkQlpVSjI4Uk9EOTFHdjktMGx5eEhCaE9VVlJfdklfTlFXNDlpbGNXUEMwNTJpYWljeGVPU2IxamZhY29qSnYwTndnYXJQc0huNnhIUHlZMEVVaHFWWkptWHhyakJ3dGNodm9iSXFhcV9Ec2RSZmlBbkpUaEZjTHMwUkVEckY0WXJUbnVTR3JYSnBTbzFZaVJTZjlCcURUdGNRbmdKVTJQVkdicFZzVUdFN2IycHFsSdIB_gFBVV95cUxQNTRyaUt3aGNINnMtTC1HVmdnbGxPd2ZPaWs1aTdseXdJdzZ1R29feWdvbEswSnIwZmRmSjU2M05OUUJ3eXlWb1lfRmphWVRwaVhSTmlmc3lZeWtmTnRHU0VuRjlUdjcxRDFNZkdybjJRYmVFZmZOa01nS2g0UTRabmVnN2JaZVRlZmpkYXZrdHpINHRrVUhBVW9HQkJKWWJIQmhaS2h0RmFBQWRJZElrcjM4SWpySzRvNDFTVmFqNzlLcWVkc05sblZBN2Q2dDZmbWhULV9BSUxSdFNqczJ5eWk0V2pUTnZBaWZfRl9SSmhTbWVuWnplMm5acmY2dw?oc=5",
+      "medio": "Infobae",
       "fecha": "2026-10-16T07:00:00.000Z",
       "imagen": "",
       "tema": "SAE estafa falsos funcionarios"
